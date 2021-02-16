@@ -1,12 +1,12 @@
 survey,item,variable,values
-allbus,l_defect2,v379,"c(2, 1)"
-allbus,l_nomore2,v380,"c(2, 1)"
-allbus,l_health2,v381,"c(2, 1)"
-allbus,l_poor2,v382,"c(2, 1)"
-allbus,l_rape2,v383,"c(2, 1)"
-allbus,l_single2,v384,"c(2, 1)"
-allbus,l_any2,v385,"c(2, 1)"
-allbus,free7,v115,c(1:7)
+allbus,l_defect2,vm01,"c(2, 1)"
+allbus,l_nomore2,vm02,"c(2, 1)"
+allbus,l_health2,vm03,"c(2, 1)"
+allbus,l_poor2,vm04,"c(2, 1)"
+allbus,l_rape2,vm05,"c(2, 1)"
+allbus,l_single2,vm06,"c(2, 1)"
+allbus,l_any2,vm07,"c(2, 1)"
+allbus,free7,pa08,c(1:7)
 abcwapo199507,l_ncca4,q51,c(4:1)
 abcwapo199509,l_ncca4,q14,c(4:1)
 abcwapo199510,l_ncca4,q30,c(4:1)
