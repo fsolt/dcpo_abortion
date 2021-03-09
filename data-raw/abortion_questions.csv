@@ -1,1 +1,386 @@
 ﻿survey,item,variable,values,question_text,response_categories
+allbus,l_defect2,vm01,"c(2, 1)",Should abortion be permitted if strong chance of serious defect,1 Yes / 2 No
+allbus,l_nomore2,vm02,"c(2, 1)",Should abortion be permitted if married and doesn't want more children,1 Yes / 2 No
+allbus,l_health2,vm03,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+allbus,l_poor2,vm04,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+allbus,l_rape2,vm05,"c(2, 1)",Should abortion be permitted if rape victim,1 Yes / 2 No
+allbus,l_single2,vm06,"c(2, 1)",Should abortion be permitted if unmarried and does not want to marry man,1 Yes / 2 No
+allbus,l_any2,vm07,"c(2, 1)",Should abortion be permitted if woman wants for any reason,1 Yes / 2 No
+allbus,free7,pa08,c(1:7),Please tell me to what extent you agree with the following statements: Women should be allowed to decide for themsevles whether they want to have an abortion, 1 Completely disagree / 7 Agree completely
+abcwapo199507,l_ncca4,q51,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo199509,l_ncca4,q14,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo199510,l_ncca4,q30,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo199607,l_ncca4,q22,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo199608,l_ncca4,q44,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo199903,l_ncca4,q45,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo199908,l_ncca4,q42,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200007,l_ncca4,q22,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200009,l_ncca4,q18,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200101,l_ncca4,q32,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200101,l_health2,q33b,"c(2, 1)","Please say whether you think an abortion should be legal in that situation, or illegal: When the women's physical health is endangered",1 Legal / 2 Illegal
+abcwapo200101,l_rape2,q33c,"c(2, 1)","Please say whether you think an abortion should be legal in that situation, or illegal: When the pregnancy was caused by rape or incest", 1 Legal / 2 Illegal
+abcwapo200301,l_ncca4,q29,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / Illegal in all cases
+abcwapo200301,l_health2,q32b,"c(2, 1)","Please say whether you think an abortion should be legal in that situation, or illegal: When the women's physical health is endangered",1 Legal / 2 Illegal
+abcwapo200301,l_rape2,q32d,"c(2, 1)","Please say whether you think an abortion should be legal in that situation, or illegal: When the pregnancy was caused by rape or incest", 1 Legal / 2 Illegal
+abcwapo200405,l_ncca4,q32,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200412,l_ncca4,q23,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200505,l_ncca4,q21,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200512,l_ncca4,q35,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200702,l_ncca4,q44,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200707,l_ncca4,q49,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200711,l_ncca4,q32,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200712,l_ncca4,q34,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200801,l_ncca4,q26,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200806,l_ncca4,q30,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200808,l_ncca4,q33,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo200906,l_ncca4,q38,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo201107,l_ncca4,q35,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo201203,l_ncca4,q39,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+abcwapo201307,l_ncca4,q33,c(4:1),"Do you think abortion should be", 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+aes1987,l_n_an_a3,q39,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes1990,l_n_an_a3,f3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes1993,l_n_an_a3,e3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes1996,l_n_an_a3,e3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes1998,l_n_an_a3,e5,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes2001,l_n_an_a3,e3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes2004,l_n_an_a3,e3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes2007,l_n_an_a3,e3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes2010,l_n_an_a3,e3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes2013,l_n_an_a3,e3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+aes2016,l_n_an_a3,e3,c(3:1),Which one of theses statements comes closest to how you feel about abortion in Australia, 1 Women should be able to obtain an abortion readily when they want one / 2 Abortion should be allowed only in special circumstances / 3 Abortion should not be allowed under any circumstances
+amb_combo,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_combo,just_rape2,domw14b,"c(2, 1)",Do you agree with the termination of pregnancy in the event of incest or rape? (¿Está usted de acuerdo con la interrupción del embarazo en caso de incesto o violación sexual?),1 Yes / 2 No
+amb_combo,just_rape2,w14b,"c(2, 1)",Do you agree with the termination of pregnancy in the event of incest or rape? (¿Está usted de acuerdo con la interrupción del embarazo en caso de incesto o violación sexual?),1 Yes / 2 No
+amb_argentina2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_bolivia2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_brazil2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_chile2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_colombia2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_costarica2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_dominicanrepublic2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_dominicanrepublic2016,just_rape2,domw14b,"c(2, 1)",Do you agree with the termination of pregnancy in the event of incest or rape? (¿Está usted de acuerdo con la interrupción del embarazo en caso de incesto o violación sexual?),1 Yes / 2 No
+amb_ecuador2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_elsalvador2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_guatemala2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_haiti2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_honduras2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_jamaica2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_mexico2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_nicaragua2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_panama2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_paraguay2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_peru2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_uruguay2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+amb_venezuela2016,just_health2,w14a,"c(2, 1)","Do you think it's justified to interrupt a pregnancy, that is, to have an abortion, when the mother's health is in danger?", "1 Yes, justified / 2 No, not justified"
+anes_combo,l_ncca4,vcf0837 ,c(1:4),"Still on the subject of women's rights, there has been some discussion about abortion during recent years. Which one of the opinions on this page best agrees with your view? You can just tell me the number of the opinion you choose.","1 Abortion should never be permitted / 2 Abortion should be permitted only if the life and health of the woman is in danger. / 3 Abortion should be permitted if, due to personal reasons, the woman would have difficulty in caring for the child. / 4 Abortion should never be forbidden, since one should not require a woman to have a child she doesn't want."
+anes_combo,l_ncca4,vcf0838 ,c(1:4),There has been some discussion about abortion during recent years. Which one of the opinions on this page best agrees with your view? You can just tell me the number of the opinion you choose.,"1 Abortion should never be permitted / 2 The law should permit abortion only in case of rape, incest, or when the women's life is in danger / 3 The law should permit abortion for reasons other than rape, incest, or danger to the woman's life, but only after the need for the abortion has been clearly established. / 4 A woman should always be able to obtain an abortion as a matter of personal choice."
+anes2016,l_ncca4,v161232,c(1:4),There has been some discussion about abortion during recent years. Which one of the opinions on this page best agrees with your view? You can just tell me the number of the opinion you choose.,"1 Abortion should never be permitted / 2 The law should permit abortion only in case of rape, incest, or when the women's life is in danger / 3 The law should permit abortion for reasons other than rape, incest, or danger to the woman's life, but only after the need for the abortion has been clearly established. / 4 A woman should always be able to obtain an abortion as a matter of personal choice."
+arkolsky198905,l_health2,p28,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+arromer199111,l_n_an_a3,p168,c(1:3),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Not permitted / 2 Legal, only to save mother's life, rape, or incest / 3  Legal "
+arromer199408,a_defect2,p148,"c(2, 1)",Abortion when child physically handicapped,1 Approve / 2 Disapprove 
+arromer199408,a_health2,p149,"c(2, 1)",Abortion when the mothers health is at risk,1 Approve / 2 Disapprove
+arromer199603,l_n_an_a3,p134,c(1:3),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Not permitted / 2 Legal, only to save mother's life, rape, or incest / 3 Legal"
+asiab2004,just10,q45c,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+asiab2005,just10,q45c,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+asiab2006,just10,q50c,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+asiab2007,just10,q50c,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+autnes2017,free5a,w6_q26x1,c(5:1),"A pregnant woman should be able to obtain a legal abortion for any reason whatsoever, if she chooses not to have the baby.", 1 Strongly agree / 2 Agree / 3 Neither agree nor disagree / 4 Disagree / 5 Strongly disagree 
+brdir199309,l_n_an_a3,p6,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+brdir199503,l_n_an_a3,p17,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+bsa_combo,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa_combo,l_couple2,abort2,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple agree they do not wish to have the child,1 Yes / 2 No
+bsa_combo,l_single2,abort3,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman is not married and does not wish to marry the man,1 Yes / 2 No
+bsa_combo,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa_combo,l_defect2,abort5,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: There is a strong change of a defect in the baby, 1 Yes / 2 No
+bsa_combo,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+bsa_combo,l_rape2,abort7,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman became pregnant as a result of rape, 1 Yes / 2 No
+bsa1994,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa1994,l_couple2,abort2,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple agree they do not wish to have the child,1 Yes / 2 No
+bsa1994,l_single2,abort3,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman is not married and does not wish to marry the man,1 Yes / 2 No
+bsa1994,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa1994,l_defect2,abort5,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: There is a strong change of a defect in the baby, 1 Yes / 2 No
+bsa1994,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+bsa1994,l_rape2,abort7,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman became pregnant as a result of rape, 1 Yes / 2 No
+bsa1995,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa1995,l_couple2,abort2,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple agree they do not wish to have the child,1 Yes / 2 No
+bsa1995,l_single2,abort3,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman is not married and does not wish to marry the man,1 Yes / 2 No
+bsa1995,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa1995,l_defect2,abort5,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: There is a strong change of a defect in the baby, 1 Yes / 2 No
+bsa1995,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+bsa1995,l_rape2,abort7,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman became pregnant as a result of rape, 1 Yes / 2 No
+bsa1998,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa1998,l_couple2,abort2,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple agree they do not wish to have the child,1 Yes / 2 No
+bsa1998,l_single2,abort3,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman is not married and does not wish to marry the man,1 Yes / 2 No
+bsa1998,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa1998,l_defect2,abort5,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: There is a strong change of a defect in the baby, 1 Yes / 2 No
+bsa1998,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+bsa1998,l_rape2,abort7,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman became pregnant as a result of rape, 1 Yes / 2 No
+bsa2000,a_defect4,aborwrga,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion: If there is a trong chance of serious defect in the baby?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all
+bsa2000,a_poor4,aborwrgb,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion: If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all
+bsa2004,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa2004,l_couple2,abort2,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple agree they do not wish to have the child,1 Yes / 2 No
+bsa2004,l_single2,abort3,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman is not married and does not wish to marry the man,1 Yes / 2 No
+bsa2004,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa2004,l_defect2,abort5,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: There is a strong change of a defect in the baby, 1 Yes / 2 No
+bsa2004,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+bsa2004,l_rape2,abort7,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman became pregnant as a result of rape, 1 Yes / 2 No
+bsa2005,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa2005,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa2005,l_health2,abort6,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+bsa2007,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa2007,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa2007,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+bsa2008,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa2008,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa2008,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+bsa2010,a_defect4,aborwrga,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion: If there is a trong chance of serious defect in the baby?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all
+bsa2010,a_poor4,aborwrgb,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion: If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all
+bsa2012,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa2012,l_couple2,abort2,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple agree they do not wish to have the child,1 Yes / 2 No
+bsa2012,l_single2,abort3,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman is not married and does not wish to marry the man,1 Yes / 2 No
+bsa2012,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa2012,l_defect2,abort5,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: There is a strong change of a defect in the baby, 1 Yes / 2 No
+bsa2012,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+bsa2012,l_rape2,abort7,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman became pregnant as a result of rape, 1 Yes / 2 No
+bsa2016,l_any2,abort1,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman decides on her own she does not wish to have a child,1 Yes / 2 No
+bsa2016,l_poor2,abort4,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The couple cannot afford any more children, 1 Yes / 2 No
+bsa2016,l_health2,abort6,"c(2, 1)",Please say whether or not you think the law should allow an abortion in each case: The woman's health is seriously endangered by the pregnancy, 1 Yes / 2 No
+cces2014,l_any2,cc14_323_1,"c(2, 1)",Should abortion be permitted if woman wants for any reason,1 Yes / 2 No
+cces2015,l_any2,cc15_322a,"c(2, 1)",Should abortion be permitted if woman wants for any reason,1 Yes / 2 No
+cces2016,l_any2,cc16_332a,"c(2, 1)",Should abortion be permitted if woman wants for any reason,1 Yes / 2 No
+cbsnyt197710,l_doctor2,q28b,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+cbsnyt197911,l_doctor2,q41,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+cbsnyt198008,l_doctor2,v81,"c(3, 1)","If a woman wants to have an abortion and her doctor agrees to it, should she be allowed to have an abortion, or not?", 1 Should / 2 Depends (Volunteered) / 3 Should not
+cbsnyt198105,l_doctor2,q40,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+cbsnyt198106,l_doctor2,q25,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+cbsnyt198501,l_n_an_a3,q42,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+cbsnyt198511,l_n_an_a3,q9,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+cbsnyt198606,l_n_an_a3,q14,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+cbsnyt198705,l_n_an_a3,q21,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+cbsnyt198708,l_n_an_a3,q14,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+cbsnyt198807,l_n_an_a3,q31,"c(2, 1)","Should abortion be legal as it is now, OR legal ONLY in such cases as rape, incest, or to save the life of the mother, OR should it not be permitted at all?", "1 Legal as now / 2 Only for rape, incest, or to save mother"
+cbsnyt198810,l_n_an_a3,q20,"c(2, 1)","Should abortion be legal as it is now, OR legal ONLY in such cases as rape, incest, or to save the life of the mother, OR should it not be permitted at all?", "1 Legal as now / 2 Only for rape, incest, or to save mother"
+cbsnyt198901,l_n_an_a3,q47,"c(2, 1)","Should abortion be legal as it is now, OR legal ONLY in such cases as rape, incest, or to save the life of the mother, OR should it not be permitted at all?", "1 Legal as now / 2 Only for rape, incest, or to save mother"
+cbsnyt198901,l_doctor2,q22,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+cbsnyt198905,l_doctor2,q7,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+cbsnyt198905,l_n_an_a3,q8,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+cbsnyt198905,l_defect2,q14a,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+cbsnyt198905,l_single2,q14b,"c(2, 1)",Should abortion be permitted if unmarried and does not want to marry man,1 Yes / 2 No
+cbsnyt198905,l_health2,q14c,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+cbsnyt198905,l_poor2,q14d,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+cbsnyt198909,l_n_an_a3,q15,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+cbsnyt198909,l_doctor2,q16,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+cbsnyt198909,l_defect2,q19e,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+cbsnyt198909,l_single2,q19b,"c(2, 1)",Should abortion be permitted if unmarried and does not want to marry man,1 Yes / 2 No
+cbsnyt198909,l_health2,q19a,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+cbsnyt198909,l_poor2,q19c,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+cbsnyt198909,l_rape2,q19g,"c(2, 1)",Should abortion be permitted if rape victim,1 Yes / 2 No
+cbsnyt199801,l_doctor2,q22,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+cbsnyt199801,l_defect2,q37,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+cbsnyt199801,l_nomore2,q38,"c(2, 1)",Should abortion be permitted if married and doesn't want more children,1 Yes / 2 No
+cbsnyt199801,l_health2,q39,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+cbsnyt199801,l_poor2,q40,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+cbsnyt199801,l_rape2,q41,"c(2, 1)",Should abortion be permitted if rape victim,1 Yes / 2 No
+cbsnyt199801,l_single2,q44,"c(2, 1)",Should abortion be permitted if unmarried and does not want to marry man,1 Yes / 2 No
+cdcee,free4,v234,c(4:1),Abortions should be allowed for every woman, 1 Agree completely / 2 Agree partially / 3 Disagree partially / 4 Disagree completely
+chcep199012,l_n_an_a3,p21,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+chcep199109,l_n_an_a3,p25,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+chcep199909,l_n_an_a3,p40,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
+chcep200803,just10,mbp45,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+chcep200806,a_defect4,te3p05_a,c(4:1),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Not wrong at all / 2 Wrong only sometimes / 3 Almost always wrong / 4 Always wrong
+chcep200806,a_poor4,te3p05_b,c(4:1),If the family has a very low income and cannot afford any more children?, 1 Not wrong at all / 2 Wrong only sometimes / 3 Almost always wrong / 4 Always wrong
+eb11,free4,v78,c(4:1),Women should be free to decide for themselves in matters concerning abortion?, 1 Agree strongly / 2 Agree / 3 Disagree / 4 Disagree strongly
+eb21,free5b,v133,c(1:5), Liberalisation of abortion is a good thing, 1 Disagree completely / 2 Disagree to some extent / 3 Agree if anything / 4 Broadly agree / 5 Completely agree
+eb38,free5,v492,c(5:1),Abortion up to individual decision, 1 Agree strongly / 2 Agree somewhat / 3 undecided / 4 Disagree somewhat / 5 Disagree strongly
+evs_combo,just10,f120,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+evs_combo,a_health2,a046,c(0:1),Abortion when the mothers health is at risk,0 Disapprove / 1 Approve
+evs_combo,a_defect2,a047,c(0:1),Abortion when child physically handicapped,0 Disapprove / 1 Approve
+evs_combo,a_single2,a048,c(0:1),Abortion when woman not married,0 Disapprove / 1 Approve
+evs_combo,a_nomore2,a049,c(0:1),Abortion if not wanting more children,0 Disapprove / 1 Approve
+evs2017,just10,v154,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+frifop197211,l_nomore2,ql_3,"c(2, 1)",Should abortion be permitted if married and doesn't want more children,1 Yes / 2 No
+gallup_canada1965,l_health2,q10b,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+gallup_canada1970,l_any2,q9,"c(2, 1)",Should abortion be permitted if woman wants for any reason,1 Yes / 2 No
+gallup_canada1972,l_doctor2,q6a,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+gallup_canada197409,l_doctor2,q07a,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+gallup_canada197507,l_n_an_a3,q10a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada197902,l_doctor2,q1a,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+gallup_canada198307,l_n_an_a3,q13a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada198805,l_n_an_a3,q10a,"c('3', '2', '1')","What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada198809,l_n_an_a3,q07a,"c('3', '2', '1')","What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada198902,l_n_an_a3,q3a,"c('3', '2', '1')","What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada198908,l_n_an_a3,q6a,"c('3', '2', '1')","What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada198912,l_n_an_a3,q3a,"c('3', '2', '1')","What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada199009,l_n_an_a3,q11a,"c('3', '2', '1')","What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada199105,l_n_an_a3,q5a,"c('3', '2', '1')","What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada199209,l_n_an_a3,q8b,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada199306,l_n_an_a3,q4a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada199508,l_n_an_a3,q9a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada199711,l_n_an_a3,q6a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada199811,l_n_an_a3,q5a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada199911,l_n_an_a3,q4a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_canada200011,l_n_an_a3,q9a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_uk196910,l_n_an_a3,q25,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_uk197311,l_n_an_a3,q28,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_uk197501,l_n_an_a3,q31,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+gallup_uk198202,l_health2,q21a,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+gallup_uk198202,l_defect2,q21b,"c(5, 4)",Strong chance of a defect in baby, 4 Yes / 5 No
+gallup_uk198202,l_single2,q21c,"c(8, 7)",Woman is unmarried and does not wish to marry the man, 7 Yes / 8 No
+gallup_uk198202,l_nomore2,q21d_1,"c(1, 0)",Should abortion be permitted if married and doesn't want more children,0 Yes / 1 No
+gallup_uk198202,l_doctor2,q23,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+gallup_us196208,l_health2,q21a,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+gallup_us196208,l_defect2,q21b,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+gallup_us196208,l_poor2,q21c,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+gallup_us196512,l_health2,q25a,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+gallup_us196512,l_defect2,q25b,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+gallup_us196512,l_poor2,q25c,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+gallup_us196909,l_health2,q44a,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+gallup_us196909,l_defect2,q44b,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+gallup_us196909,l_poor2,q44c,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+gallup_us196909,l_nomore2,q44d,"c(2, 1)",Should abortion be permitted if married and doesn't want more children,1 Yes / 2 No
+issp1991,a_defect4,v14,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp1991,a_poor4,v15,c(1:4),If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp1991,l_defect4,v12,c(1:4),Do you think the law should or should not allow a woman to obtain a legal abortion, 1 Definitely should allow it / 2 Probably should allow it / 3 Probably should not allow it / 4 Definitely should not allow it
+issp1991,l_poor4,v13,c(1:4),If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp1994,free5a,v44,c(5:1),"A pregnant woman should be able to obtain a legal abortion for any reason whatsoever, if she chooses not to have the baby.", 1 Strongly agree / 2 Agree / 3 Neither agree nor disagree / 4 Disagree / 5 Strongly disagree 
+issp1998,a_defect4,v10,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp1998,a_poor4,v11,c(1:4),If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp1998br,a_defect4,abdefctw,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp1998br,a_poor4,abpoorw,c(1:4),If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp2008,a_defect4,v10,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp2008,a_poor4,v11,c(1:4),If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp2008a,a_defect4,v10,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp2008a,a_poor4,v11,c(1:4),If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp2008ca,a_defect4,v10,c(1:4),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+issp2008ca,a_poor4,v11,c(1:4),If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all 
+itdoxa199303,l_health2,q03_3,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+itdoxa199303,l_defect2,q03_2,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+itdoxa199303,l_rape2,q03_4,"c(2, 1)",Pregnant as result of rape,1 Yes / 2 No 
+itdoxa199303,l_poor2,q03_5,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+itdoxa199303,l_any2,q03_6,"c(2, 1)",Should abortion be permitted if woman wants for any reason,1 Yes / 2 No
+kgss,free5a,abchoose,c(5:1),"A pregnant woman should be able to obtain a legal abortion for any reason whatsoever, if she chooses not to have the baby", 1 Strongly agree / 2 Somewhat agree / 3 Neither agree nor disagree / 4 Somewhat disagree / 5 Strongly diagree
+lat200006,l_n_an_a3,q24,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+lat200006,l_defect2,q30,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+lat200006,l_health2,q31,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+lat200006,l_poor2,q33,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+lat200006,l_rape2,q34,"c(2, 1)",Pregnant as result of rape,1 Yes / 2 No 
+lat200301,l_ncca4,abortion,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+lat200311,l_ncca4,abortion,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+lat200501,l_ncca4,abortion,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+lat200605,l_ncca4,abortion,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+lat200710,l_ncca4,abortion,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+lat200712,l_ncca4,abortion,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+lb2002,just10,p52wvsd,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+lb2004,just10,p38stb,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+lb2007,just10,p95st_b,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+lb2015,just10,p70st,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+nbc198507,l_doctor2,q8,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+nbcwsj199106,l_n_an_a3,q76,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj199306,govint4,q15f,c(4:1),The government should not interfere with a woman's ability to have an abortion., 1 Completely agree / 2 Mostly agree / 3 Mostly disagree / Completely diagree
+nbcwsj199406,govint4,q12a8,c(4:1),The government should not interfere with a woman's ability to have an abortion., 1 Completely agree / 2 Mostly agree / 3 Mostly disagree / Completely diagree
+nbcwsj199512,l_n_an_a3,q13,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj199603,l_n_an_a3,q17,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj199605,l_n_an_a3,q20,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj199606,l_n_an_a3,q19b,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj199608,l_n_an_a3,q15a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj199609,l_n_an_a3,q27,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj199801,l_n_an_a3,q16d,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj199802,l_ncca4,q16,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+nbcwsj200001,l_n_an_a3,q22b,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj200006,l_n_an_a3,q20,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj200007,l_n_an_a3,q28,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj200301,l_n_an_a3,q41b,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj200311,l_n_an_a3,q37,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj200505,l_n_an_a3,q37,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj200705,l_n_an_a3,q33a,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+nbcwsj200910,l_n_an_a3,q42,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+npes_combo,free7,v44_5,c(1:7),Please tell me to what extent you agree with the following statements: Women should be allowed to decide for themsevles whether they want to have an abortion, 1 Completely disagree / 7 Agree completely
+pew2013,moral3,q84c,"c(2, 3, 1)",Do you personally believe that abortion is, 1 Morally acceptable / 2 Morally wrong / 3 Not a moral issue
+pew2014_india,moral3,q84c,"c(2, 3, 1)",Do you personally believe that abortion is, 1 Morally acceptable / 2 Morally wrong / 3 Not a moral issue
+pew2017,l_ncca4,legalabortion,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+pewrel2006_10nat,just3,q29h,c(3:1),Abortion can be justified?, 1 Always justified / 2 Somtimes justified / 3 Never justified
+pewrel2006_10nat,govint4,q36c,c(4:1), The government should not interfere with a woman's ability to have an abortion., 1 Completely agree / 2 Mostly agree / 3 Mostly disagree / Completely diagree
+pewrel2009_afr,moral3,q85h,"c(2, 3, 1)",Do you personally believe that abortion is, 1 Morally acceptable / 2 Morally wrong / 3 Not a moral issue
+pewrel2014_latam,moral3,q69e,"c(2, 3, 1)",Do you personally believe that abortion is, 1 Morally acceptable / 2 Morally wrong / 3 Not a moral issue
+pewrel2014_latam,l_ncca4,q16,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+pewrel2015_ee,l_ncca4,q11,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+pewrel2015_ee,moral3,q71e,"c(2, 3, 1)",Do you personally believe that abortion is, 1 Morally acceptable / 2 Morally wrong / 3 Not a moral issue
+pewrel2017_we,l_ncca4,q6,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+pgss,l_defect2,q102a,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+pgss,l_nomore2,q102b,"c(2, 1)",Should abortion be permitted if married and doesn't want more children,1 Yes / 2 No
+pgss,l_health2,q102c,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+pgss,l_poor2,q102d,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+pgss,l_rape2,q102e,"c(2, 1)",Pregnant as result of rape,1 Yes / 2 No 
+pgss,l_single2,q102f,"c(2, 1)",Not married,1 Yes / 2 No 
+pgss,l_any2,q102g,"c(2, 1)",Should abortion be permitted if woman wants for any reason,1 Yes / 2 No
+pipa200711,free2,a1,"c(1, 2)",Liberalisation of abortion is a good thing, 1 Disagree / 2 Agree
+politbarometer_east1991,l_ncca4,v182,c(1:4),What do you think about abortion, 1 Prohibited without exception / 2 conditionally prohibited / 3 up to 3rd month / 4 Always be unpunished
+politbarometer_east1992,l_ncca4,v220,c(1:4),What do you think about abortion, 1 Prohibited without exception / 2 conditionally prohibited / 3 up to 3rd month / 4 Always be unpunished
+politbarometer_east1993,l_ncca4,v229,c(1:4),What do you think about abortion, 1 Prohibited without exception / 2 conditionally prohibited / 3 up to 3rd month / 4 Always be unpunished
+politbarometer_east1995,l_ncca4,v211,c(1:4),What do you think about abortion, 1 Prohibited without exception / 2 conditionally prohibited / 3 up to 3rd month / 4 Always be unpunished
+politbarometer_west_combo,l_ncca4,v32,c(1:4),What do you think about abortion, 1 Prohibited without exception / 2 conditionally prohibited / 3 up to 3rd month / 4 Always be unpunished
+prri2011_mra,l_defect2,q10c,"c(2, 1)",Should abortion be permitted if strong chance of serious defect, 1 Yes / 2 No
+prri2011_mra,l_health2,q10a,"c(2, 1)",Should abortion be permitted if health is endangered by pregnancy,1 Yes / 2 No
+prri2011_mra,l_poor2,q10f,"c(2, 1)",Should abortion be permitted if family is very low income and cannot afford more children,1 Yes / 2 No
+prri2011_mra,l_rape2,q10d,"c(2, 1)",Pregnant as result of rape,1 Yes / 2 No 
+prri2011_mra,l_single2,q10e,"c(2, 1)",Not married,1 Yes / 2 No 
+prri2011_mra,l_ncca4,q6,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+ptvs2008,free5,ccs_g21_11,c(1:5),Liberalisation of abortion is a good thing, 1 Disagree completely / 2 Disagree to some extent / 3 Agree if anything / 4 Broadly agree / 5 Completely agree
+ptvs2012,free5,h.25.6,c(1:5),Liberalisation of abortion is a good thing, 1 Disagree completely / 2 Disagree to some extent / 3 Agree if anything / 4 Broadly agree / 5 Completely agree
+usap198009,l_doctor2,q19,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+usap198010,l_doctor2,q24,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+usap198901,l_doctor2,ai1,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+usap198901,l_n_an_a3,ai2,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usap198907,l_doctor2,ab1,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+usap199205,l_doctor2,ap1,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+usap199502,l_doctor2,ap5,"c(2, 1)",The right of a wman to have an abortion should be left entirely the women and her doctor, 1 Agree / 2 Disagree
+usgss,l_defect2,abdefect,"c(2, 1)",Strong chance of serious defect, 1 Yes / 2 No
+usgss,l_nomore2,abnomore,"c(2, 1)",Married--Wants no more children,1 Yes / 2 No
+usgss,l_health2,abhlth,"c(2, 1)", Women's health seriously,1 Yes / 2 No
+usgss,l_poor2,abpoor,"c(2, 1)", Low income--cant afford more children,1 Yes / 2 No
+usgss,l_rape2,abrape,"c(2, 1)", Pregnant as result of rape,1 Yes / 2 No 
+usgss,l_single2,absingle,"c(2, 1)", Not married,1 Yes / 2 No 
+usgss,l_any2,abany,"c(2, 1)",Abortion if woman wants for any reason,1 Yes / 2 No 
+usnwr198706,l_n_an_a3,q22,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+uspew1996_05pol,l_ncca4,q14,c(4:1), Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2006_02nii,moral3,q47f2a,"c(2, 3, 1)",Do you personally believe that abortion is, 1 Morally acceptable / 2 Morally wrong / 3 Not a moral issue
+uspew2007_rls,l_ncca4,q7,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2007_rel,l_ncca4,q5,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2007_prim,l_ncca4,q37,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2007_05st,l_ncca4,q47,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2007_10pol,l_ncca4,q56,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2008_vote,l_ncca4,q63,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2008_rel,l_ncca4,q26,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2008_10mid,l_ncca4,q34f2,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2009_rel,l_ncca4,q125,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2009_rel,moral3,q180a,"c(2, 3, 1)",Do you personally believe that abortion is, 1 Morally acceptable / 2 Morally wrong / 3 Not a moral issue
+uspew2009_val,l_ncca4,q12f2,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2010_rel,l_ncca4,q13,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2011_typo,l_ncca4,qa62,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2011_09gen,l_ncca4,q70,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2011_11pol,l_ncca4,q71,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2012_02pol,moral3,q40c,"c(2, 3, 1)",Do you personally believe that abortion is, 1 Morally acceptable / 2 Morally wrong / 3 Not a moral issue
+uspew2012_05val,l_ncca4,q19fa,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2012_07ial,l_ncca4,q5,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2012_10late,l_ncca4,q46,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2013_07pol,l_ncca4,q40,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2014_9rel,l_ncca4,q18,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2015_05mra,l_ncca4,q14,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2015_09pol,l_ncca4,q7,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2016_3pol,l_ncca4,q75,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2016_10pol,l_ncca4,q93f1,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+uspew2018_09pol,l_ncca4,q78,c(4:1),Do you think abortion should be, 1 Legal in all cases / 2 Legal in most cases / 3 Illegal in most cases / 4 Illegal in all cases
+usvcu2001,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usvcu2002,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usvcu2003,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usvcu2004,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usvcu2005,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usvcu2006,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usvcu2007,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usvcu2008,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+usvcu2010,l_n_an_a3,abort,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 any / 2 certain / 3 none"
+wvs_combo,just10,f120,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
+wvs_combo,a_health2,a046,c(0:1),Abortion when the mothers health is at risk,0 Disapprove / 1 Approve
+wvs_combo,a_defect2,a047,c(0:1),Abortion when child physically handicapped,0 Disapprove / 1 Approve
+wvs_combo,a_single2,a048,c(0:1),Abortion when woman not married,0 Disapprove / 1 Approve
+wvs_combo,a_nomore2,a049,c(0:1),Abortion if not wanting more children,0 Disapprove / 1 Approve
