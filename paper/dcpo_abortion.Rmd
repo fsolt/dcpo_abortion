@@ -325,9 +325,10 @@ save(dcpo_input_public, file = here::here("data", "dcpo_input_public.rda"))
 ## What Alters Abortion Attitudes: Alternative Explanations
 
 1. Institutionalization: abortion attitudes is led by the legalization of abortion.
-1. Culturalism: abortion attitudes is changed with the advance of socioeconomic and post-materialism development
+1. Culturalism: abortion attitudes is changed with the advance of socioeconomic and post-materialism development (gender egalitarianism)
 1. Ideology: abortion attitudes is driven by dominated political ideology, conservative, liberal, socialism, etc. 
 1. Inequality: riches always have ways to abort if they want, but they are also benefited by cheap labors mainly from poor kids.
+
 
 ## Empirical Research
 
