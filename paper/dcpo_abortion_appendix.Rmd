@@ -45,7 +45,7 @@ set.seed(324)
 load(here::here("data", "dcpo_input.rda"))
 load(here::here("data", "dcpo_output.rda"))
 
-dcpo_input_raw_public <- read_csv(here::here("data", "dcpo_input_raw_public.csv"),
+dcpo_input_raw_public <- read_csv(here::here("data", "dcpo_input_raw.csv"),
                                   col_types = "cdcddcd")
 
 process_dcpo_input_raw <- function(dcpo_input_raw_df) {
@@ -58,7 +58,7 @@ process_dcpo_input_raw <- function(dcpo_input_raw_df) {
   arrange(-cc_rank)
 } 
 
-dcpo_input_raw_public1 <- process_dcpo_input_raw(dcpo_input_raw_public)
+dcpo_input_raw1 <- process_dcpo_input_raw(dcpo_input_raw)
 
 ab_items <- read_csv(here::here("data-raw", "abortion_questions.csv"),
                       col_types = "cccccc")
