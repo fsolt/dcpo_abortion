@@ -317,6 +317,48 @@ dcpo_input_public <- DCPOtools::format_dcpo(dcpo_input_raw1,
 save(dcpo_input_public, file = here::here("data", "dcpo_input_public.rda"))
 ```
 
+## Abortion: Global Status and Attitudes
+
+[Literature review]
+
+## What Alters Abortion Attitudes: Alternative Explanations
+
+1. Institutionalization: abortion attitudes is led by the legalization of abortion.
+
+
+1. Culturalism: abortion attitudes is changed with the advance of socioeconomic and post-materialism development (gender egalitarianism)
+1. Ideology: abortion attitudes is driven by dominated political ideology, conservative, liberal, socialism, etc. 
+1. Inequality: riches always have ways to abort if they want, but they are also benefited by cheap labors mainly from poor kids. (Ref. religion-inequality)
+
+
+## Empirical Research
+
+### Data and Methods
+
++ DCPO abortion data 
++ Abortion laws around the world
++ Post-materialist stages (MrsP?)
++ Ideological trend (any data?)
++ Inequality (SWIID)
+
+## Research Design
+
+lagged regressions or other time-series/CSTS techniques?
+
+Dynamic time-series effect
+Policy feedback
+
+1. Great data
+1. Congruence of public opinion and policy
+1. Individual time-series: adoption makes a different to opinion
+    + DID / RD
+1. A subset of country: abortion legalized by judicial ruling -> as if random
+    + abortion attitude (lag) -> legalization
+
+### Results
+
+## Summary and Discussion
+
 
 ## Abortion: Global Status and Attitudes
 
