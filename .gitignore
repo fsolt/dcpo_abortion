@@ -1,6 +1,7 @@
 .Rproj.user
 .Rhistory
 .RData
+<<<<<<< HEAD
 .DS_Store
 *.aux
 *.bbl
@@ -22,3 +23,7 @@ paper/ts*
 data/kfold/*fold*
 data/kfold/*/*fold*
 data/old/*
+.Ruserdata
+*_cache/
+reference/
+~$*
