@@ -62,6 +62,8 @@ library(rsdmx)
 set.seed(324)
 ```
 
+
+
 ```{r dcpo_input_raw, include=FALSE}
 surveys_ab <- read_csv(here::here("data-raw", "surveys_abortion.csv"),
                         col_types = "cccc")
@@ -150,7 +152,7 @@ Viewed from this complete-data perspective, the available data can be seen to be
 From a more optimistic standpoint, we note there there are `r n_cy` country-years in which we have at least _some_ information about the public gender egalitarianism of the population, that is, some `r {back_to_numeric(n_cy)/back_to_numeric(spanned_cy) * 100} %>% round()`% of the `r spanned_cy` country-years spanned by the data we collected.
 But there can be no denying that the many different survey items employed renders these data incomparable and difficult to use together.
 
-```{r item_and_country_plots, fig.height = 3.5, fig.cap = "Countries and Years with the Most Observations in the PGE Source Data \\label{item_country_plots}"}
+```{r item_and_country_plots, fig.height = 3.5, fig.cap = "Countries and Years with the Most Observations in the Abortion Attitudes Source Data \\label{item_country_plots}"}
 items_plot <- dcpo_input_raw1 %>%
   distinct(country, year, item) %>%
   count(item) %>%
@@ -317,7 +319,6 @@ dcpo_input_public <- DCPOtools::format_dcpo(dcpo_input_raw1,
 save(dcpo_input_public, file = here::here("data", "dcpo_input_public.rda"))
 ```
 
-
 ## Abortion: Global Status and Attitudes
 
 [Literature review]
@@ -345,5 +346,6 @@ lagged regressions or other time-series/CSTS techniques?
 ### Results
 
 ## Summary and Discussion
+
 
 \pagebreak
