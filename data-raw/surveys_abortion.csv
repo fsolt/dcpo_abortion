@@ -238,6 +238,15 @@ evs_combo,a_nomore2,a049,c(0:1)
 evs2008,just10,v241,c(1:10)
 evs2008,a_single2,v184,c(0:1)
 evs2008,a_nomore2,v185,c(0:1)
+evs1999ger,a_single2,v177,c(0:1)
+evs1999ger,a_nomore2,v178,c(0:1)
+evs1999ger,just10,v233,c(1:10)
+evs1999fin,a_single2,v177,c(0:1)
+evs1999fin,a_nomore2,v178,c(0:1)
+evs1999fin,just10,v233,c(1:10)
+evs1999tur,a_single2,v177,c(0:1)
+evs1999tur,a_nomore2,v178,c(0:1)
+evs1999tur,just10,v233,c(1:10)
 evs2017,just10,v154,c(1:10)
 evs2017grc,just10,v154,c(1:10)
 frifop197211,l_nomore2,ql_3,"c(2, 1)"
@@ -295,6 +304,7 @@ issp2008a,a_defect4,v10,c(1:4)
 issp2008a,a_poor4,v11,c(1:4)
 issp2008ca,a_defect4,v10,c(1:4)
 issp2008ca,a_poor4,v11,c(1:4)
+issp2018,a_poor4,v5,c(1:4)
 itdoxa199303,l_health2,q03_3,"c(2, 1)"
 itdoxa199303,l_defect2,q03_2,"c(2, 1)"
 itdoxa199303,l_rape2,q03_4,"c(2, 1)"
@@ -358,6 +368,7 @@ pewrel2014_latam,l_ncca4,q16,c(4:1)
 pewrel2015_ee,l_ncca4,q11,c(4:1)
 pewrel2015_ee,moral3,q71e,"c(2, 3, 1)"
 pewrel2017_we,l_ncca4,q6,c(4:1)
+pewrel2017_us,moral3,moralissueb_w30,"c(2, 3, 1)"
 pgss,l_defect2,q102a,"c(2, 1)"
 pgss,l_nomore2,q102b,"c(2, 1)"
 pgss,l_health2,q102c,"c(2, 1)"
@@ -422,6 +433,7 @@ uspew2015_09pol,l_ncca4,q7,c(4:1)
 uspew2016_3pol,l_ncca4,q75,c(4:1)
 uspew2016_10pol,l_ncca4,q93f1,c(4:1)
 uspew2018_09pol,l_ncca4,q78,c(4:1)
+uspew2019_07pol,l_ncca4,q63,c(4:1)
 usvcu2001,l_n_an_a3,abort,c(3:1)
 usvcu2002,l_n_an_a3,abort,c(3:1)
 usvcu2003,l_n_an_a3,abort,c(3:1)
