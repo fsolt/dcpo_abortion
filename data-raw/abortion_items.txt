@@ -34,6 +34,12 @@
 		X USGSS
 		X ALLBUS
 
+	l_defect5
+		nsss_combo 84, 86
+	l_defect4
+		issp1991, nsss1989, nsss1993, nsss1994
+
+
 	l_nomore if married and doesn't want more children
 		X USGSS
 		X ALLBUS
@@ -60,6 +66,8 @@
 
 	l_doctor if agreed upon by woman and her physician
 	l_3mos if within 3 months
+		France IFOP 1971, 1969 4 pt (at Roper Center; next year in France is 1990)
+		
 	l_5mos if within 5 months
 
 *should be allowed: 0 never, 1 circumstances [health, health or hardship], 2 always
