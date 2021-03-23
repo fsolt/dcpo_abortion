@@ -187,8 +187,8 @@ chcep199012,l_n_an_a3,p21,c(3:1),"What do you think about abortion? Should it be
 chcep199109,l_n_an_a3,p25,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
 chcep199909,l_n_an_a3,p40,c(3:1),"What do you think about abortion? Should it be legal as it is now, legal only in such cases as saving the life of the mother, rape or incest, or should it not be permitted at all?", "1 Legal / 2 Legal, only to save mother's life, rape, or incest / 3 Not permitted"
 chcep200803,just10,mbp45,c(1:10),Justifiable Abortion, 1 Never justifiable / 10 Always justifiable
-chcep200806,a_defect4,te3p05_a,c(4:1),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Not wrong at all / 2 Wrong only sometimes / 3 Almost always wrong / 4 Always wrong
-chcep200806,a_poor4,te3p05_b,c(4:1),If the family has a very low income and cannot afford any more children?, 1 Not wrong at all / 2 Wrong only sometimes / 3 Almost always wrong / 4 Always wrong
+chcep200806,a_defect4,te3p05_a,c(4:1),Do you personally think it is wrong or not wrong for a woman to have an abortion, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all
+chcep200806,a_poor4,te3p05_b,c(4:1),If the family has a very low income and cannot afford any more children?, 1 Always wrong / 2 Almost always wrong / 3 Wrong only sometimes / 4 Not wrong at all
 eb11,free4,v78,c(4:1),Women should be free to decide for themselves in matters concerning abortion?, 1 Agree strongly / 2 Agree / 3 Disagree / 4 Disagree strongly
 eb21,free5b,v133,c(1:5), Liberalisation of abortion is a good thing, 1 Disagree completely / 2 Disagree to some extent / 3 Agree if anything / 4 Broadly agree / 5 Completely agree
 eb38,free5,v492,c(5:1),Abortion up to individual decision, 1 Agree strongly / 2 Agree somewhat / 3 undecided / 4 Disagree somewhat / 5 Disagree strongly
