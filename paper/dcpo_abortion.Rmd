@@ -325,6 +325,7 @@ save(dcpo_input_public, file = here::here("data", "dcpo_input_public.rda"))
 
 1. Institutionalization: abortion attitudes is led by the legalization of abortion.
 
+Controls
 
 1. Culturalism: abortion attitudes is changed with the advance of socioeconomic and post-materialism development (gender egalitarianism)
 1. Ideology: abortion attitudes is driven by dominated political ideology, conservative, liberal, socialism, etc. 
@@ -335,25 +336,23 @@ save(dcpo_input_public, file = here::here("data", "dcpo_input_public.rda"))
 
 ### Data and Methods
 
+Explanatory and outcome variables
+
 + DCPO abortion data 
 + Abortion laws around the world
+
+Controls
+
 + Post-materialist stages (MrsP?)
 + Ideological trend (any data?)
 + Inequality (SWIID)
 
 ## Research Design
 
-lagged regressions or other time-series/CSTS techniques?
-
-Dynamic time-series effect
-Policy feedback
-
 1. Great data
 1. Congruence of public opinion and policy
-1. Individual time-series: adoption makes a different to opinion
-    + DID / RD
-1. A subset of country: abortion legalized by judicial ruling -> as if random
-    + abortion attitude (lag) -> legalization
+1. Individual time-series: adoption makes a different to opinion (RD)
+    + abortion attitude (lag) -> legalization: abortion legalized by judicial ruling -> as if random
 
 ### Results
 
