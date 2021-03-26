@@ -287,9 +287,10 @@ gallup_us196909,l_health2,q44a,"c(2, 1)"
 gallup_us196909,l_defect2,q44b,"c(2, 1)"
 gallup_us196909,l_poor2,q44c,"c(2, 1)"
 gallup_us196909,l_nomore2,q44d,"c(2, 1)"
-gps2014,restrict_access,answer_20,c(5:1)
+gps2014,restrict5,answer_20,c(5:1)
+iears2018,free11,abortion,c(0:10)
 iemrbi200202,l_n_an_a3,q12,c(3:1)
-ispas2001,just11,a4_2,c(0:11)
+ispas2001,just11,a4_2,c(0:10)
 issp1991,a_defect4,v14,c(1:4)
 issp1991,a_poor4,v15,c(1:4)
 issp1991,l_defect4,v12,c(1:4)
@@ -311,7 +312,6 @@ itdoxa199303,l_defect2,q03_2,"c(2, 1)"
 itdoxa199303,l_rape2,q03_4,"c(2, 1)"
 itdoxa199303,l_poor2,q03_5,"c(2, 1)"
 itdoxa199303,l_any2,q03_6,"c(2, 1)"
-irs2018,free11,abortion,c(0:10)
 kgss,free5a,abchoose,c(5:1)
 lat200006,l_n_an_a3,q24,c(3:1)
 lat200006,l_defect2,q30,"c(2, 1)"

@@ -70,6 +70,9 @@
 		
 	l_5mos if within 5 months
 
+	l_never2 make abortions illegal in all circumstances
+
+
 *should be allowed: 0 never, 1 circumstances [health, health or hardship], 2 always
 *women should have the right to abortion and this should be protected by law
 	l_ncca4
