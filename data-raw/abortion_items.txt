@@ -78,9 +78,15 @@
 	l_ncca4
 		X USGSS
 
-	l_n_an_a3
+	l_n_an_a3 [specifies particular rare conditions: e.g., rape, life, incest]
+	Which of the following best represents your views about abortion--the choice on abortion should be left up to the woman and her doctor, abortion should be legal only in cases where pregnancy results from rape or incest, or when the life of the woman is at risk, or abortion should be illegal in all circumstances?
 		X lat200006
 		X arromer199111
+
+	l_nca3 [does not specify conditions, only says "certain", "special", "particular", etc.]
+Do you think a woman should: always have a choice to have an abortion regardless of the circumstances; should she have a choice under certain circumstances or should she have no choice under any circumstances.
+		iccp2004
+
 
 *The government should not interfere with a woman’s ability to have an abortion
 	govint4
