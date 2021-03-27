@@ -287,7 +287,7 @@ gallup_us196909,l_health2,q44a,"c(2, 1)"
 gallup_us196909,l_defect2,q44b,"c(2, 1)"
 gallup_us196909,l_poor2,q44c,"c(2, 1)"
 gallup_us196909,l_nomore2,q44d,"c(2, 1)"
-gps2014,restrict5,answer_20,c(5:1)
+gps2014,restrict5,answer_21,c(5:1)
 iears2018,free11,abortion,c(0:10)
 iemrbi200202,l_n_an_a3,q12,c(3:1)
 ispas2001,just11,a4_2,c(0:10)
