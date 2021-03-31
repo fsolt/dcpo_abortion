@@ -91,8 +91,8 @@ amb_suriname2012,just_health2,w14a,"c(2, 1)"
 amb_trinidad2012,just_health2,w14a,"c(2, 1)"
 amb_us2012,just_health2,w14a,"c(2, 1)"
 amb_us2014,just_health2,w14a,"c(2, 1)"
-anes_combo2016,l_ncca4,vcf0837 ,c(1:4)
-anes_combo2016,l_ncca4,vcf0838 ,c(1:4)
+anes_combo,l_ncca4,vcf0837 ,c(1:4)
+anes_combo,l_ncca4,vcf0838 ,c(1:4)
 anes2020,l_ncca4,v201336,c(1:4)
 arkolsky198905,l_health2,p28,"c(2, 1)"
 arromer199111,l_n_an_a3,p168,c(1:3)
@@ -236,9 +236,6 @@ evs_combo,a_health2,a046,c(0:1)
 evs_combo,a_defect2,a047,c(0:1)
 evs_combo,a_single2,a048,c(0:1)
 evs_combo,a_nomore2,a049,c(0:1)
-evs1999ger,a_single2,v177,c(0:1)
-evs1999ger,a_nomore2,v178,c(0:1)
-evs1999ger,just10,v233,c(1:10)
 evs1999fin,a_single2,v177,c(0:1)
 evs1999fin,a_nomore2,v178,c(0:1)
 evs1999fin,just10,v233,c(1:10)
@@ -246,7 +243,7 @@ evs1999tur,a_single2,v177,c(0:1)
 evs1999tur,a_nomore2,v178,c(0:1)
 evs1999tur,just10,v233,c(1:10)
 evs2017,just10,v154,c(1:10)
-evs2017grc,just10,v154,c(1:10)
+evs_greece2017,just10,v154,c(1:10)
 frifop197211,l_nomore2,ql_3,"c(2, 1)"
 gallup_canada1965,l_health2,q10b,"c(2, 1)"
 gallup_canada1970,l_any2,q9,"c(2, 1)"
@@ -455,5 +452,5 @@ wvs_combo,a_health2,a046,c(0:1)
 wvs_combo,a_defect2,a047,c(0:1)
 wvs_combo,a_single2,a048,c(0:1)
 wvs_combo,a_nomore2,a049,c(0:1)
-wvs7,just10,Q184,c(1:10)
-wvs4_sweden,just10,v210,c(1:10)
+wvs7,just10,q184,c(1:10)
+wvs4_swe,just10,v210,c(1:10)
