@@ -307,6 +307,7 @@ issp2008a,a_poor4,v11,c(1:4)
 issp2008ca,a_defect4,v10,c(1:4)
 issp2008ca,a_poor4,v11,c(1:4)
 issp2018,a_poor4,v5,c(1:4)
+irs2018,free11,abortion,c(0:10)
 itdoxa199303,l_health2,q03_3,"c(2, 1)"
 itdoxa199303,l_defect2,q03_2,"c(2, 1)"
 itdoxa199303,l_rape2,q03_4,"c(2, 1)"
@@ -359,6 +360,7 @@ nsss1993,a_defect4,abdefyou,c(1:4)
 nsss1993,a_poor4,abporyou,c(1:4)
 nsss1994,l_defect4,p4q5e,c(4:1)
 nsss1994,l_poor4,p4q5f,c(4:1)
+pa_w2,free4,v1036,c(4:1)
 pew2013,moral3,q84c,"c(2, 3, 1)"
 pew2014_india,moral3,q84c,"c(2, 3, 1)"
 pew2017,l_ncca4,legalabortion,c(4:1)
