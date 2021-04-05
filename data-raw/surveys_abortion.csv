@@ -307,7 +307,6 @@ issp2008a,a_poor4,v11,c(1:4)
 issp2008ca,a_defect4,v10,c(1:4)
 issp2008ca,a_poor4,v11,c(1:4)
 issp2018,a_poor4,v5,c(1:4)
-irs2018,free11,abortion,c(0:10)
 itdoxa199303,l_health2,q03_3,"c(2, 1)"
 itdoxa199303,l_defect2,q03_2,"c(2, 1)"
 itdoxa199303,l_rape2,q03_4,"c(2, 1)"
