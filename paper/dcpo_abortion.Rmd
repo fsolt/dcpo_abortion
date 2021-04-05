@@ -311,10 +311,10 @@ Country coverage reached its peak in `r y_peak_year`, when surveys in `r y_peak_
 In the next section, we describe how we are able to make use of all of this sparse and incomparable survey data to generate estimates of public opinion that are comparable across countries and years using a latent variable model.
 
 ```{r dcpo_input_public, eval=FALSE}
-dcpo_input_public <- DCPOtools::format_dcpo(dcpo_input_raw1,
+dcpo_input <- DCPOtools::format_dcpo(dcpo_input_raw1,
                                             scale_q = "just10",
                                             scale_cp = 5)
-save(dcpo_input_public, file = here::here("data", "dcpo_input_public.rda"))
+save(dcpo_input, file = here::here("data", "dcpo_input_public.rda"))
 ```
 
 ## Abortion: Global Status and Attitudes
