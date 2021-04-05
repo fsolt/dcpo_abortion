@@ -1,884 +1,888 @@
 country,year,item,r,n,survey,cc_rank
-United States,1962,l_defect2,1,1033,gallup_us196208,880
-United States,1962,l_defect2,2,1847,gallup_us196208,880
-United States,1962,l_health2,1,528,gallup_us196208,880
-United States,1962,l_health2,2,2571,gallup_us196208,880
-United States,1962,l_poor2,1,2473,gallup_us196208,880
-United States,1962,l_poor2,2,512,gallup_us196208,880
-United States,1965,l_defect2,1,1133,gallup_us196512,880
-United States,1965,l_defect2,2,1920,gallup_us196512,880
-United States,1965,l_health2,1,553,gallup_us196512,880
-United States,1965,l_health2,2,2715,gallup_us196512,880
-United States,1965,l_poor2,1,2545,gallup_us196512,880
-United States,1965,l_poor2,2,650,gallup_us196512,880
-United States,1969,l_defect2,1,403.82978723404256,gallup_us196909,880
-United States,1969,l_defect2,2,972.2340425531917,gallup_us196909,880
-United States,1969,l_health2,1,235.56737588652484,gallup_us196909,880
-United States,1969,l_health2,2,1224.3971631205675,gallup_us196909,880
-United States,1969,l_nomore2,1,1211.4893617021278,gallup_us196909,880
-United States,1969,l_nomore2,2,226.80851063829786,gallup_us196909,880
-United States,1969,l_poor2,1,1039.0780141843973,gallup_us196909,880
-United States,1969,l_poor2,2,360.0354609929078,gallup_us196909,880
-United States,1972,l_defect2,1,326.99666251029606,usgss,880
-United States,1972,l_defect2,2,1198.9877625377521,usgss,880
-United States,1972,l_health2,1,200.99794851550308,usgss,880
-United States,1972,l_health2,2,1337.9863438494683,usgss,880
-United States,1972,l_ncca4,1,281.26275497894505,anes_combo,880
-United States,1972,l_ncca4,2,1175.7548498949777,anes_combo,880
-United States,1972,l_ncca4,3,434.3309209538811,anes_combo,880
-United States,1972,l_ncca4,4,614.186015974431,anes_combo,880
-United States,1972,l_nomore2,1,920.9905999143201,usgss,880
-United States,1972,l_nomore2,2,606.9938047209471,usgss,880
-United States,1972,l_poor2,1,771.9921206665093,usgss,880
-United States,1972,l_poor2,2,734.992498302959,usgss,880
-United States,1972,l_rape2,1,315.9967747805919,usgss,880
-United States,1972,l_rape2,2,1195.9877931569238,usgss,880
-United States,1972,l_single2,1,847.9913449808289,usgss,880
-United States,1972,l_single2,2,653.9933250205921,usgss,880
-United States,1973,l_defect2,1,226.99768314934926,usgss,880
-United States,1973,l_defect2,2,1236.987374694912,usgss,880
-United States,1973,l_health2,1,113.99883647147935,usgss,880
-United States,1973,l_health2,2,1361.9860988960954,usgss,880
-United States,1973,l_nomore2,1,759.9922431431958,usgss,880
-United States,1973,l_nomore2,2,692.9929269713614,usgss,880
-United States,1973,l_poor2,1,677.9930800672194,usgss,880
-United States,1973,l_poor2,2,777.9920594281662,usgss,880
-United States,1973,l_rape2,1,238.99756067266287,usgss,880
-United States,1973,l_rape2,2,1211.9876298546753,usgss,880
-United States,1973,l_single2,1,737.9924676837874,usgss,880
-United States,1973,l_single2,2,711.9927330499412,usgss,880
-United States,1974,l_defect2,1,213.99781583242617,usgss,880
-United States,1974,l_defect2,2,1225.9874869652078,usgss,880
-United States,1974,l_health2,1,109.99887729704149,usgss,880
-United States,1974,l_health2,2,1341.9863030239062,usgss,880
-United States,1974,l_nomore2,1,748.9923554134916,usgss,880
-United States,1974,l_nomore2,2,661.9932433694678,usgss,880
-United States,1974,l_poor2,1,640.993457703669,usgss,880
-United States,1974,l_poor2,2,775.9920798409472,usgss,880
-United States,1974,l_rape2,1,191.99804037301786,usgss,880
-United States,1974,l_rape2,2,1227.9874665524267,usgss,880
-United States,1974,l_single2,1,708.9927636691128,usgss,880
-United States,1974,l_single2,2,710.9927432563318,usgss,880
-United States,1975,l_defect2,1,241.99753005349126,usgss,880
-United States,1975,l_defect2,2,1195.9877931569238,usgss,880
-United States,1975,l_health2,1,134.99862213727818,usgss,880
-United States,1975,l_health2,2,1313.986588802841,usgss,880
-United States,1975,l_nomore2,1,773.9921002537283,usgss,880
-United States,1975,l_nomore2,2,651.9933454333732,usgss,880
-United States,1975,l_poor2,1,662.9932331630773,usgss,880
-United States,1975,l_poor2,2,752.9923145879294,usgss,880
-United States,1975,l_rape2,1,231.9976321173966,usgss,880
-United States,1975,l_rape2,2,1189.987854395267,usgss,880
-United States,1975,l_single2,1,731.9925289221306,usgss,880
-United States,1975,l_single2,2,681.9930392416572,usgss,880
-United States,1976,l_defect2,1,233.99761170461554,usgss,880
-United States,1976,l_defect2,2,1222.9875175843795,usgss,880
-United States,1976,l_health2,1,134.99862213727818,usgss,880
-United States,1976,l_health2,2,1328.986435706983,usgss,880
-United States,1976,l_ncca4,1,242.51737546653936,anes_combo,880
-United States,1976,l_ncca4,2,995.4214168557563,anes_combo,880
-United States,1976,l_ncca4,3,362.1018801344582,anes_combo,880
-United States,1976,l_ncca4,4,591.7041290968623,anes_combo,880
-United States,1976,l_nomore2,1,778.9920492217756,usgss,880
-United States,1976,l_nomore2,2,667.9931821311246,usgss,880
-United States,1976,l_poor2,1,672.993131099172,usgss,880
-United States,1976,l_poor2,2,760.9922329368052,usgss,880
-United States,1976,l_rape2,1,234.99760149822498,usgss,880
-United States,1976,l_rape2,2,1204.987701299409,usgss,880
-United States,1976,l_single2,1,714.9927024307697,usgss,880
-United States,1976,l_single2,2,722.9926207796454,usgss,880
-United States,1977,l_any2,1,920.9905999143201,usgss,880
-United States,1977,l_any2,2,557.9943048340832,usgss,880
-United States,1977,l_defect2,1,215.9977954196451,usgss,880
-United States,1977,l_defect2,2,1270.987027677634,usgss,880
-United States,1977,l_doctor2,1,351.95460139134696,cbsnyt197710,880
-United States,1977,l_doctor2,2,1194.0657208132889,cbsnyt197710,880
-United States,1977,l_health2,1,140.99856089893498,usgss,880
-United States,1977,l_health2,2,1346.9862519919534,usgss,880
-United States,1977,l_nomore2,1,781.992018602604,usgss,880
-United States,1977,l_nomore2,2,679.9930596544383,usgss,880
-United States,1977,l_poor2,1,688.9929677969235,usgss,880
-United States,1977,l_poor2,2,788.9919471578703,usgss,880
-United States,1977,l_rape2,1,237.9975708790534,usgss,880
-United States,1977,l_rape2,2,1230.9874359332553,usgss,880
-United States,1977,l_single2,1,732.9925187157401,usgss,880
-United States,1977,l_single2,2,725.9925901604738,usgss,880
-United States,1978,l_any2,1,989.9898956733733,usgss,880
-United States,1978,l_any2,2,493.9949580430772,usgss,880
-United States,1978,l_defect2,1,269.99724427455635,usgss,880
-United States,1978,l_defect2,2,1226.9874767588174,usgss,880
-United States,1978,l_health2,1,139.99857110532554,usgss,880
-United States,1978,l_health2,2,1351.9862009600008,usgss,880
-United States,1978,l_ncca4,1,228.64557292506078,anes_combo,880
-United States,1978,l_ncca4,2,933.7158124471101,anes_combo,880
-United States,1978,l_ncca4,3,352.056781742353,anes_combo,880
-United States,1978,l_ncca4,4,577.8323265553837,anes_combo,880
-United States,1978,l_nomore2,1,884.9909673443792,usgss,880
-United States,1978,l_nomore2,2,597.9938965784619,usgss,880
-United States,1978,l_poor2,1,772.9921104601189,usgss,880
-United States,1978,l_poor2,2,695.9928963521897,usgss,880
-United States,1978,l_rape2,1,248.99745860875754,usgss,880
-United States,1978,l_rape2,2,1231.9874257268646,usgss,880
-United States,1978,l_single2,1,866.9911510594088,usgss,880
-United States,1978,l_single2,2,605.9938149273377,usgss,880
-United States,1979,l_doctor2,1,386.8050900568514,cbsnyt197911,880
-United States,1979,l_doctor2,2,940.3594945610658,cbsnyt197911,880
-United States,1980,l_any2,1,827.9915491086396,usgss,880
-United States,1980,l_any2,2,577.9941007062725,usgss,880
-United States,1980,l_defect2,1,239.99755046627234,usgss,880
-United States,1980,l_defect2,2,1178.987966665563,usgss,880
-United States,1980,l_doctor2,1,1289.190778264797,"cbsnyt198008, usap198009, usap198010",880
-United States,1980,l_doctor2,2,4704.483575253895,"cbsnyt198008, usap198009, usap198010",880
-United States,1980,l_health2,1,140.99856089893498,usgss,880
-United States,1980,l_health2,2,1287.9868541689948,usgss,880
-United States,1980,l_ncca4,1,297.526247613782,"anes_combo, anes_combo",880
-United States,1980,l_ncca4,2,1066.6937816378359,"anes_combo, anes_combo",880
-United States,1980,l_ncca4,3,515.6483841280659,"anes_combo, anes_combo",880
-United States,1980,l_ncca4,4,903.1021792521228,"anes_combo, anes_combo",880
-United States,1980,l_nomore2,1,743.9924064454442,usgss,880
-United States,1980,l_nomore2,2,662.9932331630773,usgss,880
-United States,1980,l_poor2,1,679.9930596544383,usgss,880
-United States,1980,l_poor2,2,727.9925697476928,usgss,880
-United States,1980,l_rape2,1,233.99761170461554,usgss,880
-United States,1980,l_rape2,2,1176.9879870783438,usgss,880
-United States,1980,l_single2,1,723.9926105732549,usgss,880
-United States,1980,l_single2,2,679.9930596544383,usgss,880
-United States,1981,just10,1,958.5571588602046,wvs_combo,880
-United States,1981,just10,2,131.12404222815127,wvs_combo,880
-United States,1981,just10,3,159.41116292136562,wvs_combo,880
-United States,1981,just10,4,118.72229965821984,wvs_combo,880
-United States,1981,just10,5,430.7166998163821,wvs_combo,880
-United States,1981,just10,6,107.15662962109279,wvs_combo,880
-United States,1981,just10,7,95.7303050060998,wvs_combo,880
-United States,1981,just10,8,116.0747366376727,wvs_combo,880
-United States,1981,just10,9,57.68900476350119,wvs_combo,880
-United States,1981,just10,10,102.69757611280284,wvs_combo,880
-United States,1981,l_doctor2,1,646.7286407021027,"cbsnyt198105, cbsnyt198106",880
-United States,1981,l_doctor2,2,1887.3000924134894,"cbsnyt198105, cbsnyt198106",880
-United States,1982,a_defect2,1,817.9503303420937,evs_combo,880
-United States,1982,a_defect2,2,1245.9638245997717,evs_combo,880
-United States,1982,a_health2,1,254.43367974185207,evs_combo,880
-United States,1982,a_health2,2,1934.4350496801928,evs_combo,880
-United States,1982,a_nomore2,1,1602.278318422723,evs_combo,880
-United States,1982,a_nomore2,2,522.9353414586503,evs_combo,880
-United States,1982,a_single2,1,1526.807913822552,evs_combo,880
-United States,1982,a_single2,2,524.2020946557651,evs_combo,880
-United States,1982,just10,1,1004.0851406680495,evs_combo,880
-United States,1982,just10,2,134.7279072333183,evs_combo,880
-United States,1982,just10,3,146.62788487546382,evs_combo,880
-United States,1982,just10,4,112.86222733201745,evs_combo,880
-United States,1982,just10,5,419.24529217347276,evs_combo,880
-United States,1982,just10,6,105.43964994239256,evs_combo,880
-United States,1982,just10,7,93.27035499182479,evs_combo,880
-United States,1982,just10,8,107.40085705622502,evs_combo,880
-United States,1982,just10,9,55.77176718413913,evs_combo,880
-United States,1982,just10,10,100.422653225497,evs_combo,880
-United States,1982,l_any2,1,1081.9889566854445,usgss,880
-United States,1982,l_any2,2,677.9930800672194,usgss,880
-United States,1982,l_defect2,1,316.9967645742014,usgss,880
-United States,1982,l_defect2,2,1457.9851190826043,usgss,880
-United States,1982,l_health2,1,172.99823429443796,usgss,880
-United States,1982,l_health2,2,1626.9833942026046,usgss,880
-United States,1982,l_ncca4,1,172.2016867218031,anes_combo,880
-United States,1982,l_ncca4,2,399.8905836095205,anes_combo,880
-United States,1982,l_ncca4,3,254.47582593333124,anes_combo,880
-United States,1982,l_ncca4,4,473.5546384849585,anes_combo,880
-United States,1982,l_nomore2,1,954.990252897042,usgss,880
-United States,1982,l_nomore2,2,807.9917532364502,usgss,880
-United States,1982,l_poor2,1,904.9907632165686,usgss,880
-United States,1982,l_poor2,2,867.9911408530182,usgss,880
-United States,1982,l_rape2,1,284.9970911786984,usgss,880
-United States,1982,l_rape2,2,1484.98484351006,usgss,880
-United States,1982,l_single2,1,960.9901916586988,usgss,880
-United States,1982,l_single2,2,802.9918042684028,usgss,880
-United States,1983,l_any2,1,995.9898344350302,usgss,880
-United States,1983,l_any2,2,518.994702883314,usgss,880
-United States,1983,l_defect2,1,319.99673395502975,usgss,880
-United States,1983,l_defect2,2,1193.987813569705,usgss,880
-United States,1983,l_health2,1,155.99840780307701,usgss,880
-United States,1983,l_health2,2,1363.9860784833145,usgss,880
-United States,1983,l_nomore2,1,927.9905284695864,usgss,880
-United States,1983,l_nomore2,2,591.993957816805,usgss,880
-United States,1983,l_poor2,1,848.9913347744384,usgss,880
-United States,1983,l_poor2,2,657.99328419503,usgss,880
-United States,1983,l_rape2,1,257.99736675124274,usgss,880
-United States,1983,l_rape2,2,1245.9872828373973,usgss,880
-United States,1983,l_single2,1,904.9907632165686,usgss,880
-United States,1983,l_single2,2,587.9939986423672,usgss,880
-United States,1984,l_any2,1,871.9911000274561,usgss,880
-United States,1984,l_any2,2,547.9944068979885,usgss,880
-United States,1984,l_defect2,1,280.9971320042605,usgss,880
-United States,1984,l_defect2,2,1139.9883647147935,usgss,880
-United States,1984,l_health2,1,149.9984690414202,usgss,880
-United States,1984,l_health2,2,1280.9869256137285,usgss,880
-United States,1984,l_ncca4,1,275.5226987548849,anes_combo,880
-United States,1984,l_ncca4,2,629.4928325719246,anes_combo,880
-United States,1984,l_ncca4,3,415.19740020701414,anes_combo,880
-United States,1984,l_ncca4,4,756.7307455385902,anes_combo,880
-United States,1984,l_nomore2,1,813.991691998107,usgss,880
-United States,1984,l_nomore2,2,605.9938149273377,usgss,880
-United States,1984,l_poor2,1,759.9922431431958,usgss,880
-United States,1984,l_poor2,2,653.9933250205921,usgss,880
-United States,1984,l_rape2,1,275.9971830362132,usgss,880
-United States,1984,l_rape2,2,1129.988466778699,usgss,880
-United States,1984,l_single2,1,791.9919165386987,usgss,880
-United States,1984,l_single2,2,627.993590386746,usgss,880
-United States,1985,l_any2,1,933.9904672312432,usgss,880
-United States,1985,l_any2,2,546.9944171043791,usgss,880
-United States,1985,l_defect2,1,318.9967441614203,usgss,880
-United States,1985,l_defect2,2,1166.9880891422492,usgss,880
-United States,1985,l_doctor2,1,408,nbc198507,880
-United States,1985,l_doctor2,2,1131,nbc198507,880
-United States,1985,l_health2,1,158.99837718390543,usgss,880
-United States,1985,l_health2,2,1331.9864050878114,usgss,880
-United States,1985,l_n_an_a3,1,335.1198364247125,"cbsnyt198501, cbsnyt198511",880
-United States,1985,l_n_an_a3,2,1129.0269916726268,"cbsnyt198501, cbsnyt198511",880
-United States,1985,l_n_an_a3,3,887.646808096439,"cbsnyt198501, cbsnyt198511",880
-United States,1985,l_nomore2,1,887.9909367252076,usgss,880
-United States,1985,l_nomore2,2,599.9938761656808,usgss,880
-United States,1985,l_poor2,1,837.9914470447342,usgss,880
-United States,1985,l_poor2,2,649.9933658461542,usgss,880
-United States,1985,l_rape2,1,276.99717282982266,usgss,880
-United States,1985,l_rape2,2,1196.9877829505333,usgss,880
-United States,1985,l_single2,1,873.9910796146751,usgss,880
-United States,1985,l_single2,2,611.9937536889944,usgss,880
-United States,1986,l_n_an_a3,1,268.9288529414855,cbsnyt198606,880
-United States,1986,l_n_an_a3,2,649.2767448083889,cbsnyt198606,880
-United States,1986,l_n_an_a3,3,657.1475356340962,cbsnyt198606,880
-United States,1986,l_ncca4,1,270.7393185681682,anes_combo,880
-United States,1986,l_ncca4,2,587.3990869288172,anes_combo,880
-United States,1986,l_ncca4,3,373.1036545639067,anes_combo,880
-United States,1986,l_ncca4,4,796.911139107011,anes_combo,880
-United States,1987,l_any2,1,1050.9892730835509,usgss,880
-United States,1987,l_any2,2,678.9930698608288,usgss,880
-United States,1987,l_defect2,1,383.9960807460357,usgss,880
-United States,1987,l_defect2,2,1359.9861193088766,usgss,880
-United States,1987,l_health2,1,210.99784645159775,usgss,880
-United States,1987,l_health2,2,1534.9843331905336,usgss,880
-United States,1987,l_n_an_a3,1,559.7121996074917,"cbsnyt198705, cbsnyt198708, usnwr198706",880
-United States,1987,l_n_an_a3,2,1569.4329671635303,"cbsnyt198705, cbsnyt198708, usnwr198706",880
-United States,1987,l_n_an_a3,3,1456.9113165280694,"cbsnyt198705, cbsnyt198708, usnwr198706",880
-United States,1987,l_nomore2,1,1027.989507830533,usgss,880
-United States,1987,l_nomore2,2,713.9927126371601,usgss,880
-United States,1987,l_poor2,1,963.9901610395272,usgss,880
-United States,1987,l_poor2,2,777.9920594281662,usgss,880
-United States,1987,l_rape2,1,352.99639714414224,usgss,880
-United States,1987,l_rape2,2,1375.985956006628,usgss,880
-United States,1987,l_single2,1,1044.9893343218941,usgss,880
-United States,1987,l_single2,2,699.9928555266276,usgss,880
-United States,1988,l_any2,1,597.9938965784619,usgss,880
-United States,1988,l_any2,2,337.9965502400002,usgss,880
-United States,1988,l_defect2,1,199.9979587218936,usgss,880
-United States,1988,l_defect2,2,743.9924064454442,usgss,880
-United States,1988,l_health2,1,105.99891812260361,usgss,880
-United States,1988,l_health2,2,835.9914674575153,usgss,880
-United States,1988,l_n_an_a3,1,853.7784160962904,"cbsnyt198807, cbsnyt198810",880
-United States,1988,l_n_an_a3,2,975.4253340945631,"cbsnyt198807, cbsnyt198810",880
-United States,1988,l_ncca4,1,242.03903744786768,anes_combo,880
-United States,1988,l_ncca4,2,633.319536721298,anes_combo,880
-United States,1988,l_ncca4,3,353.9701338170397,anes_combo,880
-United States,1988,l_ncca4,4,680.1966625511222,anes_combo,880
-United States,1988,l_nomore2,1,569.9941823573968,usgss,880
-United States,1988,l_nomore2,2,378.9961317779884,usgss,880
-United States,1988,l_poor2,1,545.9944273107695,usgss,880
-United States,1988,l_poor2,2,394.99596847573986,usgss,880
-United States,1988,l_rape2,1,174.9982138816569,usgss,880
-United States,1988,l_rape2,2,748.9923554134916,usgss,880
-United States,1988,l_single2,1,564.9942333893495,usgss,880
-United States,1988,l_single2,2,366.9962542546748,usgss,880
-United States,1989,l_any2,1,589.9939782295861,usgss,880
-United States,1989,l_any2,2,398.99592765017775,usgss,880
-United States,1989,l_defect2,1,781.0661219500759,"cbsnyt198905, cbsnyt198909, usgss",880
-United States,1989,l_defect2,2,2726.1770229471754,"cbsnyt198905, cbsnyt198909, usgss",880
-United States,1989,l_doctor2,1,1656.3893792191088,"cbsnyt198901, cbsnyt198905, cbsnyt198909, usap198901, usap198907",880
-United States,1989,l_doctor2,2,4090.3510476491037,"cbsnyt198901, cbsnyt198905, cbsnyt198909, usap198901, usap198907",880
-United States,1989,l_health2,1,304.5690068941963,"cbsnyt198905, cbsnyt198909, usgss",880
-United States,1989,l_health2,2,3297.290639057716,"cbsnyt198905, cbsnyt198909, usgss",880
-United States,1989,l_n_an_a3,1,1024.8406470201392,"cbsnyt198901, cbsnyt198905, cbsnyt198909, usap198901",880
-United States,1989,l_n_an_a3,2,2204.3319889273916,"cbsnyt198901, cbsnyt198905, cbsnyt198909, usap198901",880
-United States,1989,l_n_an_a3,3,1820.8779281825923,"cbsnyt198905, cbsnyt198909, usap198901",880
-United States,1989,l_nomore2,1,549.9943864852074,usgss,880
-United States,1989,l_nomore2,2,440.9954989817754,usgss,880
-United States,1989,l_poor2,1,1839.9219137197458,"cbsnyt198905, cbsnyt198909, usgss",880
-United States,1989,l_poor2,2,1717.3410485492163,"cbsnyt198905, cbsnyt198909, usgss",880
-United States,1989,l_rape2,1,337.18392447944177,"cbsnyt198909, usgss",880
-United States,1989,l_rape2,2,1924.3401312900571,"cbsnyt198909, usgss",880
-United States,1989,l_single2,1,1861.7936611195037,"cbsnyt198905, cbsnyt198909, usgss",880
-United States,1989,l_single2,2,1673.2174266124964,"cbsnyt198905, cbsnyt198909, usgss",880
-United States,1990,a_defect2,1,813.6781974271131,evs_combo,880
-United States,1990,a_defect2,2,979.4919882152564,evs_combo,880
-United States,1990,a_health2,1,265.0905536145819,evs_combo,880
-United States,1990,a_health2,2,1564.5566200450755,evs_combo,880
-United States,1990,a_nomore2,1,1337.3078688537275,evs_combo,880
-United States,1990,a_nomore2,2,477.78949497880944,evs_combo,880
-United States,1990,a_single2,1,1253.566236002997,evs_combo,880
-United States,1990,a_single2,2,534.7616029154797,evs_combo,880
-United States,1990,just10,1,600.0573848365633,evs_combo,880
-United States,1990,just10,2,129.79462590171457,evs_combo,880
-United States,1990,just10,3,131.8842743392155,evs_combo,880
-United States,1990,just10,4,112.76671857404402,evs_combo,880
-United States,1990,just10,5,297.8988972646999,evs_combo,880
-United States,1990,just10,6,171.05567158374777,evs_combo,880
-United States,1990,just10,7,120.55257581449405,evs_combo,880
-United States,1990,just10,8,108.88449232126773,evs_combo,880
-United States,1990,just10,9,33.73324453658683,evs_combo,880
-United States,1990,just10,10,97.418605885927,evs_combo,880
-United States,1990,l_any2,1,495.99493763029614,usgss,880
-United States,1990,l_any2,2,380.9961113652073,usgss,880
-United States,1990,l_defect2,1,164.99831594556224,usgss,880
-United States,1990,l_defect2,2,714.9927024307697,usgss,880
-United States,1990,l_health2,1,72.99925493349117,usgss,880
-United States,1990,l_health2,2,813.991691998107,usgss,880
-United States,1990,l_ncca4,1,224.81886877568738,anes_combo,880
-United States,1990,l_ncca4,2,614.186015974431,anes_combo,880
-United States,1990,l_ncca4,3,266.91261441879476,anes_combo,880
-United States,1990,l_ncca4,4,742.38060497844,anes_combo,880
-United States,1990,l_nomore2,1,482.99507031337305,usgss,880
-United States,1990,l_nomore2,2,395.99595826934933,usgss,880
-United States,1990,l_poor2,1,448.99541733065115,usgss,880
-United States,1990,l_poor2,2,415.9957541415387,usgss,880
-United States,1990,l_rape2,1,132.99864255005926,usgss,880
-United States,1990,l_rape2,2,739.9924472710063,usgss,880
-United States,1990,l_single2,1,476.99513155171627,usgss,880
-United States,1990,l_single2,2,394.99596847573986,usgss,880
-United States,1991,a_defect4,1,284.19128823202016,issp1991,880
-United States,1991,a_defect4,2,133.4374865892281,issp1991,880
-United States,1991,a_defect4,3,166.0329031606426,issp1991,880
-United States,1991,a_defect4,4,674.3176803211373,issp1991,880
-United States,1991,a_poor4,1,487.9126418033607,issp1991,880
-United States,1991,a_poor4,2,198.6283197320571,issp1991,880
-United States,1991,a_poor4,3,144.64216103565184,issp1991,880
-United States,1991,a_poor4,4,415.59156128553485,issp1991,880
-United States,1991,l_any2,1,545.9944273107695,usgss,880
-United States,1991,l_any2,2,404.9958664118346,usgss,880
-United States,1991,l_defect2,1,155.99840780307701,usgss,880
-United States,1991,l_defect2,2,787.9919573642608,usgss,880
-United States,1991,l_defect4,1,825.0714819639294,issp1991,880
-United States,1991,l_defect4,2,236.3167701427551,issp1991,880
-United States,1991,l_defect4,3,75.37690082139602,issp1991,880
-United States,1991,l_defect4,4,148.71658810707865,issp1991,880
-United States,1991,l_health2,1,80.99917328236691,usgss,880
-United States,1991,l_health2,2,873.9910796146751,usgss,880
-United States,1991,l_n_an_a3,1,66.15940889911714,nbcwsj199106,880
-United States,1991,l_n_an_a3,2,359.36377549110176,nbcwsj199106,880
-United States,1991,l_n_an_a3,3,569.5704663130158,nbcwsj199106,880
-United States,1991,l_nomore2,1,525.9946314385802,usgss,880
-United States,1991,l_nomore2,2,423.99567249041445,usgss,880
-United States,1991,l_poor2,1,486.99502948781094,usgss,880
-United States,1991,l_poor2,2,457.99532547313635,usgss,880
-United States,1991,l_poor4,1,487.9126418033607,issp1991,880
-United States,1991,l_poor4,2,201.6841400356272,issp1991,880
-United States,1991,l_poor4,3,167.05150992849929,issp1991,880
-United States,1991,l_poor4,4,385.0333582498337,issp1991,880
-United States,1991,l_rape2,1,127.99869358201191,usgss,880
-United States,1991,l_rape2,2,816.9916613789354,usgss,880
-United States,1991,l_single2,1,523.9946518513613,usgss,880
-United States,1991,l_single2,2,425.9956520776334,usgss,880
-United States,1992,l_doctor2,1,196.37538495966294,usap199205,880
-United States,1992,l_doctor2,2,577.410870911224,usap199205,880
-United States,1992,l_ncca4,1,245.93175224381775,anes_combo,880
-United States,1992,l_ncca4,2,651.8160068948981,anes_combo,880
-United States,1992,l_ncca4,3,328.666435299723,anes_combo,880
-United States,1992,l_ncca4,4,1077.2035375812786,anes_combo,880
-United States,1993,govint4,1,215,nbcwsj199306,880
-United States,1993,govint4,2,97,nbcwsj199306,880
-United States,1993,govint4,3,186,nbcwsj199306,880
-United States,1993,govint4,4,951,nbcwsj199306,880
-United States,1993,l_any2,1,551.9943660724264,usgss,880
-United States,1993,l_any2,2,457.99532547313635,usgss,880
-United States,1993,l_defect2,1,192.99803016662733,usgss,880
-United States,1993,l_defect2,2,839.9914266319531,usgss,880
-United States,1993,l_health2,1,104.99892832899414,usgss,880
-United States,1993,l_health2,2,922.9905795015391,usgss,880
-United States,1993,l_nomore2,1,538.9944987555033,usgss,880
-United States,1993,l_nomore2,2,479.9951009325447,usgss,880
-United States,1993,l_poor2,1,510.99478453443817,usgss,880
-United States,1993,l_poor2,2,507.99481515360975,usgss,880
-United States,1993,l_rape2,1,174.9982138816569,usgss,880
-United States,1993,l_rape2,2,849.9913245680478,usgss,880
-United States,1993,l_single2,1,525.9946314385802,usgss,880
-United States,1993,l_single2,2,487.9950192814204,usgss,880
-United States,1994,free5a,1,292.37636241504083,issp1994,880
-United States,1994,free5a,2,268.0895080291269,issp1994,880
-United States,1994,free5a,3,117.69783279327523,issp1994,880
-United States,1994,free5a,4,326.0043146416909,issp1994,880
-United States,1994,free5a,5,240.06621450691853,issp1994,880
-United States,1994,govint4,1,135,nbcwsj199406,880
-United States,1994,govint4,2,67,nbcwsj199406,880
-United States,1994,govint4,3,129,nbcwsj199406,880
-United States,1994,govint4,4,398,nbcwsj199406,880
-United States,1994,l_any2,1,1038.9893955602372,usgss,880
-United States,1994,l_any2,2,894.9908652804739,usgss,880
-United States,1994,l_defect2,1,340.9965196208286,usgss,880
-United States,1994,l_defect2,2,1584.9838228710069,usgss,880
-United States,1994,l_health2,1,180.99815264331372,usgss,880
-United States,1994,l_health2,2,1752.9821081973976,usgss,880
-United States,1994,l_ncca4,1,223.33037652918486,anes_combo,880
-United States,1994,l_ncca4,2,526.3551196675978,anes_combo,880
-United States,1994,l_ncca4,3,239.8902474003908,anes_combo,880
-United States,1994,l_ncca4,4,673.4462607640237,anes_combo,880
-United States,1994,l_nomore2,1,994.9898446414207,usgss,880
-United States,1994,l_nomore2,2,929.9905080568053,usgss,880
-United States,1994,l_poor2,1,953.9902631034325,usgss,880
-United States,1994,l_poor2,2,970.9900895947935,usgss,880
-United States,1994,l_rape2,1,317.99675436781087,usgss,880
-United States,1994,l_rape2,2,1615.9835064729004,usgss,880
-United States,1994,l_single2,1,1014.9896405136101,usgss,880
-United States,1994,l_single2,2,922.9905795015391,usgss,880
-United States,1995,just10,1,506.77023556152375,wvs_combo,880
-United States,1995,just10,2,95.13925688414353,wvs_combo,880
-United States,1995,just10,3,105.07671346775882,wvs_combo,880
-United States,1995,just10,4,85.53221447408926,wvs_combo,880
-United States,1995,just10,5,323.49550101765874,wvs_combo,880
-United States,1995,just10,6,91.78505239496357,wvs_combo,880
-United States,1995,just10,7,84.10041972199154,wvs_combo,880
-United States,1995,just10,8,74.65357812336079,wvs_combo,880
-United States,1995,just10,9,37.26671375739657,wvs_combo,880
-United States,1995,just10,10,82.91893873774306,wvs_combo,880
-United States,1995,l_doctor2,1,218.3731419436035,usap199502,880
-United States,1995,l_doctor2,2,659.5408007075071,usap199502,880
-United States,1995,l_n_an_a3,1,194,nbcwsj199512,880
-United States,1995,l_n_an_a3,2,563,nbcwsj199512,880
-United States,1995,l_n_an_a3,3,1157,nbcwsj199512,880
-United States,1995,l_ncca4,1,440.760155177031,"abcwapo199507, abcwapo199509, abcwapo199510",880
-United States,1995,l_ncca4,2,903.9693842335496,"abcwapo199507, abcwapo199509, abcwapo199510",880
-United States,1995,l_ncca4,3,1206.2044381769806,"abcwapo199507, abcwapo199509, abcwapo199510",880
-United States,1995,l_ncca4,4,910.853008569067,"abcwapo199507, abcwapo199509, abcwapo199510",880
-United States,1996,l_any2,1,1001.989773196687,usgss,880
-United States,1996,l_any2,2,818.9916409661544,usgss,880
-United States,1996,l_defect2,1,335.99657065278126,usgss,880
-United States,1996,l_defect2,2,1513.9845475247346,usgss,880
-United States,1996,l_health2,1,155.99840780307701,usgss,880
-United States,1996,l_health2,2,1693.982710374439,usgss,880
-United States,1996,l_n_an_a3,1,614,"nbcwsj199603, nbcwsj199605, nbcwsj199606, nbcwsj199608, nbcwsj199609",880
-United States,1996,l_n_an_a3,2,2049,"nbcwsj199603, nbcwsj199605, nbcwsj199606, nbcwsj199608, nbcwsj199609",880
-United States,1996,l_n_an_a3,3,3835,"nbcwsj199603, nbcwsj199605, nbcwsj199606, nbcwsj199608, nbcwsj199609",880
-United States,1996,l_ncca4,1,752.7355911033574,"abcwapo199607, abcwapo199608, anes_combo, uspew1996_05pol",880
-United States,1996,l_ncca4,2,1799.1609479074075,"abcwapo199607, abcwapo199608, anes_combo, uspew1996_05pol",880
-United States,1996,l_ncca4,3,1575.8548565529804,"abcwapo199607, abcwapo199608, anes_combo, uspew1996_05pol",880
-United States,1996,l_ncca4,4,1839.9098520225525,"abcwapo199607, abcwapo199608, anes_combo, uspew1996_05pol",880
-United States,1996,l_nomore2,1,971.9900793884029,usgss,880
-United States,1996,l_nomore2,2,852.9912939488762,usgss,880
-United States,1996,l_poor2,1,976.9900283564502,usgss,880
-United States,1996,l_poor2,2,852.9912939488762,usgss,880
-United States,1996,l_rape2,1,288.9970503531363,usgss,880
-United States,1996,l_rape2,2,1549.9841800946754,usgss,880
-United States,1996,l_single2,1,1009.9896915455628,usgss,880
-United States,1996,l_single2,2,821.9916103469827,usgss,880
-United States,1998,a_defect4,1,274.94004653147346,issp1998,880
-United States,1998,a_defect4,2,110.97580059997657,issp1998,880
-United States,1998,a_defect4,3,158.96533599456103,issp1998,880
-United States,1998,a_defect4,4,620.8646141674365,issp1998,880
-United States,1998,a_poor4,1,548.8803110755598,issp1998,880
-United States,1998,a_poor4,2,137.96991425943034,issp1998,880
-United States,1998,a_poor4,3,111.97558258736375,issp1998,880
-United States,1998,a_poor4,4,358.9217334719963,issp1998,880
-United States,1998,l_any2,1,1049.9892832899413,usgss,880
-United States,1998,l_any2,2,727.9925697476928,usgss,880
-United States,1998,l_defect2,1,584.5356695717416,"cbsnyt199801, usgss",880
-United States,1998,l_defect2,2,2240.9695715603675,"cbsnyt199801, usgss",880
-United States,1998,l_doctor2,1,268.5976133035889,cbsnyt199801,880
-United States,1998,l_doctor2,2,655.0100750634007,cbsnyt199801,880
-United States,1998,l_health2,1,296.2563240960027,"cbsnyt199801, usgss",880
-United States,1998,l_health2,2,2551.7204966250483,"cbsnyt199801, usgss",880
-United States,1998,l_n_an_a3,1,105,nbcwsj199801,880
-United States,1998,l_n_an_a3,2,259,nbcwsj199801,880
-United States,1998,l_n_an_a3,3,607,nbcwsj199801,880
-United States,1998,l_ncca4,1,221.20790942032193,"anes_combo, nbcwsj199802",880
-United States,1998,l_ncca4,2,614.2501783820813,"anes_combo, nbcwsj199802",880
-United States,1998,l_ncca4,3,431.51046908395267,"anes_combo, nbcwsj199802",880
-United States,1998,l_ncca4,4,926.8401077449844,"anes_combo, nbcwsj199802",880
-United States,1998,l_nomore2,1,1638.3606464045158,"cbsnyt199801, usgss",880
-United States,1998,l_nomore2,2,1191.3804559667983,"cbsnyt199801, usgss",880
-United States,1998,l_poor2,1,1583.634130264366,"cbsnyt199801, usgss",880
-United States,1998,l_poor2,2,1261.4504106834522,"cbsnyt199801, usgss",880
-United States,1998,l_rape2,1,490.80513448552165,"cbsnyt199801, usgss",880
-United States,1998,l_rape2,2,2367.3102755813225,"cbsnyt199801, usgss",880
-United States,1998,l_single2,1,1711.1678786141993,"cbsnyt199801, usgss",880
-United States,1998,l_single2,2,1141.8506451845026,"cbsnyt199801, usgss",880
-United States,1999,just10,1,354.01760333701526,wvs_combo,880
-United States,1999,just10,2,83.63114656644044,wvs_combo,880
-United States,1999,just10,3,74.46971837815711,wvs_combo,880
-United States,1999,just10,4,66.01917539867391,wvs_combo,880
-United States,1999,just10,5,183.94811819592167,wvs_combo,880
-United States,1999,just10,6,145.15459888709614,wvs_combo,880
-United States,1999,just10,7,69.10527543020169,wvs_combo,880
-United States,1999,just10,8,84.58865263199833,wvs_combo,880
-United States,1999,just10,9,34.10101184833987,wvs_combo,880
-United States,1999,just10,10,97.12622371176496,wvs_combo,880
-United States,1999,l_ncca4,1,812.2272346277323,"abcwapo199903, abcwapo199908",880
-United States,1999,l_ncca4,2,446.80046018496284,"abcwapo199903, abcwapo199908",880
-United States,1999,l_ncca4,3,1058.3448305839474,"abcwapo199903, abcwapo199908",880
-United States,1999,l_ncca4,4,617.5140630681101,"abcwapo199903, abcwapo199908",880
-United States,2000,l_any2,1,1062.9891506068645,usgss,880
-United States,2000,l_any2,2,704.9928044946749,usgss,880
-United States,2000,l_defect2,1,803.9961521907694,"lat200006, usgss",880
-United States,2000,l_defect2,2,2827.985741672427,"lat200006, usgss",880
-United States,2000,l_health2,1,360.9979076899409,"lat200006, usgss",880
-United States,2000,l_health2,2,3379.983873902959,"lat200006, usgss",880
-United States,2000,l_n_an_a3,1,481.05127198499196,"lat200006, nbcwsj200001, nbcwsj200006, nbcwsj200007",880
-United States,2000,l_n_an_a3,2,1791.1708605515555,"lat200006, nbcwsj200001, nbcwsj200006, nbcwsj200007",880
-United States,2000,l_n_an_a3,3,2693.091004255078,"lat200006, nbcwsj200001, nbcwsj200006, nbcwsj200007",880
-United States,2000,l_ncca4,1,690.9141602624875,"abcwapo200007, abcwapo200009, anes_combo",880
-United States,2000,l_ncca4,2,983.5214538737582,"abcwapo200007, abcwapo200009, anes_combo",880
-United States,2000,l_ncca4,3,1006.1909145633321,"abcwapo200007, abcwapo200009, anes_combo",880
-United States,2000,l_ncca4,4,1119.8702557113122,"abcwapo200007, abcwapo200009, anes_combo",880
-United States,2000,l_nomore2,1,1049.9892832899413,usgss,880
-United States,2000,l_nomore2,2,719.992651398817,usgss,880
-United States,2000,l_poor2,1,2112.9895486560954,"lat200006, usgss",880
-United States,2000,l_poor2,2,1565.9923554134916,"lat200006, usgss",880
-United States,2000,l_rape2,1,562.9965298272191,"lat200006, usgss",880
-United States,2000,l_rape2,2,3176.9856191957406,"lat200006, usgss",880
-United States,2000,l_single2,1,1075.9890179237875,usgss,880
-United States,2000,l_single2,2,690.9929473841424,usgss,880
-United States,2001,l_health2,1,205.8680208068067,abcwapo200101,880
-United States,2001,l_health2,2,1282.5916700864184,abcwapo200101,880
-United States,2001,l_n_an_a3,1,155.02562013896966,usvcu2001,880
-United States,2001,l_n_an_a3,2,494.4999225338924,usvcu2001,880
-United States,2001,l_n_an_a3,3,409.9128021096718,usvcu2001,880
-United States,2001,l_ncca4,1,213.53159873659646,abcwapo200101,880
-United States,2001,l_ncca4,2,378.0955774597377,abcwapo200101,880
-United States,2001,l_ncca4,3,576.8642113499712,abcwapo200101,880
-United States,2001,l_ncca4,4,315.3155774584159,abcwapo200101,880
-United States,2001,l_rape2,1,238.71229764284652,abcwapo200101,880
-United States,2001,l_rape2,2,1243.3508951377576,abcwapo200101,880
-United States,2002,l_any2,1,512.9947641216571,usgss,880
-United States,2002,l_any2,2,386.99605012686413,usgss,880
-United States,2002,l_defect2,1,192.99803016662733,usgss,880
-United States,2002,l_defect2,2,702.992824907456,usgss,880
-United States,2002,l_health2,1,75.99922431431958,usgss,880
-United States,2002,l_health2,2,824.9915797278111,usgss,880
-United States,2002,l_n_an_a3,1,181.9683415359513,usvcu2002,880
-United States,2002,l_n_an_a3,2,466.9306234386467,usvcu2002,880
-United States,2002,l_n_an_a3,3,294.654706022842,usvcu2002,880
-United States,2002,l_nomore2,1,492.9949682494678,usgss,880
-United States,2002,l_nomore2,2,399.9959174437872,usgss,880
-United States,2002,l_poor2,1,495.99493763029614,usgss,880
-United States,2002,l_poor2,2,395.99595826934933,usgss,880
-United States,2002,l_rape2,1,183.99812202414213,usgss,880
-United States,2002,l_rape2,2,720.9926411924265,usgss,880
-United States,2002,l_single2,1,518.994702883314,usgss,880
-United States,2002,l_single2,2,375.99616239716,usgss,880
-United States,2003,l_health2,1,152.18078812164427,abcwapo200301,880
-United States,2003,l_health2,2,918.7839020700079,abcwapo200301,880
-United States,2003,l_n_an_a3,1,348.6807550041017,"nbcwsj200301, nbcwsj200311, usvcu2003",880
-United States,2003,l_n_an_a3,2,869.8784692504662,"nbcwsj200301, nbcwsj200311, usvcu2003",880
-United States,2003,l_n_an_a3,3,1207.4300333849476,"nbcwsj200301, nbcwsj200311, usvcu2003",880
-United States,2003,l_ncca4,1,555.3281066713186,"abcwapo200301, lat200301, lat200311",880
-United States,2003,l_ncca4,2,1391.3854176748955,"abcwapo200301, lat200301, lat200311",880
-United States,2003,l_ncca4,3,794.6721934011772,"abcwapo200301, lat200301, lat200311",880
-United States,2003,l_ncca4,4,1015.0238812747062,"abcwapo200301, lat200301, lat200311",880
-United States,2003,l_rape2,1,188.49941822867027,abcwapo200301,880
-United States,2003,l_rape2,2,907.8658531429642,abcwapo200301,880
-United States,2004,l_any2,1,491.19498662097067,usgss,880
-United States,2004,l_any2,2,332.1866095391292,usgss,880
-United States,2004,l_defect2,1,230.83764395680961,usgss,880
-United States,2004,l_defect2,2,601.6238595292643,usgss,880
-United States,2004,l_health2,1,122.28875186050186,usgss,880
-United States,2004,l_health2,2,717.3826780374962,usgss,880
-United States,2004,l_n_an_a3,1,174.3393181234829,usvcu2004,880
-United States,2004,l_n_an_a3,2,452.20299380657195,usvcu2004,880
-United States,2004,l_n_an_a3,3,323.68149023130525,usvcu2004,880
-United States,2004,l_ncca4,1,515.068278105713,"abcwapo200405, abcwapo200412, anes_combo",880
-United States,2004,l_ncca4,2,802.0676849096385,"abcwapo200405, abcwapo200412, anes_combo",880
-United States,2004,l_ncca4,3,823.1439013325876,"abcwapo200405, abcwapo200412, anes_combo",880
-United States,2004,l_ncca4,4,800.5761924577714,"abcwapo200405, abcwapo200412, anes_combo",880
-United States,2004,l_nomore2,1,487.36502571144644,usgss,880
-United States,2004,l_nomore2,2,350.1664260282274,usgss,880
-United States,2004,l_poor2,1,488.8650104018607,usgss,880
-United States,2004,l_poor2,2,343.24649665644995,usgss,880
-United States,2004,l_rape2,1,202.3079351451315,usgss,880
-United States,2004,l_rape2,2,629.1035790576525,usgss,880
-United States,2004,l_single2,1,492.2249761083885,usgss,880
-United States,2004,l_single2,2,349.4564332747647,usgss,880
-United States,2005,l_n_an_a3,1,264.4706017707194,"nbcwsj200505, usvcu2005",880
-United States,2005,l_n_an_a3,2,728.5973078009749,"nbcwsj200505, usvcu2005",880
-United States,2005,l_n_an_a3,3,942.5992052266936,"nbcwsj200505, usvcu2005",880
-United States,2005,l_ncca4,1,398.1620772205696,"abcwapo200505, abcwapo200512, lat200501",880
-United States,2005,l_ncca4,2,975.4537166799842,"abcwapo200505, abcwapo200512, lat200501",880
-United States,2005,l_ncca4,3,956.2941794963003,"abcwapo200505, abcwapo200512, lat200501",880
-United States,2005,l_ncca4,4,624.5780874596717,"abcwapo200505, abcwapo200512, lat200501",880
-United States,2006,govint4,1,227.81005913787982,pewrel2006_10nat,880
-United States,2006,govint4,2,153.58662196500796,pewrel2006_10nat,880
-United States,2006,govint4,3,240.91240568199467,pewrel2006_10nat,880
-United States,2006,govint4,4,396.68007833932216,pewrel2006_10nat,880
-United States,2006,just10,1,297.830750485593,wvs_combo,880
-United States,2006,just10,2,86.1282970805393,wvs_combo,880
-United States,2006,just10,3,70.4040025176657,wvs_combo,880
-United States,2006,just10,4,49.935395018571825,wvs_combo,880
-United States,2006,just10,5,307.93994049737034,wvs_combo,880
-United States,2006,just10,6,79.56232812239476,wvs_combo,880
-United States,2006,just10,7,74.99817896856258,wvs_combo,880
-United States,2006,just10,8,81.383984144319,wvs_combo,880
-United States,2006,just10,9,37.33393935042552,wvs_combo,880
-United States,2006,just10,10,82.45495773962612,wvs_combo,880
-United States,2006,just3,1,529.4209896893918,pewrel2006_10nat,880
-United States,2006,just3,2,452.74802213087105,pewrel2006_10nat,880
-United States,2006,just3,3,54.40165122775651,pewrel2006_10nat,880
-United States,2006,l_any2,1,1161.708143031991,usgss,880
-United States,2006,l_any2,2,769.6621444473992,usgss,880
-United States,2006,l_defect2,1,519.1447013523554,usgss,880
-United States,2006,l_defect2,2,1398.8557225864765,usgss,880
-United States,2006,l_health2,1,253.33741431302263,usgss,880
-United States,2006,l_health2,2,1664.1630147290045,usgss,880
-United States,2006,l_n_an_a3,1,146.81926117124053,usvcu2006,880
-United States,2006,l_n_an_a3,2,450.1458885702921,usvcu2006,880
-United States,2006,l_n_an_a3,3,371.14356279308464,usvcu2006,880
-United States,2006,l_ncca4,1,130.78217961152168,lat200605,880
-United States,2006,l_ncca4,2,562.697100857553,lat200605,880
-United States,2006,l_ncca4,3,255.0948061882961,lat200605,880
-United States,2006,l_ncca4,4,364.58116537596436,lat200605,880
-United States,2006,l_nomore2,1,1117.4885943585805,usgss,880
-United States,2006,l_nomore2,2,808.8317446630822,usgss,880
-United States,2006,l_poor2,1,1109.9886709065095,usgss,880
-United States,2006,l_poor2,2,812.7617045519673,usgss,880
-United States,2006,l_rape2,1,431.4655962486772,usgss,880
-United States,2006,l_rape2,2,1476.1649335304246,usgss,880
-United States,2006,l_single2,1,1178.3079736059083,usgss,880
-United States,2006,l_single2,2,755.0222938689567,usgss,880
-United States,2006,moral3,1,384.60987196741945,uspew2006_02nii,880
-United States,2006,moral3,2,170.4354432638338,uspew2006_02nii,880
-United States,2006,moral3,3,88.37697058023616,uspew2006_02nii,880
-United States,2007,l_n_an_a3,1,310.4277135252967,"nbcwsj200705, usvcu2007",880
-United States,2007,l_n_an_a3,2,746.0086403576088,"nbcwsj200705, usvcu2007",880
-United States,2007,l_n_an_a3,3,889.2798926282031,"nbcwsj200705, usvcu2007",880
-United States,2007,l_ncca4,1,7950.6190992457805,"abcwapo200702, abcwapo200707, abcwapo200711, abcwapo200712, lat200710, lat200712, uspew2007_rls, uspew2007_rel, uspew2007_prim, uspew2007_05st, uspew2007_10pol",880
-United States,2007,l_ncca4,2,13971.676961454963,"abcwapo200702, abcwapo200707, abcwapo200711, abcwapo200712, lat200710, lat200712, uspew2007_rls, uspew2007_rel, uspew2007_prim, uspew2007_05st, uspew2007_10pol",880
-United States,2007,l_ncca4,3,16543.74262932717,"abcwapo200702, abcwapo200707, abcwapo200711, abcwapo200712, lat200710, lat200712, uspew2007_rls, uspew2007_rel, uspew2007_prim, uspew2007_05st, uspew2007_10pol",880
-United States,2007,l_ncca4,4,9331.267819678284,"abcwapo200702, abcwapo200707, abcwapo200711, abcwapo200712, lat200710, lat200712, uspew2007_rls, uspew2007_rel, uspew2007_prim, uspew2007_05st, uspew2007_10pol",880
-United States,2008,a_defect4,1,301.4056281306902,issp2008,880
-United States,2008,a_defect4,2,114.08054011697753,issp2008,880
-United States,2008,a_defect4,3,201.09631786502618,issp2008,880
-United States,2008,a_defect4,4,687.8948552417842,issp2008,880
-United States,2008,a_poor4,1,673.8633872907694,issp2008,880
-United States,2008,a_poor4,2,129.0281887751597,issp2008,880
-United States,2008,a_poor4,3,137.12765401517632,issp2008,880
-United States,2008,a_poor4,4,379.45210370273446,issp2008,880
-United States,2008,free2,1,274.39988534122006,pipa200711,880
-United States,2008,free2,2,646.0395779592527,pipa200711,880
-United States,2008,l_any2,1,763.6341411718887,usgss,880
-United States,2008,l_any2,2,549.8893793339523,usgss,880
-United States,2008,l_defect2,1,334.86994863456766,usgss,880
-United States,2008,l_defect2,2,947.3033649149993,usgss,880
-United States,2008,l_health2,1,148.58735698374306,usgss,880
-United States,2008,l_health2,2,1156.626627240027,usgss,880
-United States,2008,l_n_an_a3,1,152.0461994862704,usvcu2008,880
-United States,2008,l_n_an_a3,2,432.2143554864151,usvcu2008,880
-United States,2008,l_n_an_a3,3,374.32350493831626,usvcu2008,880
-United States,2008,l_ncca4,1,1617.588810151,"abcwapo200801, abcwapo200806, abcwapo200808, anes_combo, uspew2008_vote, uspew2008_rel, uspew2008_10mid",880
-United States,2008,l_ncca4,2,2776.047930182632,"abcwapo200801, abcwapo200806, abcwapo200808, anes_combo, uspew2008_vote, uspew2008_rel, uspew2008_10mid",880
-United States,2008,l_ncca4,3,3753.6175964259187,"abcwapo200801, abcwapo200806, abcwapo200808, anes_combo, uspew2008_vote, uspew2008_rel, uspew2008_10mid",880
-United States,2008,l_ncca4,4,2277.1296212532297,"abcwapo200801, abcwapo200806, abcwapo200808, anes_combo, uspew2008_vote, uspew2008_rel, uspew2008_10mid",880
-United States,2008,l_nomore2,1,734.3268523924638,usgss,880
-United States,2008,l_nomore2,2,578.4648241882501,usgss,880
-United States,2008,l_poor2,1,755.5602946398859,usgss,880
-United States,2008,l_poor2,2,561.9681144370898,usgss,880
-United States,2008,l_rape2,1,317.8844200437186,usgss,880
-United States,2008,l_rape2,2,980.6309031970302,usgss,880
-United States,2008,l_single2,1,779.4041691885134,usgss,880
-United States,2008,l_single2,2,535.1781000461583,usgss,880
-United States,2009,l_n_an_a3,1,151.46705800694102,nbcwsj200910,880
-United States,2009,l_n_an_a3,2,313.9535765989093,nbcwsj200910,880
-United States,2009,l_n_an_a3,3,515.6115061973228,nbcwsj200910,880
-United States,2009,l_ncca4,1,756.7186561268849,"abcwapo200906, uspew2009_rel, uspew2009_val",880
-United States,2009,l_ncca4,2,1242.850528383225,"abcwapo200906, uspew2009_rel, uspew2009_val",880
-United States,2009,l_ncca4,3,1368.9271938622098,"abcwapo200906, uspew2009_rel, uspew2009_val",880
-United States,2009,l_ncca4,4,789.5442387493779,"abcwapo200906, uspew2009_rel, uspew2009_val",880
-United States,2009,moral3,1,1039.447898809259,uspew2009_rel,880
-United States,2009,moral3,2,501.6390299181137,uspew2009_rel,880
-United States,2009,moral3,3,211.7663678733922,uspew2009_rel,880
-United States,2010,l_any2,1,697.6626240316361,usgss,880
-United States,2010,l_any2,2,535.0634152105273,usgss,880
-United States,2010,l_defect2,1,312.2398982683664,usgss,880
-United States,2010,l_defect2,2,909.7322146230082,usgss,880
-United States,2010,l_health2,1,163.50880800789122,usgss,880
-United States,2010,l_health2,2,1060.5356003344743,usgss,880
-United States,2010,l_n_an_a3,1,145.08277087033747,usvcu2010,880
-United States,2010,l_n_an_a3,2,437.3271758436945,usvcu2010,880
-United States,2010,l_n_an_a3,3,369.7367673179396,usvcu2010,880
-United States,2010,l_ncca4,1,498.4841711320316,uspew2010_rel,880
-United States,2010,l_ncca4,2,816.4106915271899,uspew2010_rel,880
-United States,2010,l_ncca4,3,980.3800442194354,uspew2010_rel,880
-United States,2010,l_ncca4,4,507.42853068955566,uspew2010_rel,880
-United States,2010,l_nomore2,1,630.2584043417196,usgss,880
-United States,2010,l_nomore2,2,590.2878963675524,usgss,880
-United States,2010,l_poor2,1,669.4978449406506,usgss,880
-United States,2010,l_poor2,2,561.268502158721,usgss,880
-United States,2010,l_rape2,1,252.43042252814058,usgss,880
-United States,2010,l_rape2,2,982.8894084608037,usgss,880
-United States,2010,l_single2,1,706.9805564184022,usgss,880
-United States,2010,l_single2,2,520.667006410368,usgss,880
-United States,2011,just10,1,500.96533899813335,wvs_combo,880
-United States,2011,just10,2,138.01442462859373,wvs_combo,880
-United States,2011,just10,3,131.79927178636336,wvs_combo,880
-United States,2011,just10,4,109.13047760334922,wvs_combo,880
-United States,2011,just10,5,519.420639869426,wvs_combo,880
-United States,2011,just10,6,156.93010719190352,wvs_combo,880
-United States,2011,just10,7,152.6165309036567,wvs_combo,880
-United States,2011,just10,8,162.09438878061667,wvs_combo,880
-United States,2011,just10,9,77.78448935557871,wvs_combo,880
-United States,2011,just10,10,220.03242389119893,wvs_combo,880
-United States,2011,l_defect2,1,847.8339955345997,prri2011_mra,880
-United States,2011,l_defect2,2,1993.251966987424,prri2011_mra,880
-United States,2011,l_health2,1,152.83652783028626,prri2011_mra,880
-United States,2011,l_health2,2,1302.3632381998586,prri2011_mra,880
-United States,2011,l_ncca4,1,1513.778569960334,"abcwapo201107, prri2011_mra, uspew2011_typo, uspew2011_09gen, uspew2011_11pol",880
-United States,2011,l_ncca4,2,2581.8305497598126,"abcwapo201107, prri2011_mra, uspew2011_typo, uspew2011_09gen, uspew2011_11pol",880
-United States,2011,l_ncca4,3,3440.312744080636,"abcwapo201107, prri2011_mra, uspew2011_typo, uspew2011_09gen, uspew2011_11pol",880
-United States,2011,l_ncca4,4,1887.682604954955,"abcwapo201107, prri2011_mra, uspew2011_typo, uspew2011_09gen, uspew2011_11pol",880
-United States,2011,l_poor2,1,1555.3288774440218,prri2011_mra,880
-United States,2011,l_poor2,2,1347.5165669203716,prri2011_mra,880
-United States,2011,l_rape2,1,515.8179315067515,prri2011_mra,880
-United States,2011,l_rape2,2,2384.9089443536936,prri2011_mra,880
-United States,2011,l_single2,1,1729.0728944496357,prri2011_mra,880
-United States,2011,l_single2,2,1155.2190257438172,prri2011_mra,880
-United States,2012,just_health2,1,146.17659247791084,amb_us2012,880
-United States,2012,just_health2,2,593.3725361680061,amb_us2012,880
-United States,2012,l_any2,1,716.8909451864981,usgss,880
-United States,2012,l_any2,2,537.6803487903777,usgss,880
-United States,2012,l_defect2,1,324.5903437156176,usgss,880
-United States,2012,l_defect2,2,902.6167313535008,usgss,880
-United States,2012,l_health2,1,162.89071149967447,usgss,880
-United States,2012,l_health2,2,1066.6719681222978,usgss,880
-United States,2012,l_ncca4,1,7970.067989294825,"abcwapo201203, anes_combo, cces2012, uspew2012_05val, uspew2012_07ial, uspew2012_10late",880
-United States,2012,l_ncca4,2,17364.985091054594,"abcwapo201203, anes_combo, cces2012, uspew2012_05val, uspew2012_07ial, uspew2012_10late",880
-United States,2012,l_ncca4,3,10235.497681506315,"abcwapo201203, anes_combo, cces2012, uspew2012_05val, uspew2012_07ial, uspew2012_10late",880
-United States,2012,l_ncca4,4,30521.151759946246,"abcwapo201203, anes_combo, cces2012, uspew2012_05val, uspew2012_07ial, uspew2012_10late",880
-United States,2012,l_nomore2,1,682.219046363861,usgss,880
-United States,2012,l_nomore2,2,556.3759879112412,usgss,880
-United States,2012,l_poor2,1,706.4423941375916,usgss,880
-United States,2012,l_poor2,2,523.1669862403278,usgss,880
-United States,2012,l_rape2,1,293.50667509413825,usgss,880
-United States,2012,l_rape2,2,928.1055591479053,usgss,880
-United States,2012,l_single2,1,725.767391922759,usgss,880
-United States,2012,l_single2,2,509.25062677009,usgss,880
-United States,2012,moral3,1,716.9448291211237,uspew2012_02pol,880
-United States,2012,moral3,2,378.98041446164495,uspew2012_02pol,880
-United States,2012,moral3,3,200.4896714311621,uspew2012_02pol,880
-United States,2013,l_ncca4,1,378.17691688650723,"abcwapo201307, uspew2013_07pol",880
-United States,2013,l_ncca4,2,617.7359506763853,"abcwapo201307, uspew2013_07pol",880
-United States,2013,l_ncca4,3,850.8314382152587,"abcwapo201307, uspew2013_07pol",880
-United States,2013,l_ncca4,4,488.3478126488618,"abcwapo201307, uspew2013_07pol",880
-United States,2013,moral3,1,493.15321347581477,pew2013,880
-United States,2013,moral3,2,232.93217207439602,pew2013,880
-United States,2013,moral3,3,169.73636022124992,pew2013,880
-United States,2014,just_health2,1,158.7492359608936,amb_us2014,880
-United States,2014,just_health2,2,588.4152355416472,amb_us2014,880
-United States,2014,l_any2,1,25039.12678640165,"cces2014, usgss",880
-United States,2014,l_any2,2,32338.36704957386,"cces2014, usgss",880
-United States,2014,l_defect2,1,414.3794658831522,usgss,880
-United States,2014,l_defect2,2,1233.076575011417,usgss,880
-United States,2014,l_health2,1,201.1882958358732,usgss,880
-United States,2014,l_health2,2,1453.6860692144458,usgss,880
-United States,2014,l_ncca4,1,286.984973205047,uspew2014_9rel,880
-United States,2014,l_ncca4,2,513.1327598544167,uspew2014_9rel,880
-United States,2014,l_ncca4,3,676.0832522535045,uspew2014_9rel,880
-United States,2014,l_ncca4,4,431.40501304999157,uspew2014_9rel,880
-United States,2014,l_nomore2,1,872.9484138922239,usgss,880
-United States,2014,l_nomore2,2,777.270998814817,usgss,880
-United States,2014,l_poor2,1,885.2579060816624,usgss,880
-United States,2014,l_poor2,2,765.4702659465157,usgss,880
-United States,2014,l_rape2,1,361.8533989400442,usgss,880
-United States,2014,l_rape2,2,1271.7273763575365,usgss,880
-United States,2014,l_rape2a,1,27989.074874240163,cces2014,880
-United States,2014,l_rape2a,2,27461.445298674014,cces2014,880
-United States,2014,l_single2,1,941.5621818489122,usgss,880
-United States,2014,l_single2,2,714.0351024691635,usgss,880
-United States,2015,l_any2,1,6397.442395163544,cces2015,880
-United States,2015,l_any2,2,7695.367174895027,cces2015,880
-United States,2015,l_ncca4,1,753.3316315454085,"uspew2015_05mra, uspew2015_09pol",880
-United States,2015,l_ncca4,2,1498.4324134102785,"uspew2015_05mra, uspew2015_09pol",880
-United States,2015,l_ncca4,3,1598.6209767786452,"uspew2015_05mra, uspew2015_09pol",880
-United States,2015,l_ncca4,4,1143.8958515927889,"uspew2015_05mra, uspew2015_09pol",880
-United States,2015,l_never2,1,2606.5407861678996,cces2015,880
-United States,2015,l_never2,2,11415.409465846426,cces2015,880
-United States,2015,l_rape2a,1,7486.650218984894,cces2015,880
-United States,2015,l_rape2a,2,6559.433142855342,cces2015,880
-United States,2016,l_any2,1,27847.532254009377,"cces2016, usgss",880
-United States,2016,l_any2,2,38510.06509797254,"cces2016, usgss",880
-United States,2016,l_defect2,1,479.38299939853744,usgss,880
-United States,2016,l_defect2,2,1333.852707494926,usgss,880
-United States,2016,l_health2,1,200.74963696932483,usgss,880
-United States,2016,l_health2,2,1629.2370397106392,usgss,880
-United States,2016,l_ncca4,1,1112.1318722353283,"anes_combo, uspew2016_3pol, uspew2016_10pol",880
-United States,2016,l_ncca4,2,1932.8598095280431,"anes_combo, uspew2016_3pol, uspew2016_10pol",880
-United States,2016,l_ncca4,3,1790.5611457356085,"anes_combo, uspew2016_3pol, uspew2016_10pol",880
-United States,2016,l_ncca4,4,2638.868973685435,"anes_combo, uspew2016_3pol, uspew2016_10pol",880
-United States,2016,l_never2,1,11113.868293074049,cces2016,880
-United States,2016,l_never2,2,53401.930067862966,cces2016,880
-United States,2016,l_nomore2,1,995.6836599555858,usgss,880
-United States,2016,l_nomore2,2,839.8221639656983,usgss,880
-United States,2016,l_poor2,1,1033.256934260446,usgss,880
-United States,2016,l_poor2,2,810.5358791112716,usgss,880
-United States,2016,l_rape2,1,415.2755712592937,usgss,880
-United States,2016,l_rape2,2,1411.032465252918,usgss,880
-United States,2016,l_rape2a,1,33256.61710679751,cces2016,880
-United States,2016,l_rape2a,2,31260.91229366805,cces2016,880
-United States,2016,l_single2,1,1075.3926904276523,usgss,880
-United States,2016,l_single2,2,770.4670313237934,usgss,880
-United States,2017,just10,1,565.4875365109294,wvs7,880
-United States,2017,just10,2,206.61574654879556,wvs7,880
-United States,2017,just10,3,190.23433562597137,wvs7,880
-United States,2017,just10,4,111.21931697909665,wvs7,880
-United States,2017,just10,5,530.106746441346,wvs7,880
-United States,2017,just10,6,169.76340650072729,wvs7,880
-United States,2017,just10,7,178.67921663501062,wvs7,880
-United States,2017,just10,8,234.04585937816356,wvs7,880
-United States,2017,just10,9,109.92515274055845,wvs7,880
-United States,2017,just10,10,271.46949719037156,wvs7,880
-United States,2017,l_any2,1,7981.518298203849,cces2017,880
-United States,2017,l_any2,2,10203.348051027275,cces2017,880
-United States,2017,l_ncca4,1,380.2827700472137,uspew2017_6typo,880
-United States,2017,l_ncca4,2,584.7537227880617,uspew2017_6typo,880
-United States,2017,l_ncca4,3,790.6362597230465,uspew2017_6typo,880
-United States,2017,l_ncca4,4,592.5373173233373,uspew2017_6typo,880
-United States,2017,l_never2,1,3161.228296943466,cces2017,880
-United States,2017,l_never2,2,15027.339187020603,cces2017,880
-United States,2017,l_rape2a,1,9899.07813071708,cces2017,880
-United States,2017,l_rape2a,2,8281.446755442785,cces2017,880
-United States,2017,moral3,1,2261.263849702111,pewrel2017_us,880
-United States,2017,moral3,2,1475.0495734276067,pewrel2017_us,880
-United States,2017,moral3,3,959.4495635060846,pewrel2017_us,880
-United States,2018,a_poor4,1,526.2655465347391,issp2018,880
-United States,2018,a_poor4,2,92.64462850104567,issp2018,880
-United States,2018,a_poor4,3,126.07136230075375,issp2018,880
-United States,2018,a_poor4,4,366.7614745417139,issp2018,880
-United States,2018,l_any2,1,24897.91835734152,"cces2018, usgss",880
-United States,2018,l_any2,2,36524.003039604395,"cces2018, usgss",880
-United States,2018,l_defect2,1,344.6986301394856,usgss,880
-United States,2018,l_defect2,2,1159.5415431565173,usgss,880
-United States,2018,l_health2,1,148.34858842189823,usgss,880
-United States,2018,l_health2,2,1368.3047129777647,usgss,880
-United States,2018,l_ncca4,1,255.65455755840915,uspew2018_09pol,880
-United States,2018,l_ncca4,2,387.67866656429834,uspew2018_09pol,880
-United States,2018,l_ncca4,3,594.3740273788064,uspew2018_09pol,880
-United States,2018,l_ncca4,4,431.4233252810484,uspew2018_09pol,880
-United States,2018,l_never2,1,9224,cces2018,880
-United States,2018,l_never2,2,50685,cces2018,880
-United States,2018,l_nomore2,1,740.4347319710732,usgss,880
-United States,2018,l_nomore2,2,781.5746027096254,usgss,880
-United States,2018,l_poor2,1,768.5280799501837,usgss,880
-United States,2018,l_poor2,2,759.041947454718,usgss,880
-United States,2018,l_rape2,1,313.6119542693946,usgss,880
-United States,2018,l_rape2,2,1188.5321642467688,usgss,880
-United States,2018,l_rape2a,1,35583,cces2018,880
-United States,2018,l_rape2a,2,24315,cces2018,880
-United States,2018,l_single2,1,821.6936002453417,usgss,880
-United States,2018,l_single2,2,698.2768337086259,usgss,880
-United States,2019,l_any2,1,8103.715023378611,cces2019,880
-United States,2019,l_any2,2,9772.191416328324,cces2019,880
-United States,2019,l_ncca4,1,707.9318477985465,"uspew2019_07amtr, uspew2019_07pol",880
-United States,2019,l_ncca4,2,1457.4489863795307,"uspew2019_07amtr, uspew2019_07pol",880
-United States,2019,l_ncca4,3,1924.9936720596627,"uspew2019_07amtr, uspew2019_07pol",880
-United States,2019,l_ncca4,4,1478.239934257286,"uspew2019_07amtr, uspew2019_07pol",880
-United States,2019,l_never2,1,3573.448379743188,cces2019,880
-United States,2019,l_never2,2,14404.536145412949,cces2019,880
-United States,2019,l_rape2a,1,10103.201567572476,cces2019,880
-United States,2019,l_rape2a,2,7868.052946001838,cces2019,880
-United States,2020,l_ncca4,1,905.0046810331198,anes2020,880
-United States,2020,l_ncca4,2,1993.073208548135,anes2020,880
-United States,2020,l_ncca4,3,1012.2312685805693,anes2020,880
-United States,2020,l_ncca4,4,4018.42029671566,anes2020,880
+United States,1962,l_defect2,1,1033,gallup_us196208,884
+United States,1962,l_defect2,2,1847,gallup_us196208,884
+United States,1962,l_health2,1,528,gallup_us196208,884
+United States,1962,l_health2,2,2571,gallup_us196208,884
+United States,1962,l_poor2,1,2473,gallup_us196208,884
+United States,1962,l_poor2,2,512,gallup_us196208,884
+United States,1965,l_defect2,1,1133,gallup_us196512,884
+United States,1965,l_defect2,2,1920,gallup_us196512,884
+United States,1965,l_health2,1,553,gallup_us196512,884
+United States,1965,l_health2,2,2715,gallup_us196512,884
+United States,1965,l_poor2,1,2545,gallup_us196512,884
+United States,1965,l_poor2,2,650,gallup_us196512,884
+United States,1969,l_defect2,1,403.82978723404256,gallup_us196909,884
+United States,1969,l_defect2,2,972.2340425531917,gallup_us196909,884
+United States,1969,l_health2,1,235.56737588652484,gallup_us196909,884
+United States,1969,l_health2,2,1224.3971631205675,gallup_us196909,884
+United States,1969,l_nomore2,1,1211.4893617021278,gallup_us196909,884
+United States,1969,l_nomore2,2,226.80851063829786,gallup_us196909,884
+United States,1969,l_poor2,1,1039.0780141843973,gallup_us196909,884
+United States,1969,l_poor2,2,360.0354609929078,gallup_us196909,884
+United States,1972,l_defect2,1,326.99666251029606,usgss,884
+United States,1972,l_defect2,2,1198.9877625377521,usgss,884
+United States,1972,l_health2,1,200.99794851550308,usgss,884
+United States,1972,l_health2,2,1337.9863438494683,usgss,884
+United States,1972,l_ncca4,1,281.26275497894505,anes_combo,884
+United States,1972,l_ncca4,2,1175.7548498949777,anes_combo,884
+United States,1972,l_ncca4,3,434.3309209538811,anes_combo,884
+United States,1972,l_ncca4,4,614.186015974431,anes_combo,884
+United States,1972,l_nomore2,1,920.9905999143201,usgss,884
+United States,1972,l_nomore2,2,606.9938047209471,usgss,884
+United States,1972,l_poor2,1,771.9921206665093,usgss,884
+United States,1972,l_poor2,2,734.992498302959,usgss,884
+United States,1972,l_rape2,1,315.9967747805919,usgss,884
+United States,1972,l_rape2,2,1195.9877931569238,usgss,884
+United States,1972,l_single2,1,847.9913449808289,usgss,884
+United States,1972,l_single2,2,653.9933250205921,usgss,884
+United States,1973,l_defect2,1,226.99768314934926,usgss,884
+United States,1973,l_defect2,2,1236.987374694912,usgss,884
+United States,1973,l_health2,1,113.99883647147935,usgss,884
+United States,1973,l_health2,2,1361.9860988960954,usgss,884
+United States,1973,l_nomore2,1,759.9922431431958,usgss,884
+United States,1973,l_nomore2,2,692.9929269713614,usgss,884
+United States,1973,l_poor2,1,677.9930800672194,usgss,884
+United States,1973,l_poor2,2,777.9920594281662,usgss,884
+United States,1973,l_rape2,1,238.99756067266287,usgss,884
+United States,1973,l_rape2,2,1211.9876298546753,usgss,884
+United States,1973,l_single2,1,737.9924676837874,usgss,884
+United States,1973,l_single2,2,711.9927330499412,usgss,884
+United States,1974,l_defect2,1,213.99781583242617,usgss,884
+United States,1974,l_defect2,2,1225.9874869652078,usgss,884
+United States,1974,l_health2,1,109.99887729704149,usgss,884
+United States,1974,l_health2,2,1341.9863030239062,usgss,884
+United States,1974,l_nomore2,1,748.9923554134916,usgss,884
+United States,1974,l_nomore2,2,661.9932433694678,usgss,884
+United States,1974,l_poor2,1,640.993457703669,usgss,884
+United States,1974,l_poor2,2,775.9920798409472,usgss,884
+United States,1974,l_rape2,1,191.99804037301786,usgss,884
+United States,1974,l_rape2,2,1227.9874665524267,usgss,884
+United States,1974,l_single2,1,708.9927636691128,usgss,884
+United States,1974,l_single2,2,710.9927432563318,usgss,884
+United States,1975,l_defect2,1,241.99753005349126,usgss,884
+United States,1975,l_defect2,2,1195.9877931569238,usgss,884
+United States,1975,l_health2,1,134.99862213727818,usgss,884
+United States,1975,l_health2,2,1313.986588802841,usgss,884
+United States,1975,l_nomore2,1,773.9921002537283,usgss,884
+United States,1975,l_nomore2,2,651.9933454333732,usgss,884
+United States,1975,l_poor2,1,662.9932331630773,usgss,884
+United States,1975,l_poor2,2,752.9923145879294,usgss,884
+United States,1975,l_rape2,1,231.9976321173966,usgss,884
+United States,1975,l_rape2,2,1189.987854395267,usgss,884
+United States,1975,l_single2,1,731.9925289221306,usgss,884
+United States,1975,l_single2,2,681.9930392416572,usgss,884
+United States,1976,l_defect2,1,233.99761170461554,usgss,884
+United States,1976,l_defect2,2,1222.9875175843795,usgss,884
+United States,1976,l_health2,1,134.99862213727818,usgss,884
+United States,1976,l_health2,2,1328.986435706983,usgss,884
+United States,1976,l_ncca4,1,242.51737546653936,anes_combo,884
+United States,1976,l_ncca4,2,995.4214168557563,anes_combo,884
+United States,1976,l_ncca4,3,362.1018801344582,anes_combo,884
+United States,1976,l_ncca4,4,591.7041290968623,anes_combo,884
+United States,1976,l_nomore2,1,778.9920492217756,usgss,884
+United States,1976,l_nomore2,2,667.9931821311246,usgss,884
+United States,1976,l_poor2,1,672.993131099172,usgss,884
+United States,1976,l_poor2,2,760.9922329368052,usgss,884
+United States,1976,l_rape2,1,234.99760149822498,usgss,884
+United States,1976,l_rape2,2,1204.987701299409,usgss,884
+United States,1976,l_single2,1,714.9927024307697,usgss,884
+United States,1976,l_single2,2,722.9926207796454,usgss,884
+United States,1977,l_any2,1,920.9905999143201,usgss,884
+United States,1977,l_any2,2,557.9943048340832,usgss,884
+United States,1977,l_defect2,1,215.9977954196451,usgss,884
+United States,1977,l_defect2,2,1270.987027677634,usgss,884
+United States,1977,l_doctor2,1,351.95460139134696,cbsnyt197710,884
+United States,1977,l_doctor2,2,1194.0657208132889,cbsnyt197710,884
+United States,1977,l_health2,1,140.99856089893498,usgss,884
+United States,1977,l_health2,2,1346.9862519919534,usgss,884
+United States,1977,l_nomore2,1,781.992018602604,usgss,884
+United States,1977,l_nomore2,2,679.9930596544383,usgss,884
+United States,1977,l_poor2,1,688.9929677969235,usgss,884
+United States,1977,l_poor2,2,788.9919471578703,usgss,884
+United States,1977,l_rape2,1,237.9975708790534,usgss,884
+United States,1977,l_rape2,2,1230.9874359332553,usgss,884
+United States,1977,l_single2,1,732.9925187157401,usgss,884
+United States,1977,l_single2,2,725.9925901604738,usgss,884
+United States,1978,l_any2,1,989.9898956733733,usgss,884
+United States,1978,l_any2,2,493.9949580430772,usgss,884
+United States,1978,l_defect2,1,269.99724427455635,usgss,884
+United States,1978,l_defect2,2,1226.9874767588174,usgss,884
+United States,1978,l_health2,1,139.99857110532554,usgss,884
+United States,1978,l_health2,2,1351.9862009600008,usgss,884
+United States,1978,l_ncca4,1,228.64557292506078,anes_combo,884
+United States,1978,l_ncca4,2,933.7158124471101,anes_combo,884
+United States,1978,l_ncca4,3,352.056781742353,anes_combo,884
+United States,1978,l_ncca4,4,577.8323265553837,anes_combo,884
+United States,1978,l_nomore2,1,884.9909673443792,usgss,884
+United States,1978,l_nomore2,2,597.9938965784619,usgss,884
+United States,1978,l_poor2,1,772.9921104601189,usgss,884
+United States,1978,l_poor2,2,695.9928963521897,usgss,884
+United States,1978,l_rape2,1,248.99745860875754,usgss,884
+United States,1978,l_rape2,2,1231.9874257268646,usgss,884
+United States,1978,l_single2,1,866.9911510594088,usgss,884
+United States,1978,l_single2,2,605.9938149273377,usgss,884
+United States,1979,l_doctor2,1,386.8050900568514,cbsnyt197911,884
+United States,1979,l_doctor2,2,940.3594945610658,cbsnyt197911,884
+United States,1980,l_any2,1,827.9915491086396,usgss,884
+United States,1980,l_any2,2,577.9941007062725,usgss,884
+United States,1980,l_defect2,1,239.99755046627234,usgss,884
+United States,1980,l_defect2,2,1178.987966665563,usgss,884
+United States,1980,l_doctor2,1,1289.190778264797,"cbsnyt198008, usap198009, usap198010",884
+United States,1980,l_doctor2,2,4704.483575253895,"cbsnyt198008, usap198009, usap198010",884
+United States,1980,l_health2,1,140.99856089893498,usgss,884
+United States,1980,l_health2,2,1287.9868541689948,usgss,884
+United States,1980,l_ncca4,1,297.526247613782,"anes_combo, anes_combo",884
+United States,1980,l_ncca4,2,1066.6937816378359,"anes_combo, anes_combo",884
+United States,1980,l_ncca4,3,515.6483841280659,"anes_combo, anes_combo",884
+United States,1980,l_ncca4,4,903.1021792521228,"anes_combo, anes_combo",884
+United States,1980,l_nomore2,1,743.9924064454442,usgss,884
+United States,1980,l_nomore2,2,662.9932331630773,usgss,884
+United States,1980,l_poor2,1,679.9930596544383,usgss,884
+United States,1980,l_poor2,2,727.9925697476928,usgss,884
+United States,1980,l_rape2,1,233.99761170461554,usgss,884
+United States,1980,l_rape2,2,1176.9879870783438,usgss,884
+United States,1980,l_single2,1,723.9926105732549,usgss,884
+United States,1980,l_single2,2,679.9930596544383,usgss,884
+United States,1981,free4,1,428,pa_w2,884
+United States,1981,free4,2,583,pa_w2,884
+United States,1981,free4,3,742,pa_w2,884
+United States,1981,free4,4,249,pa_w2,884
+United States,1981,just10,1,958.5571588602046,wvs_combo,884
+United States,1981,just10,2,131.12404222815127,wvs_combo,884
+United States,1981,just10,3,159.41116292136562,wvs_combo,884
+United States,1981,just10,4,118.72229965821984,wvs_combo,884
+United States,1981,just10,5,430.7166998163821,wvs_combo,884
+United States,1981,just10,6,107.15662962109279,wvs_combo,884
+United States,1981,just10,7,95.7303050060998,wvs_combo,884
+United States,1981,just10,8,116.0747366376727,wvs_combo,884
+United States,1981,just10,9,57.68900476350119,wvs_combo,884
+United States,1981,just10,10,102.69757611280284,wvs_combo,884
+United States,1981,l_doctor2,1,646.7286407021027,"cbsnyt198105, cbsnyt198106",884
+United States,1981,l_doctor2,2,1887.3000924134894,"cbsnyt198105, cbsnyt198106",884
+United States,1982,a_defect2,1,817.9503303420937,evs_combo,884
+United States,1982,a_defect2,2,1245.9638245997717,evs_combo,884
+United States,1982,a_health2,1,254.43367974185207,evs_combo,884
+United States,1982,a_health2,2,1934.4350496801928,evs_combo,884
+United States,1982,a_nomore2,1,1602.278318422723,evs_combo,884
+United States,1982,a_nomore2,2,522.9353414586503,evs_combo,884
+United States,1982,a_single2,1,1526.807913822552,evs_combo,884
+United States,1982,a_single2,2,524.2020946557651,evs_combo,884
+United States,1982,just10,1,1004.0851406680495,evs_combo,884
+United States,1982,just10,2,134.7279072333183,evs_combo,884
+United States,1982,just10,3,146.62788487546382,evs_combo,884
+United States,1982,just10,4,112.86222733201745,evs_combo,884
+United States,1982,just10,5,419.24529217347276,evs_combo,884
+United States,1982,just10,6,105.43964994239256,evs_combo,884
+United States,1982,just10,7,93.27035499182479,evs_combo,884
+United States,1982,just10,8,107.40085705622502,evs_combo,884
+United States,1982,just10,9,55.77176718413913,evs_combo,884
+United States,1982,just10,10,100.422653225497,evs_combo,884
+United States,1982,l_any2,1,1081.9889566854445,usgss,884
+United States,1982,l_any2,2,677.9930800672194,usgss,884
+United States,1982,l_defect2,1,316.9967645742014,usgss,884
+United States,1982,l_defect2,2,1457.9851190826043,usgss,884
+United States,1982,l_health2,1,172.99823429443796,usgss,884
+United States,1982,l_health2,2,1626.9833942026046,usgss,884
+United States,1982,l_ncca4,1,172.2016867218031,anes_combo,884
+United States,1982,l_ncca4,2,399.8905836095205,anes_combo,884
+United States,1982,l_ncca4,3,254.47582593333124,anes_combo,884
+United States,1982,l_ncca4,4,473.5546384849585,anes_combo,884
+United States,1982,l_nomore2,1,954.990252897042,usgss,884
+United States,1982,l_nomore2,2,807.9917532364502,usgss,884
+United States,1982,l_poor2,1,904.9907632165686,usgss,884
+United States,1982,l_poor2,2,867.9911408530182,usgss,884
+United States,1982,l_rape2,1,284.9970911786984,usgss,884
+United States,1982,l_rape2,2,1484.98484351006,usgss,884
+United States,1982,l_single2,1,960.9901916586988,usgss,884
+United States,1982,l_single2,2,802.9918042684028,usgss,884
+United States,1983,l_any2,1,995.9898344350302,usgss,884
+United States,1983,l_any2,2,518.994702883314,usgss,884
+United States,1983,l_defect2,1,319.99673395502975,usgss,884
+United States,1983,l_defect2,2,1193.987813569705,usgss,884
+United States,1983,l_health2,1,155.99840780307701,usgss,884
+United States,1983,l_health2,2,1363.9860784833145,usgss,884
+United States,1983,l_nomore2,1,927.9905284695864,usgss,884
+United States,1983,l_nomore2,2,591.993957816805,usgss,884
+United States,1983,l_poor2,1,848.9913347744384,usgss,884
+United States,1983,l_poor2,2,657.99328419503,usgss,884
+United States,1983,l_rape2,1,257.99736675124274,usgss,884
+United States,1983,l_rape2,2,1245.9872828373973,usgss,884
+United States,1983,l_single2,1,904.9907632165686,usgss,884
+United States,1983,l_single2,2,587.9939986423672,usgss,884
+United States,1984,l_any2,1,871.9911000274561,usgss,884
+United States,1984,l_any2,2,547.9944068979885,usgss,884
+United States,1984,l_defect2,1,280.9971320042605,usgss,884
+United States,1984,l_defect2,2,1139.9883647147935,usgss,884
+United States,1984,l_health2,1,149.9984690414202,usgss,884
+United States,1984,l_health2,2,1280.9869256137285,usgss,884
+United States,1984,l_ncca4,1,275.5226987548849,anes_combo,884
+United States,1984,l_ncca4,2,629.4928325719246,anes_combo,884
+United States,1984,l_ncca4,3,415.19740020701414,anes_combo,884
+United States,1984,l_ncca4,4,756.7307455385902,anes_combo,884
+United States,1984,l_nomore2,1,813.991691998107,usgss,884
+United States,1984,l_nomore2,2,605.9938149273377,usgss,884
+United States,1984,l_poor2,1,759.9922431431958,usgss,884
+United States,1984,l_poor2,2,653.9933250205921,usgss,884
+United States,1984,l_rape2,1,275.9971830362132,usgss,884
+United States,1984,l_rape2,2,1129.988466778699,usgss,884
+United States,1984,l_single2,1,791.9919165386987,usgss,884
+United States,1984,l_single2,2,627.993590386746,usgss,884
+United States,1985,l_any2,1,933.9904672312432,usgss,884
+United States,1985,l_any2,2,546.9944171043791,usgss,884
+United States,1985,l_defect2,1,318.9967441614203,usgss,884
+United States,1985,l_defect2,2,1166.9880891422492,usgss,884
+United States,1985,l_doctor2,1,408,nbc198507,884
+United States,1985,l_doctor2,2,1131,nbc198507,884
+United States,1985,l_health2,1,158.99837718390543,usgss,884
+United States,1985,l_health2,2,1331.9864050878114,usgss,884
+United States,1985,l_n_an_a3,1,335.1198364247125,"cbsnyt198501, cbsnyt198511",884
+United States,1985,l_n_an_a3,2,1129.0269916726268,"cbsnyt198501, cbsnyt198511",884
+United States,1985,l_n_an_a3,3,887.646808096439,"cbsnyt198501, cbsnyt198511",884
+United States,1985,l_nomore2,1,887.9909367252076,usgss,884
+United States,1985,l_nomore2,2,599.9938761656808,usgss,884
+United States,1985,l_poor2,1,837.9914470447342,usgss,884
+United States,1985,l_poor2,2,649.9933658461542,usgss,884
+United States,1985,l_rape2,1,276.99717282982266,usgss,884
+United States,1985,l_rape2,2,1196.9877829505333,usgss,884
+United States,1985,l_single2,1,873.9910796146751,usgss,884
+United States,1985,l_single2,2,611.9937536889944,usgss,884
+United States,1986,l_n_an_a3,1,268.9288529414855,cbsnyt198606,884
+United States,1986,l_n_an_a3,2,649.2767448083889,cbsnyt198606,884
+United States,1986,l_n_an_a3,3,657.1475356340962,cbsnyt198606,884
+United States,1986,l_ncca4,1,270.7393185681682,anes_combo,884
+United States,1986,l_ncca4,2,587.3990869288172,anes_combo,884
+United States,1986,l_ncca4,3,373.1036545639067,anes_combo,884
+United States,1986,l_ncca4,4,796.911139107011,anes_combo,884
+United States,1987,l_any2,1,1050.9892730835509,usgss,884
+United States,1987,l_any2,2,678.9930698608288,usgss,884
+United States,1987,l_defect2,1,383.9960807460357,usgss,884
+United States,1987,l_defect2,2,1359.9861193088766,usgss,884
+United States,1987,l_health2,1,210.99784645159775,usgss,884
+United States,1987,l_health2,2,1534.9843331905336,usgss,884
+United States,1987,l_n_an_a3,1,559.7121996074917,"cbsnyt198705, cbsnyt198708, usnwr198706",884
+United States,1987,l_n_an_a3,2,1569.4329671635303,"cbsnyt198705, cbsnyt198708, usnwr198706",884
+United States,1987,l_n_an_a3,3,1456.9113165280694,"cbsnyt198705, cbsnyt198708, usnwr198706",884
+United States,1987,l_nomore2,1,1027.989507830533,usgss,884
+United States,1987,l_nomore2,2,713.9927126371601,usgss,884
+United States,1987,l_poor2,1,963.9901610395272,usgss,884
+United States,1987,l_poor2,2,777.9920594281662,usgss,884
+United States,1987,l_rape2,1,352.99639714414224,usgss,884
+United States,1987,l_rape2,2,1375.985956006628,usgss,884
+United States,1987,l_single2,1,1044.9893343218941,usgss,884
+United States,1987,l_single2,2,699.9928555266276,usgss,884
+United States,1988,l_any2,1,597.9938965784619,usgss,884
+United States,1988,l_any2,2,337.9965502400002,usgss,884
+United States,1988,l_defect2,1,199.9979587218936,usgss,884
+United States,1988,l_defect2,2,743.9924064454442,usgss,884
+United States,1988,l_health2,1,105.99891812260361,usgss,884
+United States,1988,l_health2,2,835.9914674575153,usgss,884
+United States,1988,l_n_an_a3,1,853.7784160962904,"cbsnyt198807, cbsnyt198810",884
+United States,1988,l_n_an_a3,2,975.4253340945631,"cbsnyt198807, cbsnyt198810",884
+United States,1988,l_ncca4,1,242.03903744786768,anes_combo,884
+United States,1988,l_ncca4,2,633.319536721298,anes_combo,884
+United States,1988,l_ncca4,3,353.9701338170397,anes_combo,884
+United States,1988,l_ncca4,4,680.1966625511222,anes_combo,884
+United States,1988,l_nomore2,1,569.9941823573968,usgss,884
+United States,1988,l_nomore2,2,378.9961317779884,usgss,884
+United States,1988,l_poor2,1,545.9944273107695,usgss,884
+United States,1988,l_poor2,2,394.99596847573986,usgss,884
+United States,1988,l_rape2,1,174.9982138816569,usgss,884
+United States,1988,l_rape2,2,748.9923554134916,usgss,884
+United States,1988,l_single2,1,564.9942333893495,usgss,884
+United States,1988,l_single2,2,366.9962542546748,usgss,884
+United States,1989,l_any2,1,589.9939782295861,usgss,884
+United States,1989,l_any2,2,398.99592765017775,usgss,884
+United States,1989,l_defect2,1,781.0661219500759,"cbsnyt198905, cbsnyt198909, usgss",884
+United States,1989,l_defect2,2,2726.1770229471754,"cbsnyt198905, cbsnyt198909, usgss",884
+United States,1989,l_doctor2,1,1656.3893792191088,"cbsnyt198901, cbsnyt198905, cbsnyt198909, usap198901, usap198907",884
+United States,1989,l_doctor2,2,4090.3510476491037,"cbsnyt198901, cbsnyt198905, cbsnyt198909, usap198901, usap198907",884
+United States,1989,l_health2,1,304.5690068941963,"cbsnyt198905, cbsnyt198909, usgss",884
+United States,1989,l_health2,2,3297.290639057716,"cbsnyt198905, cbsnyt198909, usgss",884
+United States,1989,l_n_an_a3,1,1024.8406470201392,"cbsnyt198901, cbsnyt198905, cbsnyt198909, usap198901",884
+United States,1989,l_n_an_a3,2,2204.3319889273916,"cbsnyt198901, cbsnyt198905, cbsnyt198909, usap198901",884
+United States,1989,l_n_an_a3,3,1820.8779281825923,"cbsnyt198905, cbsnyt198909, usap198901",884
+United States,1989,l_nomore2,1,549.9943864852074,usgss,884
+United States,1989,l_nomore2,2,440.9954989817754,usgss,884
+United States,1989,l_poor2,1,1839.9219137197458,"cbsnyt198905, cbsnyt198909, usgss",884
+United States,1989,l_poor2,2,1717.3410485492163,"cbsnyt198905, cbsnyt198909, usgss",884
+United States,1989,l_rape2,1,337.18392447944177,"cbsnyt198909, usgss",884
+United States,1989,l_rape2,2,1924.3401312900571,"cbsnyt198909, usgss",884
+United States,1989,l_single2,1,1861.7936611195037,"cbsnyt198905, cbsnyt198909, usgss",884
+United States,1989,l_single2,2,1673.2174266124964,"cbsnyt198905, cbsnyt198909, usgss",884
+United States,1990,a_defect2,1,813.6781974271131,evs_combo,884
+United States,1990,a_defect2,2,979.4919882152564,evs_combo,884
+United States,1990,a_health2,1,265.0905536145819,evs_combo,884
+United States,1990,a_health2,2,1564.5566200450755,evs_combo,884
+United States,1990,a_nomore2,1,1337.3078688537275,evs_combo,884
+United States,1990,a_nomore2,2,477.78949497880944,evs_combo,884
+United States,1990,a_single2,1,1253.566236002997,evs_combo,884
+United States,1990,a_single2,2,534.7616029154797,evs_combo,884
+United States,1990,just10,1,600.0573848365633,evs_combo,884
+United States,1990,just10,2,129.79462590171457,evs_combo,884
+United States,1990,just10,3,131.8842743392155,evs_combo,884
+United States,1990,just10,4,112.76671857404402,evs_combo,884
+United States,1990,just10,5,297.8988972646999,evs_combo,884
+United States,1990,just10,6,171.05567158374777,evs_combo,884
+United States,1990,just10,7,120.55257581449405,evs_combo,884
+United States,1990,just10,8,108.88449232126773,evs_combo,884
+United States,1990,just10,9,33.73324453658683,evs_combo,884
+United States,1990,just10,10,97.418605885927,evs_combo,884
+United States,1990,l_any2,1,495.99493763029614,usgss,884
+United States,1990,l_any2,2,380.9961113652073,usgss,884
+United States,1990,l_defect2,1,164.99831594556224,usgss,884
+United States,1990,l_defect2,2,714.9927024307697,usgss,884
+United States,1990,l_health2,1,72.99925493349117,usgss,884
+United States,1990,l_health2,2,813.991691998107,usgss,884
+United States,1990,l_ncca4,1,224.81886877568738,anes_combo,884
+United States,1990,l_ncca4,2,614.186015974431,anes_combo,884
+United States,1990,l_ncca4,3,266.91261441879476,anes_combo,884
+United States,1990,l_ncca4,4,742.38060497844,anes_combo,884
+United States,1990,l_nomore2,1,482.99507031337305,usgss,884
+United States,1990,l_nomore2,2,395.99595826934933,usgss,884
+United States,1990,l_poor2,1,448.99541733065115,usgss,884
+United States,1990,l_poor2,2,415.9957541415387,usgss,884
+United States,1990,l_rape2,1,132.99864255005926,usgss,884
+United States,1990,l_rape2,2,739.9924472710063,usgss,884
+United States,1990,l_single2,1,476.99513155171627,usgss,884
+United States,1990,l_single2,2,394.99596847573986,usgss,884
+United States,1991,a_defect4,1,284.19128823202016,issp1991,884
+United States,1991,a_defect4,2,133.4374865892281,issp1991,884
+United States,1991,a_defect4,3,166.0329031606426,issp1991,884
+United States,1991,a_defect4,4,674.3176803211373,issp1991,884
+United States,1991,a_poor4,1,487.9126418033607,issp1991,884
+United States,1991,a_poor4,2,198.6283197320571,issp1991,884
+United States,1991,a_poor4,3,144.64216103565184,issp1991,884
+United States,1991,a_poor4,4,415.59156128553485,issp1991,884
+United States,1991,l_any2,1,545.9944273107695,usgss,884
+United States,1991,l_any2,2,404.9958664118346,usgss,884
+United States,1991,l_defect2,1,155.99840780307701,usgss,884
+United States,1991,l_defect2,2,787.9919573642608,usgss,884
+United States,1991,l_defect4,1,825.0714819639294,issp1991,884
+United States,1991,l_defect4,2,236.3167701427551,issp1991,884
+United States,1991,l_defect4,3,75.37690082139602,issp1991,884
+United States,1991,l_defect4,4,148.71658810707865,issp1991,884
+United States,1991,l_health2,1,80.99917328236691,usgss,884
+United States,1991,l_health2,2,873.9910796146751,usgss,884
+United States,1991,l_n_an_a3,1,66.15940889911714,nbcwsj199106,884
+United States,1991,l_n_an_a3,2,359.36377549110176,nbcwsj199106,884
+United States,1991,l_n_an_a3,3,569.5704663130158,nbcwsj199106,884
+United States,1991,l_nomore2,1,525.9946314385802,usgss,884
+United States,1991,l_nomore2,2,423.99567249041445,usgss,884
+United States,1991,l_poor2,1,486.99502948781094,usgss,884
+United States,1991,l_poor2,2,457.99532547313635,usgss,884
+United States,1991,l_poor4,1,487.9126418033607,issp1991,884
+United States,1991,l_poor4,2,201.6841400356272,issp1991,884
+United States,1991,l_poor4,3,167.05150992849929,issp1991,884
+United States,1991,l_poor4,4,385.0333582498337,issp1991,884
+United States,1991,l_rape2,1,127.99869358201191,usgss,884
+United States,1991,l_rape2,2,816.9916613789354,usgss,884
+United States,1991,l_single2,1,523.9946518513613,usgss,884
+United States,1991,l_single2,2,425.9956520776334,usgss,884
+United States,1992,l_doctor2,1,196.37538495966294,usap199205,884
+United States,1992,l_doctor2,2,577.410870911224,usap199205,884
+United States,1992,l_ncca4,1,245.93175224381775,anes_combo,884
+United States,1992,l_ncca4,2,651.8160068948981,anes_combo,884
+United States,1992,l_ncca4,3,328.666435299723,anes_combo,884
+United States,1992,l_ncca4,4,1077.2035375812786,anes_combo,884
+United States,1993,govint4,1,215,nbcwsj199306,884
+United States,1993,govint4,2,97,nbcwsj199306,884
+United States,1993,govint4,3,186,nbcwsj199306,884
+United States,1993,govint4,4,951,nbcwsj199306,884
+United States,1993,l_any2,1,551.9943660724264,usgss,884
+United States,1993,l_any2,2,457.99532547313635,usgss,884
+United States,1993,l_defect2,1,192.99803016662733,usgss,884
+United States,1993,l_defect2,2,839.9914266319531,usgss,884
+United States,1993,l_health2,1,104.99892832899414,usgss,884
+United States,1993,l_health2,2,922.9905795015391,usgss,884
+United States,1993,l_nomore2,1,538.9944987555033,usgss,884
+United States,1993,l_nomore2,2,479.9951009325447,usgss,884
+United States,1993,l_poor2,1,510.99478453443817,usgss,884
+United States,1993,l_poor2,2,507.99481515360975,usgss,884
+United States,1993,l_rape2,1,174.9982138816569,usgss,884
+United States,1993,l_rape2,2,849.9913245680478,usgss,884
+United States,1993,l_single2,1,525.9946314385802,usgss,884
+United States,1993,l_single2,2,487.9950192814204,usgss,884
+United States,1994,free5a,1,292.37636241504083,issp1994,884
+United States,1994,free5a,2,268.0895080291269,issp1994,884
+United States,1994,free5a,3,117.69783279327523,issp1994,884
+United States,1994,free5a,4,326.0043146416909,issp1994,884
+United States,1994,free5a,5,240.06621450691853,issp1994,884
+United States,1994,govint4,1,135,nbcwsj199406,884
+United States,1994,govint4,2,67,nbcwsj199406,884
+United States,1994,govint4,3,129,nbcwsj199406,884
+United States,1994,govint4,4,398,nbcwsj199406,884
+United States,1994,l_any2,1,1038.9893955602372,usgss,884
+United States,1994,l_any2,2,894.9908652804739,usgss,884
+United States,1994,l_defect2,1,340.9965196208286,usgss,884
+United States,1994,l_defect2,2,1584.9838228710069,usgss,884
+United States,1994,l_health2,1,180.99815264331372,usgss,884
+United States,1994,l_health2,2,1752.9821081973976,usgss,884
+United States,1994,l_ncca4,1,223.33037652918486,anes_combo,884
+United States,1994,l_ncca4,2,526.3551196675978,anes_combo,884
+United States,1994,l_ncca4,3,239.8902474003908,anes_combo,884
+United States,1994,l_ncca4,4,673.4462607640237,anes_combo,884
+United States,1994,l_nomore2,1,994.9898446414207,usgss,884
+United States,1994,l_nomore2,2,929.9905080568053,usgss,884
+United States,1994,l_poor2,1,953.9902631034325,usgss,884
+United States,1994,l_poor2,2,970.9900895947935,usgss,884
+United States,1994,l_rape2,1,317.99675436781087,usgss,884
+United States,1994,l_rape2,2,1615.9835064729004,usgss,884
+United States,1994,l_single2,1,1014.9896405136101,usgss,884
+United States,1994,l_single2,2,922.9905795015391,usgss,884
+United States,1995,just10,1,506.77023556152375,wvs_combo,884
+United States,1995,just10,2,95.13925688414353,wvs_combo,884
+United States,1995,just10,3,105.07671346775882,wvs_combo,884
+United States,1995,just10,4,85.53221447408926,wvs_combo,884
+United States,1995,just10,5,323.49550101765874,wvs_combo,884
+United States,1995,just10,6,91.78505239496357,wvs_combo,884
+United States,1995,just10,7,84.10041972199154,wvs_combo,884
+United States,1995,just10,8,74.65357812336079,wvs_combo,884
+United States,1995,just10,9,37.26671375739657,wvs_combo,884
+United States,1995,just10,10,82.91893873774306,wvs_combo,884
+United States,1995,l_doctor2,1,218.3731419436035,usap199502,884
+United States,1995,l_doctor2,2,659.5408007075071,usap199502,884
+United States,1995,l_n_an_a3,1,194,nbcwsj199512,884
+United States,1995,l_n_an_a3,2,563,nbcwsj199512,884
+United States,1995,l_n_an_a3,3,1157,nbcwsj199512,884
+United States,1995,l_ncca4,1,440.760155177031,"abcwapo199507, abcwapo199509, abcwapo199510",884
+United States,1995,l_ncca4,2,903.9693842335496,"abcwapo199507, abcwapo199509, abcwapo199510",884
+United States,1995,l_ncca4,3,1206.2044381769806,"abcwapo199507, abcwapo199509, abcwapo199510",884
+United States,1995,l_ncca4,4,910.853008569067,"abcwapo199507, abcwapo199509, abcwapo199510",884
+United States,1996,l_any2,1,1001.989773196687,usgss,884
+United States,1996,l_any2,2,818.9916409661544,usgss,884
+United States,1996,l_defect2,1,335.99657065278126,usgss,884
+United States,1996,l_defect2,2,1513.9845475247346,usgss,884
+United States,1996,l_health2,1,155.99840780307701,usgss,884
+United States,1996,l_health2,2,1693.982710374439,usgss,884
+United States,1996,l_n_an_a3,1,614,"nbcwsj199603, nbcwsj199605, nbcwsj199606, nbcwsj199608, nbcwsj199609",884
+United States,1996,l_n_an_a3,2,2049,"nbcwsj199603, nbcwsj199605, nbcwsj199606, nbcwsj199608, nbcwsj199609",884
+United States,1996,l_n_an_a3,3,3835,"nbcwsj199603, nbcwsj199605, nbcwsj199606, nbcwsj199608, nbcwsj199609",884
+United States,1996,l_ncca4,1,752.7355911033574,"abcwapo199607, abcwapo199608, anes_combo, uspew1996_05pol",884
+United States,1996,l_ncca4,2,1799.1609479074075,"abcwapo199607, abcwapo199608, anes_combo, uspew1996_05pol",884
+United States,1996,l_ncca4,3,1575.8548565529804,"abcwapo199607, abcwapo199608, anes_combo, uspew1996_05pol",884
+United States,1996,l_ncca4,4,1839.9098520225525,"abcwapo199607, abcwapo199608, anes_combo, uspew1996_05pol",884
+United States,1996,l_nomore2,1,971.9900793884029,usgss,884
+United States,1996,l_nomore2,2,852.9912939488762,usgss,884
+United States,1996,l_poor2,1,976.9900283564502,usgss,884
+United States,1996,l_poor2,2,852.9912939488762,usgss,884
+United States,1996,l_rape2,1,288.9970503531363,usgss,884
+United States,1996,l_rape2,2,1549.9841800946754,usgss,884
+United States,1996,l_single2,1,1009.9896915455628,usgss,884
+United States,1996,l_single2,2,821.9916103469827,usgss,884
+United States,1998,a_defect4,1,274.94004653147346,issp1998,884
+United States,1998,a_defect4,2,110.97580059997657,issp1998,884
+United States,1998,a_defect4,3,158.96533599456103,issp1998,884
+United States,1998,a_defect4,4,620.8646141674365,issp1998,884
+United States,1998,a_poor4,1,548.8803110755598,issp1998,884
+United States,1998,a_poor4,2,137.96991425943034,issp1998,884
+United States,1998,a_poor4,3,111.97558258736375,issp1998,884
+United States,1998,a_poor4,4,358.9217334719963,issp1998,884
+United States,1998,l_any2,1,1049.9892832899413,usgss,884
+United States,1998,l_any2,2,727.9925697476928,usgss,884
+United States,1998,l_defect2,1,584.5356695717416,"cbsnyt199801, usgss",884
+United States,1998,l_defect2,2,2240.9695715603675,"cbsnyt199801, usgss",884
+United States,1998,l_doctor2,1,268.5976133035889,cbsnyt199801,884
+United States,1998,l_doctor2,2,655.0100750634007,cbsnyt199801,884
+United States,1998,l_health2,1,296.2563240960027,"cbsnyt199801, usgss",884
+United States,1998,l_health2,2,2551.7204966250483,"cbsnyt199801, usgss",884
+United States,1998,l_n_an_a3,1,105,nbcwsj199801,884
+United States,1998,l_n_an_a3,2,259,nbcwsj199801,884
+United States,1998,l_n_an_a3,3,607,nbcwsj199801,884
+United States,1998,l_ncca4,1,221.20790942032193,"anes_combo, nbcwsj199802",884
+United States,1998,l_ncca4,2,614.2501783820813,"anes_combo, nbcwsj199802",884
+United States,1998,l_ncca4,3,431.51046908395267,"anes_combo, nbcwsj199802",884
+United States,1998,l_ncca4,4,926.8401077449844,"anes_combo, nbcwsj199802",884
+United States,1998,l_nomore2,1,1638.3606464045158,"cbsnyt199801, usgss",884
+United States,1998,l_nomore2,2,1191.3804559667983,"cbsnyt199801, usgss",884
+United States,1998,l_poor2,1,1583.634130264366,"cbsnyt199801, usgss",884
+United States,1998,l_poor2,2,1261.4504106834522,"cbsnyt199801, usgss",884
+United States,1998,l_rape2,1,490.80513448552165,"cbsnyt199801, usgss",884
+United States,1998,l_rape2,2,2367.3102755813225,"cbsnyt199801, usgss",884
+United States,1998,l_single2,1,1711.1678786141993,"cbsnyt199801, usgss",884
+United States,1998,l_single2,2,1141.8506451845026,"cbsnyt199801, usgss",884
+United States,1999,just10,1,354.01760333701526,wvs_combo,884
+United States,1999,just10,2,83.63114656644044,wvs_combo,884
+United States,1999,just10,3,74.46971837815711,wvs_combo,884
+United States,1999,just10,4,66.01917539867391,wvs_combo,884
+United States,1999,just10,5,183.94811819592167,wvs_combo,884
+United States,1999,just10,6,145.15459888709614,wvs_combo,884
+United States,1999,just10,7,69.10527543020169,wvs_combo,884
+United States,1999,just10,8,84.58865263199833,wvs_combo,884
+United States,1999,just10,9,34.10101184833987,wvs_combo,884
+United States,1999,just10,10,97.12622371176496,wvs_combo,884
+United States,1999,l_ncca4,1,812.2272346277323,"abcwapo199903, abcwapo199908",884
+United States,1999,l_ncca4,2,446.80046018496284,"abcwapo199903, abcwapo199908",884
+United States,1999,l_ncca4,3,1058.3448305839474,"abcwapo199903, abcwapo199908",884
+United States,1999,l_ncca4,4,617.5140630681101,"abcwapo199903, abcwapo199908",884
+United States,2000,l_any2,1,1062.9891506068645,usgss,884
+United States,2000,l_any2,2,704.9928044946749,usgss,884
+United States,2000,l_defect2,1,803.9961521907694,"lat200006, usgss",884
+United States,2000,l_defect2,2,2827.985741672427,"lat200006, usgss",884
+United States,2000,l_health2,1,360.9979076899409,"lat200006, usgss",884
+United States,2000,l_health2,2,3379.983873902959,"lat200006, usgss",884
+United States,2000,l_n_an_a3,1,481.05127198499196,"lat200006, nbcwsj200001, nbcwsj200006, nbcwsj200007",884
+United States,2000,l_n_an_a3,2,1791.1708605515555,"lat200006, nbcwsj200001, nbcwsj200006, nbcwsj200007",884
+United States,2000,l_n_an_a3,3,2693.091004255078,"lat200006, nbcwsj200001, nbcwsj200006, nbcwsj200007",884
+United States,2000,l_ncca4,1,690.9141602624875,"abcwapo200007, abcwapo200009, anes_combo",884
+United States,2000,l_ncca4,2,983.5214538737582,"abcwapo200007, abcwapo200009, anes_combo",884
+United States,2000,l_ncca4,3,1006.1909145633321,"abcwapo200007, abcwapo200009, anes_combo",884
+United States,2000,l_ncca4,4,1119.8702557113122,"abcwapo200007, abcwapo200009, anes_combo",884
+United States,2000,l_nomore2,1,1049.9892832899413,usgss,884
+United States,2000,l_nomore2,2,719.992651398817,usgss,884
+United States,2000,l_poor2,1,2112.9895486560954,"lat200006, usgss",884
+United States,2000,l_poor2,2,1565.9923554134916,"lat200006, usgss",884
+United States,2000,l_rape2,1,562.9965298272191,"lat200006, usgss",884
+United States,2000,l_rape2,2,3176.9856191957406,"lat200006, usgss",884
+United States,2000,l_single2,1,1075.9890179237875,usgss,884
+United States,2000,l_single2,2,690.9929473841424,usgss,884
+United States,2001,l_health2,1,205.8680208068067,abcwapo200101,884
+United States,2001,l_health2,2,1282.5916700864184,abcwapo200101,884
+United States,2001,l_n_an_a3,1,155.02562013896966,usvcu2001,884
+United States,2001,l_n_an_a3,2,494.4999225338924,usvcu2001,884
+United States,2001,l_n_an_a3,3,409.9128021096718,usvcu2001,884
+United States,2001,l_ncca4,1,213.53159873659646,abcwapo200101,884
+United States,2001,l_ncca4,2,378.0955774597377,abcwapo200101,884
+United States,2001,l_ncca4,3,576.8642113499712,abcwapo200101,884
+United States,2001,l_ncca4,4,315.3155774584159,abcwapo200101,884
+United States,2001,l_rape2,1,238.71229764284652,abcwapo200101,884
+United States,2001,l_rape2,2,1243.3508951377576,abcwapo200101,884
+United States,2002,l_any2,1,512.9947641216571,usgss,884
+United States,2002,l_any2,2,386.99605012686413,usgss,884
+United States,2002,l_defect2,1,192.99803016662733,usgss,884
+United States,2002,l_defect2,2,702.992824907456,usgss,884
+United States,2002,l_health2,1,75.99922431431958,usgss,884
+United States,2002,l_health2,2,824.9915797278111,usgss,884
+United States,2002,l_n_an_a3,1,181.9683415359513,usvcu2002,884
+United States,2002,l_n_an_a3,2,466.9306234386467,usvcu2002,884
+United States,2002,l_n_an_a3,3,294.654706022842,usvcu2002,884
+United States,2002,l_nomore2,1,492.9949682494678,usgss,884
+United States,2002,l_nomore2,2,399.9959174437872,usgss,884
+United States,2002,l_poor2,1,495.99493763029614,usgss,884
+United States,2002,l_poor2,2,395.99595826934933,usgss,884
+United States,2002,l_rape2,1,183.99812202414213,usgss,884
+United States,2002,l_rape2,2,720.9926411924265,usgss,884
+United States,2002,l_single2,1,518.994702883314,usgss,884
+United States,2002,l_single2,2,375.99616239716,usgss,884
+United States,2003,l_health2,1,152.18078812164427,abcwapo200301,884
+United States,2003,l_health2,2,918.7839020700079,abcwapo200301,884
+United States,2003,l_n_an_a3,1,348.6807550041017,"nbcwsj200301, nbcwsj200311, usvcu2003",884
+United States,2003,l_n_an_a3,2,869.8784692504662,"nbcwsj200301, nbcwsj200311, usvcu2003",884
+United States,2003,l_n_an_a3,3,1207.4300333849476,"nbcwsj200301, nbcwsj200311, usvcu2003",884
+United States,2003,l_ncca4,1,555.3281066713186,"abcwapo200301, lat200301, lat200311",884
+United States,2003,l_ncca4,2,1391.3854176748955,"abcwapo200301, lat200301, lat200311",884
+United States,2003,l_ncca4,3,794.6721934011772,"abcwapo200301, lat200301, lat200311",884
+United States,2003,l_ncca4,4,1015.0238812747062,"abcwapo200301, lat200301, lat200311",884
+United States,2003,l_rape2,1,188.49941822867027,abcwapo200301,884
+United States,2003,l_rape2,2,907.8658531429642,abcwapo200301,884
+United States,2004,l_any2,1,491.19498662097067,usgss,884
+United States,2004,l_any2,2,332.1866095391292,usgss,884
+United States,2004,l_defect2,1,230.83764395680961,usgss,884
+United States,2004,l_defect2,2,601.6238595292643,usgss,884
+United States,2004,l_health2,1,122.28875186050186,usgss,884
+United States,2004,l_health2,2,717.3826780374962,usgss,884
+United States,2004,l_n_an_a3,1,174.3393181234829,usvcu2004,884
+United States,2004,l_n_an_a3,2,452.20299380657195,usvcu2004,884
+United States,2004,l_n_an_a3,3,323.68149023130525,usvcu2004,884
+United States,2004,l_ncca4,1,515.068278105713,"abcwapo200405, abcwapo200412, anes_combo",884
+United States,2004,l_ncca4,2,802.0676849096385,"abcwapo200405, abcwapo200412, anes_combo",884
+United States,2004,l_ncca4,3,823.1439013325876,"abcwapo200405, abcwapo200412, anes_combo",884
+United States,2004,l_ncca4,4,800.5761924577714,"abcwapo200405, abcwapo200412, anes_combo",884
+United States,2004,l_nomore2,1,487.36502571144644,usgss,884
+United States,2004,l_nomore2,2,350.1664260282274,usgss,884
+United States,2004,l_poor2,1,488.8650104018607,usgss,884
+United States,2004,l_poor2,2,343.24649665644995,usgss,884
+United States,2004,l_rape2,1,202.3079351451315,usgss,884
+United States,2004,l_rape2,2,629.1035790576525,usgss,884
+United States,2004,l_single2,1,492.2249761083885,usgss,884
+United States,2004,l_single2,2,349.4564332747647,usgss,884
+United States,2005,l_n_an_a3,1,264.4706017707194,"nbcwsj200505, usvcu2005",884
+United States,2005,l_n_an_a3,2,728.5973078009749,"nbcwsj200505, usvcu2005",884
+United States,2005,l_n_an_a3,3,942.5992052266936,"nbcwsj200505, usvcu2005",884
+United States,2005,l_ncca4,1,398.1620772205696,"abcwapo200505, abcwapo200512, lat200501",884
+United States,2005,l_ncca4,2,975.4537166799842,"abcwapo200505, abcwapo200512, lat200501",884
+United States,2005,l_ncca4,3,956.2941794963003,"abcwapo200505, abcwapo200512, lat200501",884
+United States,2005,l_ncca4,4,624.5780874596717,"abcwapo200505, abcwapo200512, lat200501",884
+United States,2006,govint4,1,227.81005913787982,pewrel2006_10nat,884
+United States,2006,govint4,2,153.58662196500796,pewrel2006_10nat,884
+United States,2006,govint4,3,240.91240568199467,pewrel2006_10nat,884
+United States,2006,govint4,4,396.68007833932216,pewrel2006_10nat,884
+United States,2006,just10,1,297.830750485593,wvs_combo,884
+United States,2006,just10,2,86.1282970805393,wvs_combo,884
+United States,2006,just10,3,70.4040025176657,wvs_combo,884
+United States,2006,just10,4,49.935395018571825,wvs_combo,884
+United States,2006,just10,5,307.93994049737034,wvs_combo,884
+United States,2006,just10,6,79.56232812239476,wvs_combo,884
+United States,2006,just10,7,74.99817896856258,wvs_combo,884
+United States,2006,just10,8,81.383984144319,wvs_combo,884
+United States,2006,just10,9,37.33393935042552,wvs_combo,884
+United States,2006,just10,10,82.45495773962612,wvs_combo,884
+United States,2006,just3,1,529.4209896893918,pewrel2006_10nat,884
+United States,2006,just3,2,452.74802213087105,pewrel2006_10nat,884
+United States,2006,just3,3,54.40165122775651,pewrel2006_10nat,884
+United States,2006,l_any2,1,1161.708143031991,usgss,884
+United States,2006,l_any2,2,769.6621444473992,usgss,884
+United States,2006,l_defect2,1,519.1447013523554,usgss,884
+United States,2006,l_defect2,2,1398.8557225864765,usgss,884
+United States,2006,l_health2,1,253.33741431302263,usgss,884
+United States,2006,l_health2,2,1664.1630147290045,usgss,884
+United States,2006,l_n_an_a3,1,146.81926117124053,usvcu2006,884
+United States,2006,l_n_an_a3,2,450.1458885702921,usvcu2006,884
+United States,2006,l_n_an_a3,3,371.14356279308464,usvcu2006,884
+United States,2006,l_ncca4,1,130.78217961152168,lat200605,884
+United States,2006,l_ncca4,2,562.697100857553,lat200605,884
+United States,2006,l_ncca4,3,255.0948061882961,lat200605,884
+United States,2006,l_ncca4,4,364.58116537596436,lat200605,884
+United States,2006,l_nomore2,1,1117.4885943585805,usgss,884
+United States,2006,l_nomore2,2,808.8317446630822,usgss,884
+United States,2006,l_poor2,1,1109.9886709065095,usgss,884
+United States,2006,l_poor2,2,812.7617045519673,usgss,884
+United States,2006,l_rape2,1,431.4655962486772,usgss,884
+United States,2006,l_rape2,2,1476.1649335304246,usgss,884
+United States,2006,l_single2,1,1178.3079736059083,usgss,884
+United States,2006,l_single2,2,755.0222938689567,usgss,884
+United States,2006,moral3,1,384.60987196741945,uspew2006_02nii,884
+United States,2006,moral3,2,170.4354432638338,uspew2006_02nii,884
+United States,2006,moral3,3,88.37697058023616,uspew2006_02nii,884
+United States,2007,l_n_an_a3,1,310.4277135252967,"nbcwsj200705, usvcu2007",884
+United States,2007,l_n_an_a3,2,746.0086403576088,"nbcwsj200705, usvcu2007",884
+United States,2007,l_n_an_a3,3,889.2798926282031,"nbcwsj200705, usvcu2007",884
+United States,2007,l_ncca4,1,7950.6190992457805,"abcwapo200702, abcwapo200707, abcwapo200711, abcwapo200712, lat200710, lat200712, uspew2007_rls, uspew2007_rel, uspew2007_prim, uspew2007_05st, uspew2007_10pol",884
+United States,2007,l_ncca4,2,13971.676961454963,"abcwapo200702, abcwapo200707, abcwapo200711, abcwapo200712, lat200710, lat200712, uspew2007_rls, uspew2007_rel, uspew2007_prim, uspew2007_05st, uspew2007_10pol",884
+United States,2007,l_ncca4,3,16543.74262932717,"abcwapo200702, abcwapo200707, abcwapo200711, abcwapo200712, lat200710, lat200712, uspew2007_rls, uspew2007_rel, uspew2007_prim, uspew2007_05st, uspew2007_10pol",884
+United States,2007,l_ncca4,4,9331.267819678284,"abcwapo200702, abcwapo200707, abcwapo200711, abcwapo200712, lat200710, lat200712, uspew2007_rls, uspew2007_rel, uspew2007_prim, uspew2007_05st, uspew2007_10pol",884
+United States,2008,a_defect4,1,301.4056281306902,issp2008,884
+United States,2008,a_defect4,2,114.08054011697753,issp2008,884
+United States,2008,a_defect4,3,201.09631786502618,issp2008,884
+United States,2008,a_defect4,4,687.8948552417842,issp2008,884
+United States,2008,a_poor4,1,673.8633872907694,issp2008,884
+United States,2008,a_poor4,2,129.0281887751597,issp2008,884
+United States,2008,a_poor4,3,137.12765401517632,issp2008,884
+United States,2008,a_poor4,4,379.45210370273446,issp2008,884
+United States,2008,free2,1,274.39988534122006,pipa200711,884
+United States,2008,free2,2,646.0395779592527,pipa200711,884
+United States,2008,l_any2,1,763.6341411718887,usgss,884
+United States,2008,l_any2,2,549.8893793339523,usgss,884
+United States,2008,l_defect2,1,334.86994863456766,usgss,884
+United States,2008,l_defect2,2,947.3033649149993,usgss,884
+United States,2008,l_health2,1,148.58735698374306,usgss,884
+United States,2008,l_health2,2,1156.626627240027,usgss,884
+United States,2008,l_n_an_a3,1,152.0461994862704,usvcu2008,884
+United States,2008,l_n_an_a3,2,432.2143554864151,usvcu2008,884
+United States,2008,l_n_an_a3,3,374.32350493831626,usvcu2008,884
+United States,2008,l_ncca4,1,1617.588810151,"abcwapo200801, abcwapo200806, abcwapo200808, anes_combo, uspew2008_vote, uspew2008_rel, uspew2008_10mid",884
+United States,2008,l_ncca4,2,2776.047930182632,"abcwapo200801, abcwapo200806, abcwapo200808, anes_combo, uspew2008_vote, uspew2008_rel, uspew2008_10mid",884
+United States,2008,l_ncca4,3,3753.6175964259187,"abcwapo200801, abcwapo200806, abcwapo200808, anes_combo, uspew2008_vote, uspew2008_rel, uspew2008_10mid",884
+United States,2008,l_ncca4,4,2277.1296212532297,"abcwapo200801, abcwapo200806, abcwapo200808, anes_combo, uspew2008_vote, uspew2008_rel, uspew2008_10mid",884
+United States,2008,l_nomore2,1,734.3268523924638,usgss,884
+United States,2008,l_nomore2,2,578.4648241882501,usgss,884
+United States,2008,l_poor2,1,755.5602946398859,usgss,884
+United States,2008,l_poor2,2,561.9681144370898,usgss,884
+United States,2008,l_rape2,1,317.8844200437186,usgss,884
+United States,2008,l_rape2,2,980.6309031970302,usgss,884
+United States,2008,l_single2,1,779.4041691885134,usgss,884
+United States,2008,l_single2,2,535.1781000461583,usgss,884
+United States,2009,l_n_an_a3,1,151.46705800694102,nbcwsj200910,884
+United States,2009,l_n_an_a3,2,313.9535765989093,nbcwsj200910,884
+United States,2009,l_n_an_a3,3,515.6115061973228,nbcwsj200910,884
+United States,2009,l_ncca4,1,756.7186561268849,"abcwapo200906, uspew2009_rel, uspew2009_val",884
+United States,2009,l_ncca4,2,1242.850528383225,"abcwapo200906, uspew2009_rel, uspew2009_val",884
+United States,2009,l_ncca4,3,1368.9271938622098,"abcwapo200906, uspew2009_rel, uspew2009_val",884
+United States,2009,l_ncca4,4,789.5442387493779,"abcwapo200906, uspew2009_rel, uspew2009_val",884
+United States,2009,moral3,1,1039.447898809259,uspew2009_rel,884
+United States,2009,moral3,2,501.6390299181137,uspew2009_rel,884
+United States,2009,moral3,3,211.7663678733922,uspew2009_rel,884
+United States,2010,l_any2,1,697.6626240316361,usgss,884
+United States,2010,l_any2,2,535.0634152105273,usgss,884
+United States,2010,l_defect2,1,312.2398982683664,usgss,884
+United States,2010,l_defect2,2,909.7322146230082,usgss,884
+United States,2010,l_health2,1,163.50880800789122,usgss,884
+United States,2010,l_health2,2,1060.5356003344743,usgss,884
+United States,2010,l_n_an_a3,1,145.08277087033747,usvcu2010,884
+United States,2010,l_n_an_a3,2,437.3271758436945,usvcu2010,884
+United States,2010,l_n_an_a3,3,369.7367673179396,usvcu2010,884
+United States,2010,l_ncca4,1,498.4841711320316,uspew2010_rel,884
+United States,2010,l_ncca4,2,816.4106915271899,uspew2010_rel,884
+United States,2010,l_ncca4,3,980.3800442194354,uspew2010_rel,884
+United States,2010,l_ncca4,4,507.42853068955566,uspew2010_rel,884
+United States,2010,l_nomore2,1,630.2584043417196,usgss,884
+United States,2010,l_nomore2,2,590.2878963675524,usgss,884
+United States,2010,l_poor2,1,669.4978449406506,usgss,884
+United States,2010,l_poor2,2,561.268502158721,usgss,884
+United States,2010,l_rape2,1,252.43042252814058,usgss,884
+United States,2010,l_rape2,2,982.8894084608037,usgss,884
+United States,2010,l_single2,1,706.9805564184022,usgss,884
+United States,2010,l_single2,2,520.667006410368,usgss,884
+United States,2011,just10,1,500.96533899813335,wvs_combo,884
+United States,2011,just10,2,138.01442462859373,wvs_combo,884
+United States,2011,just10,3,131.79927178636336,wvs_combo,884
+United States,2011,just10,4,109.13047760334922,wvs_combo,884
+United States,2011,just10,5,519.420639869426,wvs_combo,884
+United States,2011,just10,6,156.93010719190352,wvs_combo,884
+United States,2011,just10,7,152.6165309036567,wvs_combo,884
+United States,2011,just10,8,162.09438878061667,wvs_combo,884
+United States,2011,just10,9,77.78448935557871,wvs_combo,884
+United States,2011,just10,10,220.03242389119893,wvs_combo,884
+United States,2011,l_defect2,1,847.8339955345997,prri2011_mra,884
+United States,2011,l_defect2,2,1993.251966987424,prri2011_mra,884
+United States,2011,l_health2,1,152.83652783028626,prri2011_mra,884
+United States,2011,l_health2,2,1302.3632381998586,prri2011_mra,884
+United States,2011,l_ncca4,1,1513.778569960334,"abcwapo201107, prri2011_mra, uspew2011_typo, uspew2011_09gen, uspew2011_11pol",884
+United States,2011,l_ncca4,2,2581.8305497598126,"abcwapo201107, prri2011_mra, uspew2011_typo, uspew2011_09gen, uspew2011_11pol",884
+United States,2011,l_ncca4,3,3440.312744080636,"abcwapo201107, prri2011_mra, uspew2011_typo, uspew2011_09gen, uspew2011_11pol",884
+United States,2011,l_ncca4,4,1887.682604954955,"abcwapo201107, prri2011_mra, uspew2011_typo, uspew2011_09gen, uspew2011_11pol",884
+United States,2011,l_poor2,1,1555.3288774440218,prri2011_mra,884
+United States,2011,l_poor2,2,1347.5165669203716,prri2011_mra,884
+United States,2011,l_rape2,1,515.8179315067515,prri2011_mra,884
+United States,2011,l_rape2,2,2384.9089443536936,prri2011_mra,884
+United States,2011,l_single2,1,1729.0728944496357,prri2011_mra,884
+United States,2011,l_single2,2,1155.2190257438172,prri2011_mra,884
+United States,2012,just_health2,1,146.17659247791084,amb_us2012,884
+United States,2012,just_health2,2,593.3725361680061,amb_us2012,884
+United States,2012,l_any2,1,716.8909451864981,usgss,884
+United States,2012,l_any2,2,537.6803487903777,usgss,884
+United States,2012,l_defect2,1,324.5903437156176,usgss,884
+United States,2012,l_defect2,2,902.6167313535008,usgss,884
+United States,2012,l_health2,1,162.89071149967447,usgss,884
+United States,2012,l_health2,2,1066.6719681222978,usgss,884
+United States,2012,l_ncca4,1,7970.067989294825,"abcwapo201203, anes_combo, cces2012, uspew2012_05val, uspew2012_07ial, uspew2012_10late",884
+United States,2012,l_ncca4,2,17364.985091054594,"abcwapo201203, anes_combo, cces2012, uspew2012_05val, uspew2012_07ial, uspew2012_10late",884
+United States,2012,l_ncca4,3,10235.497681506315,"abcwapo201203, anes_combo, cces2012, uspew2012_05val, uspew2012_07ial, uspew2012_10late",884
+United States,2012,l_ncca4,4,30521.151759946246,"abcwapo201203, anes_combo, cces2012, uspew2012_05val, uspew2012_07ial, uspew2012_10late",884
+United States,2012,l_nomore2,1,682.219046363861,usgss,884
+United States,2012,l_nomore2,2,556.3759879112412,usgss,884
+United States,2012,l_poor2,1,706.4423941375916,usgss,884
+United States,2012,l_poor2,2,523.1669862403278,usgss,884
+United States,2012,l_rape2,1,293.50667509413825,usgss,884
+United States,2012,l_rape2,2,928.1055591479053,usgss,884
+United States,2012,l_single2,1,725.767391922759,usgss,884
+United States,2012,l_single2,2,509.25062677009,usgss,884
+United States,2012,moral3,1,716.9448291211237,uspew2012_02pol,884
+United States,2012,moral3,2,378.98041446164495,uspew2012_02pol,884
+United States,2012,moral3,3,200.4896714311621,uspew2012_02pol,884
+United States,2013,l_ncca4,1,378.17691688650723,"abcwapo201307, uspew2013_07pol",884
+United States,2013,l_ncca4,2,617.7359506763853,"abcwapo201307, uspew2013_07pol",884
+United States,2013,l_ncca4,3,850.8314382152587,"abcwapo201307, uspew2013_07pol",884
+United States,2013,l_ncca4,4,488.3478126488618,"abcwapo201307, uspew2013_07pol",884
+United States,2013,moral3,1,493.15321347581477,pew2013,884
+United States,2013,moral3,2,232.93217207439602,pew2013,884
+United States,2013,moral3,3,169.73636022124992,pew2013,884
+United States,2014,just_health2,1,158.7492359608936,amb_us2014,884
+United States,2014,just_health2,2,588.4152355416472,amb_us2014,884
+United States,2014,l_any2,1,25039.12678640165,"cces2014, usgss",884
+United States,2014,l_any2,2,32338.36704957386,"cces2014, usgss",884
+United States,2014,l_defect2,1,414.3794658831522,usgss,884
+United States,2014,l_defect2,2,1233.076575011417,usgss,884
+United States,2014,l_health2,1,201.1882958358732,usgss,884
+United States,2014,l_health2,2,1453.6860692144458,usgss,884
+United States,2014,l_ncca4,1,286.984973205047,uspew2014_9rel,884
+United States,2014,l_ncca4,2,513.1327598544167,uspew2014_9rel,884
+United States,2014,l_ncca4,3,676.0832522535045,uspew2014_9rel,884
+United States,2014,l_ncca4,4,431.40501304999157,uspew2014_9rel,884
+United States,2014,l_nomore2,1,872.9484138922239,usgss,884
+United States,2014,l_nomore2,2,777.270998814817,usgss,884
+United States,2014,l_poor2,1,885.2579060816624,usgss,884
+United States,2014,l_poor2,2,765.4702659465157,usgss,884
+United States,2014,l_rape2,1,361.8533989400442,usgss,884
+United States,2014,l_rape2,2,1271.7273763575365,usgss,884
+United States,2014,l_rape2a,1,27989.074874240163,cces2014,884
+United States,2014,l_rape2a,2,27461.445298674014,cces2014,884
+United States,2014,l_single2,1,941.5621818489122,usgss,884
+United States,2014,l_single2,2,714.0351024691635,usgss,884
+United States,2015,l_any2,1,6397.442395163544,cces2015,884
+United States,2015,l_any2,2,7695.367174895027,cces2015,884
+United States,2015,l_ncca4,1,753.3316315454085,"uspew2015_05mra, uspew2015_09pol",884
+United States,2015,l_ncca4,2,1498.4324134102785,"uspew2015_05mra, uspew2015_09pol",884
+United States,2015,l_ncca4,3,1598.6209767786452,"uspew2015_05mra, uspew2015_09pol",884
+United States,2015,l_ncca4,4,1143.8958515927889,"uspew2015_05mra, uspew2015_09pol",884
+United States,2015,l_never2,1,2606.5407861678996,cces2015,884
+United States,2015,l_never2,2,11415.409465846426,cces2015,884
+United States,2015,l_rape2a,1,7486.650218984894,cces2015,884
+United States,2015,l_rape2a,2,6559.433142855342,cces2015,884
+United States,2016,l_any2,1,27847.532254009377,"cces2016, usgss",884
+United States,2016,l_any2,2,38510.06509797254,"cces2016, usgss",884
+United States,2016,l_defect2,1,479.38299939853744,usgss,884
+United States,2016,l_defect2,2,1333.852707494926,usgss,884
+United States,2016,l_health2,1,200.74963696932483,usgss,884
+United States,2016,l_health2,2,1629.2370397106392,usgss,884
+United States,2016,l_ncca4,1,1112.1318722353283,"anes_combo, uspew2016_3pol, uspew2016_10pol",884
+United States,2016,l_ncca4,2,1932.8598095280431,"anes_combo, uspew2016_3pol, uspew2016_10pol",884
+United States,2016,l_ncca4,3,1790.5611457356085,"anes_combo, uspew2016_3pol, uspew2016_10pol",884
+United States,2016,l_ncca4,4,2638.868973685435,"anes_combo, uspew2016_3pol, uspew2016_10pol",884
+United States,2016,l_never2,1,11113.868293074049,cces2016,884
+United States,2016,l_never2,2,53401.930067862966,cces2016,884
+United States,2016,l_nomore2,1,995.6836599555858,usgss,884
+United States,2016,l_nomore2,2,839.8221639656983,usgss,884
+United States,2016,l_poor2,1,1033.256934260446,usgss,884
+United States,2016,l_poor2,2,810.5358791112716,usgss,884
+United States,2016,l_rape2,1,415.2755712592937,usgss,884
+United States,2016,l_rape2,2,1411.032465252918,usgss,884
+United States,2016,l_rape2a,1,33256.61710679751,cces2016,884
+United States,2016,l_rape2a,2,31260.91229366805,cces2016,884
+United States,2016,l_single2,1,1075.3926904276523,usgss,884
+United States,2016,l_single2,2,770.4670313237934,usgss,884
+United States,2017,just10,1,565.4875365109294,wvs7,884
+United States,2017,just10,2,206.61574654879556,wvs7,884
+United States,2017,just10,3,190.23433562597137,wvs7,884
+United States,2017,just10,4,111.21931697909665,wvs7,884
+United States,2017,just10,5,530.106746441346,wvs7,884
+United States,2017,just10,6,169.76340650072729,wvs7,884
+United States,2017,just10,7,178.67921663501062,wvs7,884
+United States,2017,just10,8,234.04585937816356,wvs7,884
+United States,2017,just10,9,109.92515274055845,wvs7,884
+United States,2017,just10,10,271.46949719037156,wvs7,884
+United States,2017,l_any2,1,7981.518298203849,cces2017,884
+United States,2017,l_any2,2,10203.348051027275,cces2017,884
+United States,2017,l_ncca4,1,380.2827700472137,uspew2017_6typo,884
+United States,2017,l_ncca4,2,584.7537227880617,uspew2017_6typo,884
+United States,2017,l_ncca4,3,790.6362597230465,uspew2017_6typo,884
+United States,2017,l_ncca4,4,592.5373173233373,uspew2017_6typo,884
+United States,2017,l_never2,1,3161.228296943466,cces2017,884
+United States,2017,l_never2,2,15027.339187020603,cces2017,884
+United States,2017,l_rape2a,1,9899.07813071708,cces2017,884
+United States,2017,l_rape2a,2,8281.446755442785,cces2017,884
+United States,2017,moral3,1,2261.263849702111,pewrel2017_us,884
+United States,2017,moral3,2,1475.0495734276067,pewrel2017_us,884
+United States,2017,moral3,3,959.4495635060846,pewrel2017_us,884
+United States,2018,a_poor4,1,526.2655465347391,issp2018,884
+United States,2018,a_poor4,2,92.64462850104567,issp2018,884
+United States,2018,a_poor4,3,126.07136230075375,issp2018,884
+United States,2018,a_poor4,4,366.7614745417139,issp2018,884
+United States,2018,l_any2,1,24897.91835734152,"cces2018, usgss",884
+United States,2018,l_any2,2,36524.003039604395,"cces2018, usgss",884
+United States,2018,l_defect2,1,344.6986301394856,usgss,884
+United States,2018,l_defect2,2,1159.5415431565173,usgss,884
+United States,2018,l_health2,1,148.34858842189823,usgss,884
+United States,2018,l_health2,2,1368.3047129777647,usgss,884
+United States,2018,l_ncca4,1,255.65455755840915,uspew2018_09pol,884
+United States,2018,l_ncca4,2,387.67866656429834,uspew2018_09pol,884
+United States,2018,l_ncca4,3,594.3740273788064,uspew2018_09pol,884
+United States,2018,l_ncca4,4,431.4233252810484,uspew2018_09pol,884
+United States,2018,l_never2,1,9224,cces2018,884
+United States,2018,l_never2,2,50685,cces2018,884
+United States,2018,l_nomore2,1,740.4347319710732,usgss,884
+United States,2018,l_nomore2,2,781.5746027096254,usgss,884
+United States,2018,l_poor2,1,768.5280799501837,usgss,884
+United States,2018,l_poor2,2,759.041947454718,usgss,884
+United States,2018,l_rape2,1,313.6119542693946,usgss,884
+United States,2018,l_rape2,2,1188.5321642467688,usgss,884
+United States,2018,l_rape2a,1,35583,cces2018,884
+United States,2018,l_rape2a,2,24315,cces2018,884
+United States,2018,l_single2,1,821.6936002453417,usgss,884
+United States,2018,l_single2,2,698.2768337086259,usgss,884
+United States,2019,l_any2,1,8103.715023378611,cces2019,884
+United States,2019,l_any2,2,9772.191416328324,cces2019,884
+United States,2019,l_ncca4,1,707.9318477985465,"uspew2019_07amtr, uspew2019_07pol",884
+United States,2019,l_ncca4,2,1457.4489863795307,"uspew2019_07amtr, uspew2019_07pol",884
+United States,2019,l_ncca4,3,1924.9936720596627,"uspew2019_07amtr, uspew2019_07pol",884
+United States,2019,l_ncca4,4,1478.239934257286,"uspew2019_07amtr, uspew2019_07pol",884
+United States,2019,l_never2,1,3573.448379743188,cces2019,884
+United States,2019,l_never2,2,14404.536145412949,cces2019,884
+United States,2019,l_rape2a,1,10103.201567572476,cces2019,884
+United States,2019,l_rape2a,2,7868.052946001838,cces2019,884
+United States,2020,l_ncca4,1,905.0046810331198,anes2020,884
+United States,2020,l_ncca4,2,1993.073208548135,anes2020,884
+United States,2020,l_ncca4,3,1012.2312685805693,anes2020,884
+United States,2020,l_ncca4,4,4018.42029671566,anes2020,884
 United Kingdom,1969,l_nca3,1,118,gallup_uk196910,390
 United Kingdom,1969,l_nca3,2,649,gallup_uk196910,390
 United Kingdom,1969,l_nca3,3,184,gallup_uk196910,390
@@ -1269,324 +1273,328 @@ United Kingdom,2018,just10,7,120.96271345367562,evs2017,390
 United Kingdom,2018,just10,8,196.9274393941947,evs2017,390
 United Kingdom,2018,just10,9,93.45087981924935,evs2017,390
 United Kingdom,2018,just10,10,388.9063419642772,evs2017,390
-Germany,1979,free4,1,71.20388541888141,eb11,318
-Germany,1979,free4,2,119.66208521784239,eb11,318
-Germany,1979,free4,3,333.27374147448666,eb11,318
-Germany,1979,free4,4,412.3891697176882,eb11,318
-Germany,1980,free7,1,298.96371193574083,allbus,318
-Germany,1980,free7,2,108.39325137636463,allbus,318
-Germany,1980,free7,3,134.1051389121536,allbus,318
-Germany,1980,free7,4,241.9942356309541,allbus,318
-Germany,1980,free7,5,239.977617000696,allbus,318
-Germany,1980,free7,6,293.41801070253155,allbus,318
-Germany,1980,free7,7,1625.8987706454711,allbus,318
-Germany,1981,a_defect2,1,200.29586087412747,evs_combo,318
-Germany,1981,a_defect2,2,1067.4931023484658,evs_combo,318
-Germany,1981,a_health2,1,54.18736539989105,evs_combo,318
-Germany,1981,a_health2,2,1228.3177560258864,evs_combo,318
-Germany,1981,a_nomore2,1,785.6787228567548,evs_combo,318
-Germany,1981,a_nomore2,2,453.1197994798353,evs_combo,318
-Germany,1981,a_single2,1,959.6504257466751,evs_combo,318
-Germany,1981,a_single2,2,295.7119156991162,evs_combo,318
-Germany,1981,just10,1,420.1484709693177,evs_combo,318
-Germany,1981,just10,2,112.34960651245507,evs_combo,318
-Germany,1981,just10,3,140.95929298181684,evs_combo,318
-Germany,1981,just10,4,89.7177643843609,evs_combo,318
-Germany,1981,just10,5,222.79043101516916,evs_combo,318
-Germany,1981,just10,6,62.329498004171825,evs_combo,318
-Germany,1981,just10,7,71.18103620577394,evs_combo,318
-Germany,1981,just10,8,71.45758415049237,evs_combo,318
-Germany,1981,just10,9,35.670676927443,evs_combo,318
-Germany,1981,just10,10,75.20200324256679,evs_combo,318
-Germany,1982,l_any2,1,1900.0902901044385,allbus,318
-Germany,1982,l_any2,2,761.4406178401638,allbus,318
-Germany,1982,l_defect2,1,189.60774278233293,allbus,318
-Germany,1982,l_defect2,2,2647.9874977458644,allbus,318
-Germany,1982,l_health2,1,162.52092238485702,allbus,318
-Germany,1982,l_health2,2,2700.656315185401,allbus,318
-Germany,1982,l_nomore2,1,1557.993780640017,allbus,318
-Germany,1982,l_nomore2,2,1099.5242650234775,allbus,318
-Germany,1982,l_poor2,1,1308.1931036410701,allbus,318
-Germany,1982,l_poor2,2,1364.3731755765778,allbus,318
-Germany,1982,l_rape2,1,246.28942250297737,allbus,318
-Germany,1982,l_rape2,2,2538.637000585683,allbus,318
-Germany,1982,l_single2,1,1837.8909247472707,allbus,318
-Germany,1982,l_single2,2,794.5467316593014,allbus,318
-Germany,1984,free5b,1,138.38304866978646,eb21,318
-Germany,1984,free5b,2,193.1016725003019,eb21,318
-Germany,1984,free5b,3,247.31729978872502,eb21,318
-Germany,1984,free5b,4,195.30265736937778,eb21,318
-Germany,1984,free5b,5,137.94305169459636,eb21,318
-Germany,1986,l_any2,1,1980.337434430931,allbus,318
-Germany,1986,l_any2,2,727.4308793800747,allbus,318
-Germany,1986,l_defect2,1,185.77918011121852,allbus,318
-Germany,1986,l_defect2,2,2692.5726552794813,allbus,318
-Germany,1986,l_health2,1,121.07508571892075,allbus,318
-Germany,1986,l_health2,2,2788.648431801378,allbus,318
-Germany,1986,l_ncca4,1,28.470937662558082,politbarometer_west_combo,318
-Germany,1986,l_ncca4,2,88.41770399251457,politbarometer_west_combo,318
-Germany,1986,l_ncca4,3,126.65049133776311,politbarometer_west_combo,318
-Germany,1986,l_ncca4,4,36.72764445413461,politbarometer_west_combo,318
-Germany,1986,l_nomore2,1,1621.5238200736437,allbus,318
-Germany,1986,l_nomore2,2,1007.8152884133648,allbus,318
-Germany,1986,l_poor2,1,1376.432553436152,allbus,318
-Germany,1986,l_poor2,2,1235.2599838529568,allbus,318
-Germany,1986,l_rape2,1,243.62071903766648,allbus,318
-Germany,1986,l_rape2,2,2564.6350140947106,allbus,318
-Germany,1986,l_single2,1,2022.0029497593046,allbus,318
-Germany,1986,l_single2,2,642.1391185902276,allbus,318
-Germany,1988,l_ncca4,1,31.181813299779385,politbarometer_west_combo,318
-Germany,1988,l_ncca4,2,86.20045048624999,politbarometer_west_combo,318
-Germany,1988,l_ncca4,3,108.68318524867743,politbarometer_west_combo,318
-Germany,1988,l_ncca4,4,43.187890375671955,politbarometer_west_combo,318
-Germany,1990,a_defect2,1,625.8773590484799,evs_combo,318
-Germany,1990,a_defect2,2,2778.5303391873754,evs_combo,318
-Germany,1990,a_health2,1,132.52372308930208,evs_combo,318
-Germany,1990,a_health2,2,3302.4365839278275,evs_combo,318
-Germany,1990,a_nomore2,1,2225.8380060507184,evs_combo,318
-Germany,1990,a_nomore2,2,1171.756582611624,evs_combo,318
-Germany,1990,a_single2,1,2680.353024274358,evs_combo,318
-Germany,1990,a_single2,2,710.9906500975925,evs_combo,318
-Germany,1990,free7,1,161.57032534809431,allbus,318
-Germany,1990,free7,2,65.65397347478111,allbus,318
-Germany,1990,free7,3,77.96409350130261,allbus,318
-Germany,1990,free7,4,151.8248136604317,allbus,318
-Germany,1990,free7,5,109.25231523537809,allbus,318
-Germany,1990,free7,6,137.46300696282304,allbus,318
-Germany,1990,free7,7,729.8875332391685,allbus,318
-Germany,1990,just10,1,572.7682077895978,evs_combo,318
-Germany,1990,just10,2,293.6888349366084,evs_combo,318
-Germany,1990,just10,3,416.0220017160354,evs_combo,318
-Germany,1990,just10,4,250.5435521772509,evs_combo,318
-Germany,1990,just10,5,793.1466002956574,evs_combo,318
-Germany,1990,just10,6,210.37270892581404,evs_combo,318
-Germany,1990,just10,7,163.83699302499042,evs_combo,318
-Germany,1990,just10,8,196.96089902753963,evs_combo,318
-Germany,1990,just10,9,90.31326815061075,evs_combo,318
-Germany,1990,just10,10,161.67346144850924,evs_combo,318
-Germany,1990,l_any2,1,919.6685503147078,allbus,318
-Germany,1990,l_any2,2,518.0508844494451,allbus,318
-Germany,1990,l_defect2,1,84.11915351456334,allbus,318
-Germany,1990,l_defect2,2,1437.2065130963813,allbus,318
-Germany,1990,l_health2,1,62.576443468150785,allbus,318
-Germany,1990,l_health2,2,1449.003711455131,allbus,318
-Germany,1990,l_nomore2,1,771.4341883286786,allbus,318
-Germany,1990,l_nomore2,2,682.6987398041696,allbus,318
-Germany,1990,l_poor2,1,623.712748010421,allbus,318
-Germany,1990,l_poor2,2,829.9072584546554,allbus,318
-Germany,1990,l_rape2,1,94.89050853776962,allbus,318
-Germany,1990,l_rape2,2,1387.9660329902952,allbus,318
-Germany,1990,l_single2,1,956.5989103942721,allbus,318
-Germany,1990,l_single2,2,501.12446941297816,allbus,318
-Germany,1991,a_defect4,1,271.9680070177397,issp1991,318
-Germany,1991,a_defect4,2,192.51667912491686,issp1991,318
-Germany,1991,a_defect4,3,313.73088449986454,issp1991,318
-Germany,1991,a_defect4,4,1868.1248122491934,issp1991,318
-Germany,1991,a_poor4,1,496.0614959462144,issp1991,318
-Germany,1991,a_poor4,2,433.92648310695546,issp1991,318
-Germany,1991,a_poor4,3,631.5361960711558,issp1991,318
-Germany,1991,a_poor4,4,957.4903617853008,issp1991,318
-Germany,1991,l_ncca4,1,672.088842432332,"politbarometer_east1991, politbarometer_west_combo",318
-Germany,1991,l_ncca4,2,1450.7056846743244,"politbarometer_east1991, politbarometer_west_combo",318
-Germany,1991,l_ncca4,3,4447.497294839343,"politbarometer_east1991, politbarometer_west_combo",318
-Germany,1991,l_ncca4,4,3853.642667760759,"politbarometer_east1991, politbarometer_west_combo",318
-Germany,1992,free5,1,103.94811370480198,eb38,318
-Germany,1992,free5,2,117.83402385251861,eb38,318
-Germany,1992,free5,3,205.9305506452468,eb38,318
-Germany,1992,free5,4,470.6019991353607,eb38,318
-Germany,1992,free5,5,1077.2466955390648,eb38,318
-Germany,1992,l_any2,1,1723.7943502182138,allbus,318
-Germany,1992,l_any2,2,1457.8025062421227,allbus,318
-Germany,1992,l_defect2,1,135.10059554494347,allbus,318
-Germany,1992,l_defect2,2,3279.9909564621094,allbus,318
-Germany,1992,l_health2,1,105.69989648095134,allbus,318
-Germany,1992,l_health2,2,3311.554867199783,allbus,318
-Germany,1992,l_ncca4,1,75.47263578519022,"politbarometer_east1992, politbarometer_west_combo",318
-Germany,1992,l_ncca4,2,230.2844692948894,"politbarometer_east1992, politbarometer_west_combo",318
-Germany,1992,l_ncca4,3,727.5788984638075,"politbarometer_east1992, politbarometer_west_combo",318
-Germany,1992,l_ncca4,4,672.3284716942087,"politbarometer_east1992, politbarometer_west_combo",318
-Germany,1992,l_nomore2,1,1385.1952864790815,allbus,318
-Germany,1992,l_nomore2,2,1760.905341605108,allbus,318
-Germany,1992,l_poor2,1,1202.3695599834896,allbus,318
-Germany,1992,l_poor2,2,1959.63323396417,allbus,318
-Germany,1992,l_rape2,1,159.00187081502972,allbus,318
-Germany,1992,l_rape2,2,3224.7370869438305,allbus,318
-Germany,1992,l_single2,1,1917.7650240302594,allbus,318
-Germany,1992,l_single2,2,1214.6921255841924,allbus,318
-Germany,1993,l_ncca4,1,134.99030506358827,"politbarometer_east1993, politbarometer_west_combo",318
-Germany,1993,l_ncca4,2,344.81345313669647,"politbarometer_east1993, politbarometer_west_combo",318
-Germany,1993,l_ncca4,3,1114.295147448898,"politbarometer_east1993, politbarometer_west_combo",318
-Germany,1993,l_ncca4,4,1107.656565926699,"politbarometer_east1993, politbarometer_west_combo",318
-Germany,1994,free5a,1,312.92677766466034,issp1994,318
-Germany,1994,free5a,2,412.8765245605369,issp1994,318
-Germany,1994,free5a,3,160.66688286066142,issp1994,318
-Germany,1994,free5a,4,850.0399035069877,issp1994,318
-Germany,1994,free5a,5,1178.8465475008995,issp1994,318
-Germany,1995,l_ncca4,1,49.16450715680732,"politbarometer_east1995, politbarometer_west_combo",318
-Germany,1995,l_ncca4,2,158.37878058093622,"politbarometer_east1995, politbarometer_west_combo",318
-Germany,1995,l_ncca4,3,463.592937306804,"politbarometer_east1995, politbarometer_west_combo",318
-Germany,1995,l_ncca4,4,620.6566719615489,"politbarometer_east1995, politbarometer_west_combo",318
-Germany,1996,l_any2,1,1802.9999123332502,allbus,318
-Germany,1996,l_any2,2,1322.8824805721656,allbus,318
-Germany,1996,l_defect2,1,175.5289970180304,allbus,318
-Germany,1996,l_defect2,2,3191.8381699655056,allbus,318
-Germany,1996,l_health2,1,102.36417903952196,allbus,318
-Germany,1996,l_health2,2,3272.734009777321,allbus,318
-Germany,1996,l_nomore2,1,1517.1260713961403,allbus,318
-Germany,1996,l_nomore2,2,1595.2686471611269,allbus,318
-Germany,1996,l_poor2,1,1339.0629261838315,allbus,318
-Germany,1996,l_poor2,2,1769.4738330260518,allbus,318
-Germany,1996,l_rape2,1,198.722062517951,allbus,318
-Germany,1996,l_rape2,2,3116.1165089703322,allbus,318
-Germany,1996,l_single2,1,1993.158916502599,allbus,318
-Germany,1996,l_single2,2,1075.799837506753,allbus,318
-Germany,1997,just10,1,370.3070131441601,wvs_combo,318
-Germany,1997,just10,2,93.07716816866727,wvs_combo,318
-Germany,1997,just10,3,116.09625276952048,wvs_combo,318
-Germany,1997,just10,4,102.08463605595766,wvs_combo,318
-Germany,1997,just10,5,306.25390816787296,wvs_combo,318
-Germany,1997,just10,6,208.17259117293327,wvs_combo,318
-Germany,1997,just10,7,146.12114572715507,wvs_combo,318
-Germany,1997,just10,8,237.19665436531338,wvs_combo,318
-Germany,1997,just10,9,122.1012313610474,wvs_combo,318
-Germany,1997,just10,10,295.24478075007363,wvs_combo,318
-Germany,1998,a_defect4,1,202.95574343959677,issp1998,318
-Germany,1998,a_defect4,2,202.95574343959677,issp1998,318
-Germany,1998,a_defect4,3,382.9165011692885,issp1998,318
-Germany,1998,a_defect4,4,1043.772394832212,issp1998,318
-Germany,1998,a_poor4,1,429.9062545764858,issp1998,318
-Germany,1998,a_poor4,2,400.91257694225766,issp1998,318
-Germany,1998,a_poor4,3,480.8951359332318,issp1998,318
-Germany,1998,a_poor4,4,470.89731605936004,issp1998,318
-Germany,1999,a_nomore2,1,803.8373806690109,evs_combo,318
-Germany,1999,a_nomore2,2,991.0211357540563,evs_combo,318
-Germany,1999,a_single2,1,798.1738974400386,evs_combo,318
-Germany,1999,a_single2,2,977.111211920958,evs_combo,318
-Germany,1999,just10,1,518.1732359779277,evs_combo,318
-Germany,1999,just10,2,162.83646481798212,evs_combo,318
-Germany,1999,just10,3,165.3203036450852,evs_combo,318
-Germany,1999,just10,4,102.55244545658432,evs_combo,318
-Germany,1999,just10,5,329.34382728098944,evs_combo,318
-Germany,1999,just10,6,124.76599917620395,evs_combo,318
-Germany,1999,just10,7,98.52248120555736,evs_combo,318
-Germany,1999,just10,8,152.57800320335232,evs_combo,318
-Germany,1999,just10,9,60.61971693884003,evs_combo,318
-Germany,1999,just10,10,243.54455059172486,evs_combo,318
-Germany,2000,l_any2,1,1164.4729913746482,allbus,318
-Germany,2000,l_any2,2,926.8462769303567,allbus,318
-Germany,2000,l_defect2,1,167.15148864901005,allbus,318
-Germany,2000,l_defect2,2,1977.7872108651752,allbus,318
-Germany,2000,l_health2,1,98.54131994770701,allbus,318
-Germany,2000,l_health2,2,2083.2021135745063,allbus,318
-Germany,2000,l_nomore2,1,1000.4102550151952,allbus,318
-Germany,2000,l_nomore2,2,1079.017678507648,allbus,318
-Germany,2000,l_poor2,1,952.3132372724787,allbus,318
-Germany,2000,l_poor2,2,1120.674170413306,allbus,318
-Germany,2000,l_rape2,1,156.71272278602504,allbus,318
-Germany,2000,l_rape2,2,2005.7408638560466,allbus,318
-Germany,2000,l_single2,1,1298.1030740647727,allbus,318
-Germany,2000,l_single2,2,776.6919566682353,allbus,318
-Germany,2006,just10,1,301.5152003448492,wvs_combo,318
-Germany,2006,just10,2,146.99517010529118,wvs_combo,318
-Germany,2006,just10,3,161.2244847936531,wvs_combo,318
-Germany,2006,just10,4,132.23024932608945,wvs_combo,318
-Germany,2006,just10,5,365.53469238559137,wvs_combo,318
-Germany,2006,just10,6,201.89698902877592,wvs_combo,318
-Germany,2006,just10,7,161.93706028893257,wvs_combo,318
-Germany,2006,just10,8,193.25240099142349,wvs_combo,318
-Germany,2006,just10,9,70.09018844181847,wvs_combo,318
-Germany,2006,just10,10,227.89763582381352,wvs_combo,318
-Germany,2006,l_any2,1,1936.157010333602,allbus,318
-Germany,2006,l_any2,2,1290.5869977293858,allbus,318
-Germany,2006,l_defect2,1,372.3958269584076,allbus,318
-Germany,2006,l_defect2,2,2918.787830659442,allbus,318
-Germany,2006,l_health2,1,201.0089849082589,allbus,318
-Germany,2006,l_health2,2,3128.585479385908,allbus,318
-Germany,2006,l_nomore2,1,1740.7547137650276,allbus,318
-Germany,2006,l_nomore2,2,1513.1473497528525,allbus,318
-Germany,2006,l_poor2,1,1764.476967408579,allbus,318
-Germany,2006,l_poor2,2,1475.0473230318908,allbus,318
-Germany,2006,l_rape2,1,321.0296606559026,allbus,318
-Germany,2006,l_rape2,2,2959.0763229892277,allbus,318
-Germany,2006,l_single2,1,2252.5952879810943,allbus,318
-Germany,2006,l_single2,2,1019.5580435473025,allbus,318
-Germany,2008,a_defect4,1,215.36277705427597,issp2008,318
-Germany,2008,a_defect4,2,176.29697098396542,issp2008,318
-Germany,2008,a_defect4,3,306.5163245516672,issp2008,318
-Germany,2008,a_defect4,4,802.35155544407,issp2008,318
-Germany,2008,a_nomore2,1,857.7515544596458,evs_combo,318
-Germany,2008,a_nomore2,2,903.9475173710489,evs_combo,318
-Germany,2008,a_poor4,1,558.9415330059813,issp2008,318
-Germany,2008,a_poor4,2,334.56356993547985,issp2008,318
-Germany,2008,a_poor4,3,289.4876398543523,issp2008,318
-Germany,2008,a_poor4,4,247.41677177863332,issp2008,318
-Germany,2008,a_single2,1,832.9153046739009,evs_combo,318
-Germany,2008,a_single2,2,923.1915854336681,evs_combo,318
-Germany,2008,just10,1,437.1308889179336,evs_combo,318
-Germany,2008,just10,2,154.55571595402887,evs_combo,318
-Germany,2008,just10,3,202.22694661009228,evs_combo,318
-Germany,2008,just10,4,163.927103553939,evs_combo,318
-Germany,2008,just10,5,329.1131077630554,evs_combo,318
-Germany,2008,just10,6,173.7407708132812,evs_combo,318
-Germany,2008,just10,7,163.12228722379476,evs_combo,318
-Germany,2008,just10,8,215.13198586913134,evs_combo,318
-Germany,2008,just10,9,57.08320590565832,evs_combo,318
-Germany,2008,just10,10,120.4054797651783,evs_combo,318
-Germany,2012,l_any2,1,963.827791017469,allbus,318
-Germany,2012,l_any2,2,671.4581551985821,allbus,318
-Germany,2012,l_defect2,1,200.0187870929642,allbus,318
-Germany,2012,l_defect2,2,1427.9555082737286,allbus,318
-Germany,2012,l_health2,1,87.96358841798353,allbus,318
-Germany,2012,l_health2,2,1575.6870184808427,allbus,318
-Germany,2012,l_nomore2,1,840.5314924915347,allbus,318
-Germany,2012,l_nomore2,2,800.533931455899,allbus,318
-Germany,2012,l_poor2,1,948.5027672906926,allbus,318
-Germany,2012,l_poor2,2,672.6724727047466,allbus,318
-Germany,2012,l_rape2,1,167.62169415910878,allbus,318
-Germany,2012,l_rape2,2,1475.1191511478517,allbus,318
-Germany,2012,l_single2,1,1156.4576898239613,allbus,318
-Germany,2012,l_single2,2,483.49078655045463,allbus,318
-Germany,2013,just10,1,460.3329550882959,wvs_combo,318
-Germany,2013,just10,2,133.39367451656838,wvs_combo,318
-Germany,2013,just10,3,206.6237320250696,wvs_combo,318
-Germany,2013,just10,4,151.13447585075482,wvs_combo,318
-Germany,2013,just10,5,402.0791338954754,wvs_combo,318
-Germany,2013,just10,6,187.31765946237346,wvs_combo,318
-Germany,2013,just10,7,128.02891989670377,wvs_combo,318
-Germany,2013,just10,8,133.31637405208505,wvs_combo,318
-Germany,2013,just10,9,44.860275119511435,wvs_combo,318
-Germany,2013,just10,10,156.3168832822157,wvs_combo,318
-Germany,2013,moral3,1,194.78264451178714,pew2013,318
-Germany,2013,moral3,2,258.4022713626139,pew2013,318
-Germany,2013,moral3,3,440.77126920069986,pew2013,318
-Germany,2017,just10,1,269.8597645890189,evs2017,318
-Germany,2017,just10,2,66.71809678031093,evs2017,318
-Germany,2017,just10,3,106.54979635064582,evs2017,318
-Germany,2017,just10,4,74.68443669437791,evs2017,318
-Germany,2017,just10,5,445.11924269849237,evs2017,318
-Germany,2017,just10,6,147.3772884102391,evs2017,318
-Germany,2017,just10,7,173.26789313095676,evs2017,318
-Germany,2017,just10,8,204.1374602979663,evs2017,318
-Germany,2017,just10,9,101.57083390435396,evs2017,318
-Germany,2017,just10,10,476.9846023547603,evs2017,318
-Germany,2017,l_ncca4,1,103.71492394696361,pewrel2017_we,318
-Germany,2017,l_ncca4,2,381.84003863777946,pewrel2017_we,318
-Germany,2017,l_ncca4,3,1304.5489176515123,pewrel2017_we,318
-Germany,2017,l_ncca4,4,381.38725988650384,pewrel2017_we,318
-Germany,2018,a_poor4,1,427.44928580602635,issp2018,318
-Germany,2018,a_poor4,2,251.9790472987718,issp2018,318
-Germany,2018,a_poor4,3,378.27050342059584,issp2018,318
-Germany,2018,a_poor4,4,510.824715546422,issp2018,318
-Germany,2018,just10,1,286.07911505062106,wvs7,318
-Germany,2018,just10,2,65.01798069332297,wvs7,318
-Germany,2018,just10,3,60.01659756306736,wvs7,318
-Germany,2018,just10,4,66.0182573193741,wvs7,318
-Germany,2018,just10,5,372.10290489101766,wvs7,318
-Germany,2018,just10,6,89.02461971854991,wvs7,318
-Germany,2018,just10,7,99.02738597906114,wvs7,318
-Germany,2018,just10,8,113.03125874377686,wvs7,318
-Germany,2018,just10,9,69.01908719752747,wvs7,318
-Germany,2018,just10,10,261.072199399343,wvs7,318
+Germany,1979,free4,1,71.20388541888141,eb11,322
+Germany,1979,free4,2,119.66208521784239,eb11,322
+Germany,1979,free4,3,333.27374147448666,eb11,322
+Germany,1979,free4,4,412.3891697176882,eb11,322
+Germany,1980,free4,1,296,pa_w2,322
+Germany,1980,free4,2,314,pa_w2,322
+Germany,1980,free4,3,703,pa_w2,322
+Germany,1980,free4,4,1575,pa_w2,322
+Germany,1980,free7,1,298.96371193574083,allbus,322
+Germany,1980,free7,2,108.39325137636463,allbus,322
+Germany,1980,free7,3,134.1051389121536,allbus,322
+Germany,1980,free7,4,241.9942356309541,allbus,322
+Germany,1980,free7,5,239.977617000696,allbus,322
+Germany,1980,free7,6,293.41801070253155,allbus,322
+Germany,1980,free7,7,1625.8987706454711,allbus,322
+Germany,1981,a_defect2,1,200.29586087412747,evs_combo,322
+Germany,1981,a_defect2,2,1067.4931023484658,evs_combo,322
+Germany,1981,a_health2,1,54.18736539989105,evs_combo,322
+Germany,1981,a_health2,2,1228.3177560258864,evs_combo,322
+Germany,1981,a_nomore2,1,785.6787228567548,evs_combo,322
+Germany,1981,a_nomore2,2,453.1197994798353,evs_combo,322
+Germany,1981,a_single2,1,959.6504257466751,evs_combo,322
+Germany,1981,a_single2,2,295.7119156991162,evs_combo,322
+Germany,1981,just10,1,420.1484709693177,evs_combo,322
+Germany,1981,just10,2,112.34960651245507,evs_combo,322
+Germany,1981,just10,3,140.95929298181684,evs_combo,322
+Germany,1981,just10,4,89.7177643843609,evs_combo,322
+Germany,1981,just10,5,222.79043101516916,evs_combo,322
+Germany,1981,just10,6,62.329498004171825,evs_combo,322
+Germany,1981,just10,7,71.18103620577394,evs_combo,322
+Germany,1981,just10,8,71.45758415049237,evs_combo,322
+Germany,1981,just10,9,35.670676927443,evs_combo,322
+Germany,1981,just10,10,75.20200324256679,evs_combo,322
+Germany,1982,l_any2,1,1900.0902901044385,allbus,322
+Germany,1982,l_any2,2,761.4406178401638,allbus,322
+Germany,1982,l_defect2,1,189.60774278233293,allbus,322
+Germany,1982,l_defect2,2,2647.9874977458644,allbus,322
+Germany,1982,l_health2,1,162.52092238485702,allbus,322
+Germany,1982,l_health2,2,2700.656315185401,allbus,322
+Germany,1982,l_nomore2,1,1557.993780640017,allbus,322
+Germany,1982,l_nomore2,2,1099.5242650234775,allbus,322
+Germany,1982,l_poor2,1,1308.1931036410701,allbus,322
+Germany,1982,l_poor2,2,1364.3731755765778,allbus,322
+Germany,1982,l_rape2,1,246.28942250297737,allbus,322
+Germany,1982,l_rape2,2,2538.637000585683,allbus,322
+Germany,1982,l_single2,1,1837.8909247472707,allbus,322
+Germany,1982,l_single2,2,794.5467316593014,allbus,322
+Germany,1984,free5b,1,138.38304866978646,eb21,322
+Germany,1984,free5b,2,193.1016725003019,eb21,322
+Germany,1984,free5b,3,247.31729978872502,eb21,322
+Germany,1984,free5b,4,195.30265736937778,eb21,322
+Germany,1984,free5b,5,137.94305169459636,eb21,322
+Germany,1986,l_any2,1,1980.337434430931,allbus,322
+Germany,1986,l_any2,2,727.4308793800747,allbus,322
+Germany,1986,l_defect2,1,185.77918011121852,allbus,322
+Germany,1986,l_defect2,2,2692.5726552794813,allbus,322
+Germany,1986,l_health2,1,121.07508571892075,allbus,322
+Germany,1986,l_health2,2,2788.648431801378,allbus,322
+Germany,1986,l_ncca4,1,28.470937662558082,politbarometer_west_combo,322
+Germany,1986,l_ncca4,2,88.41770399251457,politbarometer_west_combo,322
+Germany,1986,l_ncca4,3,126.65049133776311,politbarometer_west_combo,322
+Germany,1986,l_ncca4,4,36.72764445413461,politbarometer_west_combo,322
+Germany,1986,l_nomore2,1,1621.5238200736437,allbus,322
+Germany,1986,l_nomore2,2,1007.8152884133648,allbus,322
+Germany,1986,l_poor2,1,1376.432553436152,allbus,322
+Germany,1986,l_poor2,2,1235.2599838529568,allbus,322
+Germany,1986,l_rape2,1,243.62071903766648,allbus,322
+Germany,1986,l_rape2,2,2564.6350140947106,allbus,322
+Germany,1986,l_single2,1,2022.0029497593046,allbus,322
+Germany,1986,l_single2,2,642.1391185902276,allbus,322
+Germany,1988,l_ncca4,1,31.181813299779385,politbarometer_west_combo,322
+Germany,1988,l_ncca4,2,86.20045048624999,politbarometer_west_combo,322
+Germany,1988,l_ncca4,3,108.68318524867743,politbarometer_west_combo,322
+Germany,1988,l_ncca4,4,43.187890375671955,politbarometer_west_combo,322
+Germany,1990,a_defect2,1,625.8773590484799,evs_combo,322
+Germany,1990,a_defect2,2,2778.5303391873754,evs_combo,322
+Germany,1990,a_health2,1,132.52372308930208,evs_combo,322
+Germany,1990,a_health2,2,3302.4365839278275,evs_combo,322
+Germany,1990,a_nomore2,1,2225.8380060507184,evs_combo,322
+Germany,1990,a_nomore2,2,1171.756582611624,evs_combo,322
+Germany,1990,a_single2,1,2680.353024274358,evs_combo,322
+Germany,1990,a_single2,2,710.9906500975925,evs_combo,322
+Germany,1990,free7,1,161.57032534809431,allbus,322
+Germany,1990,free7,2,65.65397347478111,allbus,322
+Germany,1990,free7,3,77.96409350130261,allbus,322
+Germany,1990,free7,4,151.8248136604317,allbus,322
+Germany,1990,free7,5,109.25231523537809,allbus,322
+Germany,1990,free7,6,137.46300696282304,allbus,322
+Germany,1990,free7,7,729.8875332391685,allbus,322
+Germany,1990,just10,1,572.7682077895978,evs_combo,322
+Germany,1990,just10,2,293.6888349366084,evs_combo,322
+Germany,1990,just10,3,416.0220017160354,evs_combo,322
+Germany,1990,just10,4,250.5435521772509,evs_combo,322
+Germany,1990,just10,5,793.1466002956574,evs_combo,322
+Germany,1990,just10,6,210.37270892581404,evs_combo,322
+Germany,1990,just10,7,163.83699302499042,evs_combo,322
+Germany,1990,just10,8,196.96089902753963,evs_combo,322
+Germany,1990,just10,9,90.31326815061075,evs_combo,322
+Germany,1990,just10,10,161.67346144850924,evs_combo,322
+Germany,1990,l_any2,1,919.6685503147078,allbus,322
+Germany,1990,l_any2,2,518.0508844494451,allbus,322
+Germany,1990,l_defect2,1,84.11915351456334,allbus,322
+Germany,1990,l_defect2,2,1437.2065130963813,allbus,322
+Germany,1990,l_health2,1,62.576443468150785,allbus,322
+Germany,1990,l_health2,2,1449.003711455131,allbus,322
+Germany,1990,l_nomore2,1,771.4341883286786,allbus,322
+Germany,1990,l_nomore2,2,682.6987398041696,allbus,322
+Germany,1990,l_poor2,1,623.712748010421,allbus,322
+Germany,1990,l_poor2,2,829.9072584546554,allbus,322
+Germany,1990,l_rape2,1,94.89050853776962,allbus,322
+Germany,1990,l_rape2,2,1387.9660329902952,allbus,322
+Germany,1990,l_single2,1,956.5989103942721,allbus,322
+Germany,1990,l_single2,2,501.12446941297816,allbus,322
+Germany,1991,a_defect4,1,271.9680070177397,issp1991,322
+Germany,1991,a_defect4,2,192.51667912491686,issp1991,322
+Germany,1991,a_defect4,3,313.73088449986454,issp1991,322
+Germany,1991,a_defect4,4,1868.1248122491934,issp1991,322
+Germany,1991,a_poor4,1,496.0614959462144,issp1991,322
+Germany,1991,a_poor4,2,433.92648310695546,issp1991,322
+Germany,1991,a_poor4,3,631.5361960711558,issp1991,322
+Germany,1991,a_poor4,4,957.4903617853008,issp1991,322
+Germany,1991,l_ncca4,1,672.088842432332,"politbarometer_east1991, politbarometer_west_combo",322
+Germany,1991,l_ncca4,2,1450.7056846743244,"politbarometer_east1991, politbarometer_west_combo",322
+Germany,1991,l_ncca4,3,4447.497294839343,"politbarometer_east1991, politbarometer_west_combo",322
+Germany,1991,l_ncca4,4,3853.642667760759,"politbarometer_east1991, politbarometer_west_combo",322
+Germany,1992,free5,1,103.94811370480198,eb38,322
+Germany,1992,free5,2,117.83402385251861,eb38,322
+Germany,1992,free5,3,205.9305506452468,eb38,322
+Germany,1992,free5,4,470.6019991353607,eb38,322
+Germany,1992,free5,5,1077.2466955390648,eb38,322
+Germany,1992,l_any2,1,1723.7943502182138,allbus,322
+Germany,1992,l_any2,2,1457.8025062421227,allbus,322
+Germany,1992,l_defect2,1,135.10059554494347,allbus,322
+Germany,1992,l_defect2,2,3279.9909564621094,allbus,322
+Germany,1992,l_health2,1,105.69989648095134,allbus,322
+Germany,1992,l_health2,2,3311.554867199783,allbus,322
+Germany,1992,l_ncca4,1,75.47263578519022,"politbarometer_east1992, politbarometer_west_combo",322
+Germany,1992,l_ncca4,2,230.2844692948894,"politbarometer_east1992, politbarometer_west_combo",322
+Germany,1992,l_ncca4,3,727.5788984638075,"politbarometer_east1992, politbarometer_west_combo",322
+Germany,1992,l_ncca4,4,672.3284716942087,"politbarometer_east1992, politbarometer_west_combo",322
+Germany,1992,l_nomore2,1,1385.1952864790815,allbus,322
+Germany,1992,l_nomore2,2,1760.905341605108,allbus,322
+Germany,1992,l_poor2,1,1202.3695599834896,allbus,322
+Germany,1992,l_poor2,2,1959.63323396417,allbus,322
+Germany,1992,l_rape2,1,159.00187081502972,allbus,322
+Germany,1992,l_rape2,2,3224.7370869438305,allbus,322
+Germany,1992,l_single2,1,1917.7650240302594,allbus,322
+Germany,1992,l_single2,2,1214.6921255841924,allbus,322
+Germany,1993,l_ncca4,1,134.99030506358827,"politbarometer_east1993, politbarometer_west_combo",322
+Germany,1993,l_ncca4,2,344.81345313669647,"politbarometer_east1993, politbarometer_west_combo",322
+Germany,1993,l_ncca4,3,1114.295147448898,"politbarometer_east1993, politbarometer_west_combo",322
+Germany,1993,l_ncca4,4,1107.656565926699,"politbarometer_east1993, politbarometer_west_combo",322
+Germany,1994,free5a,1,312.92677766466034,issp1994,322
+Germany,1994,free5a,2,412.8765245605369,issp1994,322
+Germany,1994,free5a,3,160.66688286066142,issp1994,322
+Germany,1994,free5a,4,850.0399035069877,issp1994,322
+Germany,1994,free5a,5,1178.8465475008995,issp1994,322
+Germany,1995,l_ncca4,1,49.16450715680732,"politbarometer_east1995, politbarometer_west_combo",322
+Germany,1995,l_ncca4,2,158.37878058093622,"politbarometer_east1995, politbarometer_west_combo",322
+Germany,1995,l_ncca4,3,463.592937306804,"politbarometer_east1995, politbarometer_west_combo",322
+Germany,1995,l_ncca4,4,620.6566719615489,"politbarometer_east1995, politbarometer_west_combo",322
+Germany,1996,l_any2,1,1802.9999123332502,allbus,322
+Germany,1996,l_any2,2,1322.8824805721656,allbus,322
+Germany,1996,l_defect2,1,175.5289970180304,allbus,322
+Germany,1996,l_defect2,2,3191.8381699655056,allbus,322
+Germany,1996,l_health2,1,102.36417903952196,allbus,322
+Germany,1996,l_health2,2,3272.734009777321,allbus,322
+Germany,1996,l_nomore2,1,1517.1260713961403,allbus,322
+Germany,1996,l_nomore2,2,1595.2686471611269,allbus,322
+Germany,1996,l_poor2,1,1339.0629261838315,allbus,322
+Germany,1996,l_poor2,2,1769.4738330260518,allbus,322
+Germany,1996,l_rape2,1,198.722062517951,allbus,322
+Germany,1996,l_rape2,2,3116.1165089703322,allbus,322
+Germany,1996,l_single2,1,1993.158916502599,allbus,322
+Germany,1996,l_single2,2,1075.799837506753,allbus,322
+Germany,1997,just10,1,370.3070131441601,wvs_combo,322
+Germany,1997,just10,2,93.07716816866727,wvs_combo,322
+Germany,1997,just10,3,116.09625276952048,wvs_combo,322
+Germany,1997,just10,4,102.08463605595766,wvs_combo,322
+Germany,1997,just10,5,306.25390816787296,wvs_combo,322
+Germany,1997,just10,6,208.17259117293327,wvs_combo,322
+Germany,1997,just10,7,146.12114572715507,wvs_combo,322
+Germany,1997,just10,8,237.19665436531338,wvs_combo,322
+Germany,1997,just10,9,122.1012313610474,wvs_combo,322
+Germany,1997,just10,10,295.24478075007363,wvs_combo,322
+Germany,1998,a_defect4,1,202.95574343959677,issp1998,322
+Germany,1998,a_defect4,2,202.95574343959677,issp1998,322
+Germany,1998,a_defect4,3,382.9165011692885,issp1998,322
+Germany,1998,a_defect4,4,1043.772394832212,issp1998,322
+Germany,1998,a_poor4,1,429.9062545764858,issp1998,322
+Germany,1998,a_poor4,2,400.91257694225766,issp1998,322
+Germany,1998,a_poor4,3,480.8951359332318,issp1998,322
+Germany,1998,a_poor4,4,470.89731605936004,issp1998,322
+Germany,1999,a_nomore2,1,803.8373806690109,evs_combo,322
+Germany,1999,a_nomore2,2,991.0211357540563,evs_combo,322
+Germany,1999,a_single2,1,798.1738974400386,evs_combo,322
+Germany,1999,a_single2,2,977.111211920958,evs_combo,322
+Germany,1999,just10,1,518.1732359779277,evs_combo,322
+Germany,1999,just10,2,162.83646481798212,evs_combo,322
+Germany,1999,just10,3,165.3203036450852,evs_combo,322
+Germany,1999,just10,4,102.55244545658432,evs_combo,322
+Germany,1999,just10,5,329.34382728098944,evs_combo,322
+Germany,1999,just10,6,124.76599917620395,evs_combo,322
+Germany,1999,just10,7,98.52248120555736,evs_combo,322
+Germany,1999,just10,8,152.57800320335232,evs_combo,322
+Germany,1999,just10,9,60.61971693884003,evs_combo,322
+Germany,1999,just10,10,243.54455059172486,evs_combo,322
+Germany,2000,l_any2,1,1164.4729913746482,allbus,322
+Germany,2000,l_any2,2,926.8462769303567,allbus,322
+Germany,2000,l_defect2,1,167.15148864901005,allbus,322
+Germany,2000,l_defect2,2,1977.7872108651752,allbus,322
+Germany,2000,l_health2,1,98.54131994770701,allbus,322
+Germany,2000,l_health2,2,2083.2021135745063,allbus,322
+Germany,2000,l_nomore2,1,1000.4102550151952,allbus,322
+Germany,2000,l_nomore2,2,1079.017678507648,allbus,322
+Germany,2000,l_poor2,1,952.3132372724787,allbus,322
+Germany,2000,l_poor2,2,1120.674170413306,allbus,322
+Germany,2000,l_rape2,1,156.71272278602504,allbus,322
+Germany,2000,l_rape2,2,2005.7408638560466,allbus,322
+Germany,2000,l_single2,1,1298.1030740647727,allbus,322
+Germany,2000,l_single2,2,776.6919566682353,allbus,322
+Germany,2006,just10,1,301.5152003448492,wvs_combo,322
+Germany,2006,just10,2,146.99517010529118,wvs_combo,322
+Germany,2006,just10,3,161.2244847936531,wvs_combo,322
+Germany,2006,just10,4,132.23024932608945,wvs_combo,322
+Germany,2006,just10,5,365.53469238559137,wvs_combo,322
+Germany,2006,just10,6,201.89698902877592,wvs_combo,322
+Germany,2006,just10,7,161.93706028893257,wvs_combo,322
+Germany,2006,just10,8,193.25240099142349,wvs_combo,322
+Germany,2006,just10,9,70.09018844181847,wvs_combo,322
+Germany,2006,just10,10,227.89763582381352,wvs_combo,322
+Germany,2006,l_any2,1,1936.157010333602,allbus,322
+Germany,2006,l_any2,2,1290.5869977293858,allbus,322
+Germany,2006,l_defect2,1,372.3958269584076,allbus,322
+Germany,2006,l_defect2,2,2918.787830659442,allbus,322
+Germany,2006,l_health2,1,201.0089849082589,allbus,322
+Germany,2006,l_health2,2,3128.585479385908,allbus,322
+Germany,2006,l_nomore2,1,1740.7547137650276,allbus,322
+Germany,2006,l_nomore2,2,1513.1473497528525,allbus,322
+Germany,2006,l_poor2,1,1764.476967408579,allbus,322
+Germany,2006,l_poor2,2,1475.0473230318908,allbus,322
+Germany,2006,l_rape2,1,321.0296606559026,allbus,322
+Germany,2006,l_rape2,2,2959.0763229892277,allbus,322
+Germany,2006,l_single2,1,2252.5952879810943,allbus,322
+Germany,2006,l_single2,2,1019.5580435473025,allbus,322
+Germany,2008,a_defect4,1,215.36277705427597,issp2008,322
+Germany,2008,a_defect4,2,176.29697098396542,issp2008,322
+Germany,2008,a_defect4,3,306.5163245516672,issp2008,322
+Germany,2008,a_defect4,4,802.35155544407,issp2008,322
+Germany,2008,a_nomore2,1,857.7515544596458,evs_combo,322
+Germany,2008,a_nomore2,2,903.9475173710489,evs_combo,322
+Germany,2008,a_poor4,1,558.9415330059813,issp2008,322
+Germany,2008,a_poor4,2,334.56356993547985,issp2008,322
+Germany,2008,a_poor4,3,289.4876398543523,issp2008,322
+Germany,2008,a_poor4,4,247.41677177863332,issp2008,322
+Germany,2008,a_single2,1,832.9153046739009,evs_combo,322
+Germany,2008,a_single2,2,923.1915854336681,evs_combo,322
+Germany,2008,just10,1,437.1308889179336,evs_combo,322
+Germany,2008,just10,2,154.55571595402887,evs_combo,322
+Germany,2008,just10,3,202.22694661009228,evs_combo,322
+Germany,2008,just10,4,163.927103553939,evs_combo,322
+Germany,2008,just10,5,329.1131077630554,evs_combo,322
+Germany,2008,just10,6,173.7407708132812,evs_combo,322
+Germany,2008,just10,7,163.12228722379476,evs_combo,322
+Germany,2008,just10,8,215.13198586913134,evs_combo,322
+Germany,2008,just10,9,57.08320590565832,evs_combo,322
+Germany,2008,just10,10,120.4054797651783,evs_combo,322
+Germany,2012,l_any2,1,963.827791017469,allbus,322
+Germany,2012,l_any2,2,671.4581551985821,allbus,322
+Germany,2012,l_defect2,1,200.0187870929642,allbus,322
+Germany,2012,l_defect2,2,1427.9555082737286,allbus,322
+Germany,2012,l_health2,1,87.96358841798353,allbus,322
+Germany,2012,l_health2,2,1575.6870184808427,allbus,322
+Germany,2012,l_nomore2,1,840.5314924915347,allbus,322
+Germany,2012,l_nomore2,2,800.533931455899,allbus,322
+Germany,2012,l_poor2,1,948.5027672906926,allbus,322
+Germany,2012,l_poor2,2,672.6724727047466,allbus,322
+Germany,2012,l_rape2,1,167.62169415910878,allbus,322
+Germany,2012,l_rape2,2,1475.1191511478517,allbus,322
+Germany,2012,l_single2,1,1156.4576898239613,allbus,322
+Germany,2012,l_single2,2,483.49078655045463,allbus,322
+Germany,2013,just10,1,460.3329550882959,wvs_combo,322
+Germany,2013,just10,2,133.39367451656838,wvs_combo,322
+Germany,2013,just10,3,206.6237320250696,wvs_combo,322
+Germany,2013,just10,4,151.13447585075482,wvs_combo,322
+Germany,2013,just10,5,402.0791338954754,wvs_combo,322
+Germany,2013,just10,6,187.31765946237346,wvs_combo,322
+Germany,2013,just10,7,128.02891989670377,wvs_combo,322
+Germany,2013,just10,8,133.31637405208505,wvs_combo,322
+Germany,2013,just10,9,44.860275119511435,wvs_combo,322
+Germany,2013,just10,10,156.3168832822157,wvs_combo,322
+Germany,2013,moral3,1,194.78264451178714,pew2013,322
+Germany,2013,moral3,2,258.4022713626139,pew2013,322
+Germany,2013,moral3,3,440.77126920069986,pew2013,322
+Germany,2017,just10,1,269.8597645890189,evs2017,322
+Germany,2017,just10,2,66.71809678031093,evs2017,322
+Germany,2017,just10,3,106.54979635064582,evs2017,322
+Germany,2017,just10,4,74.68443669437791,evs2017,322
+Germany,2017,just10,5,445.11924269849237,evs2017,322
+Germany,2017,just10,6,147.3772884102391,evs2017,322
+Germany,2017,just10,7,173.26789313095676,evs2017,322
+Germany,2017,just10,8,204.1374602979663,evs2017,322
+Germany,2017,just10,9,101.57083390435396,evs2017,322
+Germany,2017,just10,10,476.9846023547603,evs2017,322
+Germany,2017,l_ncca4,1,103.71492394696361,pewrel2017_we,322
+Germany,2017,l_ncca4,2,381.84003863777946,pewrel2017_we,322
+Germany,2017,l_ncca4,3,1304.5489176515123,pewrel2017_we,322
+Germany,2017,l_ncca4,4,381.38725988650384,pewrel2017_we,322
+Germany,2018,a_poor4,1,427.44928580602635,issp2018,322
+Germany,2018,a_poor4,2,251.9790472987718,issp2018,322
+Germany,2018,a_poor4,3,378.27050342059584,issp2018,322
+Germany,2018,a_poor4,4,510.824715546422,issp2018,322
+Germany,2018,just10,1,286.07911505062106,wvs7,322
+Germany,2018,just10,2,65.01798069332297,wvs7,322
+Germany,2018,just10,3,60.01659756306736,wvs7,322
+Germany,2018,just10,4,66.0182573193741,wvs7,322
+Germany,2018,just10,5,372.10290489101766,wvs7,322
+Germany,2018,just10,6,89.02461971854991,wvs7,322
+Germany,2018,just10,7,99.02738597906114,wvs7,322
+Germany,2018,just10,8,113.03125874377686,wvs7,322
+Germany,2018,just10,9,69.01908719752747,wvs7,322
+Germany,2018,just10,10,261.072199399343,wvs7,322
 Poland,1989,just10,1,378.313651266196,wvs_combo,293
 Poland,1989,just10,2,79.06555145510447,wvs_combo,293
 Poland,1989,just10,3,86.07135981188587,wvs_combo,293
@@ -9725,6 +9733,24 @@ Yemen,2014,just10,7,26.02157389661666,wvs_combo,10
 Yemen,2014,just10,8,30.024892957634606,wvs_combo,10
 Yemen,2014,just10,9,14.011616713562816,wvs_combo,10
 Yemen,2014,just10,10,21.017425070344224,wvs_combo,10
+3,1980,free4,1,97,pa_w2,9
+3,1980,free4,2,198,pa_w2,9
+3,1980,free4,3,328,pa_w2,9
+3,1980,free4,4,130,pa_w2,9
+3,2014,restrict5,1,271,gps2014,9
+3,2014,restrict5,2,314,gps2014,9
+3,2014,restrict5,3,579,gps2014,9
+3,2014,restrict5,4,960,gps2014,9
+3,2014,restrict5,5,2344,gps2014,9
+4,1980,free4,1,106,pa_w2,9
+4,1980,free4,2,209,pa_w2,9
+4,1980,free4,3,300,pa_w2,9
+4,1980,free4,4,147,pa_w2,9
+4,2014,restrict5,1,18,gps2014,9
+4,2014,restrict5,2,25,gps2014,9
+4,2014,restrict5,3,51,gps2014,9
+4,2014,restrict5,4,131,gps2014,9
+4,2014,restrict5,5,383,gps2014,9
 Brunei,2004,just10,1,675.6652872308524,asiab2004,8
 Brunei,2004,just10,2,68.27990082121735,asiab2004,8
 Brunei,2004,just10,3,21.401162943963648,asiab2004,8
@@ -9844,11 +9870,6 @@ Suriname,2019,a_poor4,4,44.77941592649639,issp2018,6
 29,2014,restrict5,3,1455,gps2014,5
 29,2014,restrict5,4,3641,gps2014,5
 29,2014,restrict5,5,12889,gps2014,5
-3,2014,restrict5,1,271,gps2014,5
-3,2014,restrict5,2,314,gps2014,5
-3,2014,restrict5,3,579,gps2014,5
-3,2014,restrict5,4,960,gps2014,5
-3,2014,restrict5,5,2344,gps2014,5
 36,2014,restrict5,1,879,gps2014,5
 36,2014,restrict5,2,724,gps2014,5
 36,2014,restrict5,3,1193,gps2014,5
@@ -9864,11 +9885,6 @@ Suriname,2019,a_poor4,4,44.77941592649639,issp2018,6
 38,2014,restrict5,3,1778,gps2014,5
 38,2014,restrict5,4,2243,gps2014,5
 38,2014,restrict5,5,1151,gps2014,5
-4,2014,restrict5,1,18,gps2014,5
-4,2014,restrict5,2,25,gps2014,5
-4,2014,restrict5,3,51,gps2014,5
-4,2014,restrict5,4,131,gps2014,5
-4,2014,restrict5,5,383,gps2014,5
 5,2014,restrict5,1,2863,gps2014,5
 5,2014,restrict5,2,3711,gps2014,5
 5,2014,restrict5,3,6791,gps2014,5
