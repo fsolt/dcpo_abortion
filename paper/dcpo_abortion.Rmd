@@ -320,6 +320,24 @@ save(dcpo_input, file = here::here("data", "dcpo_input_public.rda"))
 ## Abortion: Global Status and Attitudes
 
 [Literature review]
+The issue of the reproductive rights of women has generated increasing global attention in recent years.
+In September 2016, independent human rights experts from UN urged countries to remove laws and policies related to abortion (Special Procedures of the Human Rights Council, 2016) and, in 2018, UN Human Rights committee asserts that access to abortion should be regarded as one of human rights.
+With the increased saliency of abortion issue, a wide array of scholars has examined the public opinion toward abortion (see, e.g., Combs and Welch 1982; Barreiro 1998; Arceneaux 2002; Blofield 2006; Brickman and Peterson; Cook 2019).
+Especially, unveiling the factors determining the public opinion toward abortion has been one of the main topics in the literature of abortion (see, e.g., Jelen and Wilcox 2003; Wang and Buffalo 2004; Adamczyk 2013; Loll and Hall 2019; Adamczyk, Kim, and Dillon 2020).
+Rather than reaching a consensus, scholars have focused on different sets of explanatory variables affecting attitude toward abortion.
+Some scholars argue that individual characteristics such as religiosity are the main factors determining the attitude toward abortion (see, e.g., Welch et al. 1995; Evans 2002; Ellison, Echevarria, and Smit 2005; Adamczyk 2018), while others emphasize the role of socio-demographic factors on abortion attitude (see, e.g., Adebayo 1990; Bose and Trent 2006; Rossier 2007).
+
+[I can add summary of previous findings according to regions: for example, US and Outside of US.
+[Maybe we can introduce our explanatory variables here with previous literature, the length and focus of literature review can depend on our set of control variables / I can add summary of previous findings according to the focused explanatory variables].
+
+However, the absence of comparable index measuring public attitude towards abortion prevents us from testing which kinds of variables examine the variations among public attitude toward abortion at the aggregated-level and from the generalizability of the previous findings.
+In this article, we introduce the dataset about public attitude towards abortion.
+[Simple Explanation about our brand-new dataset].
+[Explanation about results]
+This article proceeds with the following orders.
+[Explanation about our paper organization].
+
+
 
 ## What Alters Abortion Attitudes: Alternative Explanations
 
