@@ -314,10 +314,125 @@ In the next section, we describe how we are able to make use of all of this spar
 dcpo_input <- DCPOtools::format_dcpo(dcpo_input_raw1,
                                             scale_q = "just10",
                                             scale_cp = 5)
-save(dcpo_input, file = here::here("data", "dcpo_input_public.rda"))
+save(dcpo_input, file = here::here("data", "dcpo_input.rda"))
 ```
 
 ## Abortion: Global Status and Attitudes
+
+
+```{r dcpo, eval=FALSE}
+iter <- 5000
+
+dcpo_output <- dcpo(dcpo_input,
+                    iter = iter,
+                    chains = 4,
+                    thin = iter/500, # this yields 250 draws per chain, 1000 draws total
+                    pars = c("sd_delta","sd_theta_evolve", "sd_sigma_evolve", "sigma","phi","beta","alpha","delta","theta","y_r_pred","log_lik"))
+```
+
+```{r dcpo_results}
+load(here::here("data", "just10_5_4k_04-08.rda"))
+
+save(dcpo_input, file = here::here("data", "dcpo_input.rda"))
+
+save(dcpo_output, file = here::here("data", "dcpo_output.rda"))
+```
+
+```{r dcpo_results_summary}
+load(here::here("data", "dcpo_input.rda"))
+load(here::here("data", "dcpo_output.rda"))
+
+theta_results <- DCPO::summarize_dcpo_results(dcpo_input,
+                                              dcpo_output,
+                                              "theta")
+
+res_cy <- nrow(theta_results) %>% 
+  scales::comma()
+
+res_c <- theta_results %>% 
+  pull(country) %>% 
+  unique() %>% 
+  length()
+```
+
+
+```{r cs_plot, fig.cap="Abortion Opinion Scores, Most Recent Available Year \\label{cs_mry}", fig.height=10, fig.width=8}
+
+n_panes <- 2
+axis_text_size <- 10
+
+p1_data <- theta_results %>%
+  group_by(country) %>%
+  top_n(1, year) %>%
+  ungroup() %>%
+  arrange(mean) %>%
+  transmute(country_year = paste0(country, " (", year, ")") %>% 
+              str_replace("’", "'"),
+            estimate = mean,
+            conf.high = `90%`,
+            conf.low = `10%`,
+            pane = n_panes - (ntile(mean, n_panes) - 1),
+            ranked = as.factor(ceiling(row_number())))
+
+p_theta <- ggplot(p1_data,
+                  aes(x = estimate, y = ranked)) +
+  geom_segment(aes(x = conf.low, xend = conf.high,
+                   y = ranked, yend = ranked),
+               na.rm = TRUE,
+               alpha = .4) +
+  geom_point(fill = "black", shape = 21, size = .5, na.rm = TRUE) +
+  theme_bw() + theme(legend.position="none",
+                     axis.text.x  = element_text(size = axis_text_size,
+                                                 angle = 90,
+                                                 vjust = .45,
+                                                 hjust = .95),
+                     axis.text.y  = element_text(size = axis_text_size),
+                     axis.title = element_blank(),
+                     strip.background = element_blank(), 
+                     strip.text = element_blank(),
+                     panel.grid.major = element_line(size = .3),
+                     panel.grid.minor = element_line(size = .15)) +
+  scale_y_discrete(breaks = p1_data$ranked, labels=p1_data$country_year) +
+  coord_cartesian(xlim=c(0, 1)) +
+  facet_wrap(vars(pane), scales = "free", nrow = 1)
+
+
+p_theta +
+  plot_annotation(caption = "Note: Gray whiskers represent 80% credible intervals.")
+
+```
+
+```{r ts_plots, fig.cap="Abortion Opinion Scores Over Time Within Selected Countries \\label{ts}", fig.height=3.5}
+countries <- c("Sweden", "France", "Spain", "Ireland",
+               "United States", "Germany", "Chile", "Italy",
+               "Russia", "South Korea", "Poland", "Argentina", 
+               "Mexico", "South Africa", "Philippines", "China")
+
+countries2 <- c("Sweden", "France", "Spain", "Ireland",
+               "U.S.", "Germany", "Chile", "Italy",
+               "Russia", "South Korea", "Poland", "Argentina", 
+               "Mexico", "South Africa", "Philippines", "China")
+
+theta_results %>%
+  filter(country %in% countries) %>%
+  mutate(country = str_replace(country, "United States", "U.S.") %>% 
+           factor(levels = countries2)) %>% 
+  ggplot(aes(x = year, y = mean)) +
+  geom_ribbon(aes(ymin = `10%`, ymax = `90%`, linetype=NA), alpha = .25) +
+  geom_line() +
+  theme_bw() +
+  theme(legend.position="none") +
+  coord_cartesian(xlim = c(1980, 2020), ylim = c(0, 1)) +
+  labs(x = NULL, y = "Abortion Opinion Scores") +
+  facet_wrap(~country, nrow = 2) +
+  theme(axis.text.x  = element_text(size=7,
+                                    angle = 90,
+                                    vjust = .45,
+                                    hjust = .95),
+        strip.background = element_rect(fill = "white", colour = "white")) +
+  plot_annotation(caption = "Note: Countries are ordered by their abortion opinion scores in their most recent\navailable year; gray shading represents 80% credible intervals.")
+```
+
 
 [Literature review]
 
