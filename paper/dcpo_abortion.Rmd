@@ -63,7 +63,7 @@ set.seed(324)
 ```
 
 ```{r dcpo_input_raw, include=FALSE}
-surveys_ab <- read_csv(here::here("data-raw", "surveys_abortion2.csv"),
+surveys_ab <- read_csv(here::here("data-raw", "surveys_abortion.csv"),
                         col_types = "cccccc")
 
 dcpo_input_raw <- DCPOtools::dcpo_setup(vars = surveys_ab,
