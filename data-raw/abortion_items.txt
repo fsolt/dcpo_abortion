@@ -135,6 +135,11 @@ Do you think a woman should: always have a choice to have an abortion regardless
 		X allbus
 		X npes_combo
 
+
+Below is a number of proposals that have appeared in the political debate. What is your opinion on each of them? - Limit the right to abortion
+	limit5:
+		X som_combo
+
 *Next, I’m going to read some behaviors.  For each, please tell me whether you personally believe that it is morally acceptable, morally wrong, or is it not a moral issue? Abortion
 	moral3:
 		X pewrel2009_afr
@@ -170,3 +175,8 @@ attitude toward right to abortion positive or negative (5 point)
 
 The couple (or woman) should never have the right to resort to abortion (4 point)
 	ptev2006
+
+The decision to have an abortion should be the responsibility        
+          of the pregnant woman. (5 point)
+cnes1984
+

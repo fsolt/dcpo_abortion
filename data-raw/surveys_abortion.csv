@@ -284,6 +284,7 @@ gallup_us196909,l_health2,q44a,"c(2, 1)"
 gallup_us196909,l_defect2,q44b,"c(2, 1)"
 gallup_us196909,l_poor2,q44c,"c(2, 1)"
 gallup_us196909,l_nomore2,q44d,"c(2, 1)"
+gallup_us198606a,l_nca3,q14,c(3:1)
 gps2014,restrict5,answer_21,c(5:1)
 iccp2004,l_nca3,h9,"c(2,3,1)"
 iccp2010,l_nca3,h9,"c(2,3,1)"
@@ -393,6 +394,8 @@ prri2011_mra,l_single2,q10e,"c(2, 1)"
 prri2011_mra,l_ncca4,q6,c(4:1)
 ptvs2008,free5,ccs_g21_11,c(1:5)
 ptvs2012,free5,h.25.6,c(1:5)
+som_combo,limit5,bb900c,c(1:5)
+som_combo,limit5,bb901d,c(1:5)
 usap198009,l_doctor2,q19,"c(2, 1)"
 usap198010,l_doctor2,q24,"c(2, 1)"
 usap198901,l_doctor2,ai1,"c(2, 1)"

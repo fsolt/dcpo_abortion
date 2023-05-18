@@ -63,8 +63,8 @@ set.seed(324)
 ```
 
 ```{r dcpo_input_raw, include=FALSE}
-surveys_ab <- read_csv(here::here("data-raw", "surveys_abortion.csv"),
-                        col_types = "cccc")
+surveys_ab <- read_csv(here::here("data-raw", "surveys_abortion2.csv"),
+                        col_types = "cccccc")
 
 dcpo_input_raw <- DCPOtools::dcpo_setup(vars = surveys_ab,
                                         datapath = here::here("..",
@@ -79,7 +79,7 @@ dcpo_input_raw <- read_csv(here::here("data", "dcpo_input_raw.csv"),
 
 process_dcpo_input_raw <- function(dcpo_input_raw_df) {
   dcpo_input_raw_df %>% 
-  with_min_yrs(2) %>% 
+  with_min_yrs(3) %>% 
   with_min_cy(5) %>% 
   group_by(country) %>% 
   mutate(cc_rank = n()) %>% 
@@ -133,6 +133,8 @@ back_to_numeric <- function(string_number) {
     str_replace(",", "") %>% 
     as.numeric()
 }
+
+covered_share_of_spanned <- {back_to_numeric(n_cy)/back_to_numeric(spanned_cy) * 100}
 ```
 
 
